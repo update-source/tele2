@@ -1,3 +1,4 @@
+*.wolt.com
 *.anduril.au
 *.anduril.com
 *.anduril.com.au
