@@ -190,7 +190,6 @@ shop.parool.nl
 webwinkel.parool.nl
 www.parool.nl
 www.parool.nl/abonnementen
-https://www.kuleuven.be/sapredir/huisvesting
 humo.be/registreren
 myaccount.humo.be
 shop.humo.be
@@ -753,10 +752,10 @@ myservices.stage.vismaonline.com
 oauth.developers.stagaws.visma.com
 photoservice.stage.vismaonline.com
 Voi – e-scooters & e-bikes
-https://api.voiapp.io/
 Voi – e-scooter & e-bike hire
-fm.voiapp.io
+https://api.voiapp.io/
 mds.voiapp.io
+fm.voiapp.io
 https://repair.voiweb.net
 report.voi.com
 voi.com
