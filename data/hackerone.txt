@@ -1252,10 +1252,6 @@ login.rei.com
 rei.com
 api.mergify.com
 dashboard.mergify.com
-com.coinhako
-com.coinhako.app
-help.coinhako.com
-www.coinhako.com
 cdn.arkoselabs.com
 client-api.arkoselabs.com
 customer-sessions.arkoselabs.com
@@ -1662,6 +1658,7 @@ www.xvideos.red
 8x8 Communication APIs
 8x8 Partner Portal
 8x8-work
+8x8.cloud
 8x8.my.site.com
 ASN: AS10976
 ASN: AS133144
@@ -1701,6 +1698,7 @@ https://8x8.vc/xmpp-websocket
 https://github.com/jitsi
 https://webrtc.8x8.com/
 https://www.npmjs.com/package/@8x8/pui-partner-comm
+maestro.8x8.cloud
 mcp.8x8.com
 org.vom8x8.sipua
 pay.8x8.com
