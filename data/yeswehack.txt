@@ -428,6 +428,11 @@ www.tabac-info-service.fr
 https://my.sogexia.com
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
 itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
+https://apps.apple.com/id/app/superbank/id6444720285
+https://play.google.com/store/apps/details?id=id.co.bankfama.android&hl=en
+api.super-id.net
+ecosystem-experience.super-id.net
+superbank.id
 api.swapcard.com
 chat-api.swapcard.com/graphql
 developer.swapcard.com/event-admin/graphql
