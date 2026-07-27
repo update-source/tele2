@@ -108,6 +108,25 @@ shop.volkskrant.nl
 webwinkel.volkskrant.nl
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
+api.digital.delen.be 
+api.digital.delen.lu 
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
+auth.digital.delen.be 
+auth.digital.delen.lu 
+be.delen.digital
+delen/id1064839588
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
+login.oyens.com
+status.delen.be 
+sts.delen.be 
+www.cadelam.be 
+www.cadelux.lu/en 
+www.delen.bank
+www.delen.be/en 
 169.254.169.254
 api.digitalocean.com
 cloud.digitalocean.com
@@ -768,17 +787,6 @@ www.moneyback.com.hk
 Moneyback Android
 Moneyback iOS
 mapi.moneyback.com.hk
-authentication.wolt.com
-corporate.wolt.com
-drive.wolt.com
-merchant.wolt.com
-ops.wolt.com
-restaurant-api.wolt.com
-wolt.com
-Wolt Courier Partner
-Wolt Delivery: Food and more
-Wolt Delivery: Food and more
-Wolt Courier Partner
 7 News
 apis.mail.yahoo.com
 data.mail.yahoo.com
