@@ -592,10 +592,10 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
-OP-TEE
-Mbed TLS & TF-PSA-Crypto
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
+TF-PSA-Crypto
+OP-TEE
 autodiscover.uzleuven.be
 ecrf.uzleuven.be
 extranet-asa.uzleuven.be
