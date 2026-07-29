@@ -1421,13 +1421,17 @@ myaccount-cn.payoneer.com
 myaccount.payoneer.com
 payoneer.com.cn
 api.moonpay.com
+api.moonx-dev.com
+api.paybox.sh
 app.moonpay.com
+app.paybox.sh
 auth.moonpay.com
 buy.moonpay.com
 https://apps.apple.com/app/id1635031432
 https://github.com/moonpay
 https://play.google.com/store/apps/details?id=com.moonpay
 hypermint.com
+iframe.moonx-dev.com
 moonpay.com
 sell.moonpay.com
 web3.moonpay.com

@@ -3578,6 +3578,7 @@ api.mergify.com
 api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
+api.moonx-dev.com
 api.mtls.truelayer[-sandbox].com
 api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
@@ -3588,6 +3589,7 @@ api.omise.co
 api.ort-one-pingone.com
 api.ovh.com
 api.pab.porsche.com
+api.paybox.sh
 api.personio-dev.com
 api.personio.com
 api.pinterest.com
@@ -3737,6 +3739,7 @@ app.moonpay.com
 app.netlify.com
 app.nl.socialdeal
 app.nordpass.com
+app.paybox.sh
 app.pharmacy.superdrug.com
 app.pullrequest.com
 app.recordedfuture.com
@@ -9029,6 +9032,7 @@ idprotection.avast.com
 idprotection.avg.com
 ifast.marriott.com
 iframe.arkoselabs.com
+iframe.moonx-dev.com
 ifttt-adaptor.pub.kube.dm.gg
 ignite-dev.gleague.nba.com
 ignite-qa.gleague.nba.com
