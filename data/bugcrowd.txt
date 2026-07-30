@@ -1345,6 +1345,8 @@ https://www.malloftheemirates.com
 https://play.google.com/store/apps/details?id=com.belongi.moe
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
 https://api.mafshoppingmalls.com/
+https://partnerconnect.maf.ae/
+https://ecoupon.maf.ae/
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=cloud&tab=overview

@@ -1762,6 +1762,7 @@
 403684733
 406056744
 407558537
+410789057
 425194759
 427916203
 429704844
@@ -3606,6 +3607,7 @@ api.pns.hk
 api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
+api.posti.fi
 api.ppa.porsche.com
 api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
@@ -3832,6 +3834,7 @@ auth-identity-qa.nba.com
 auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
+auth-service.posti.fi
 auth.23andme.com
 auth.digital.delen.be 
 auth.digital.delen.lu 
@@ -4117,6 +4120,7 @@ cdn.localizestaging.com
 cdn.moderntreasury.com
 cdn.nba.com
 cdn.plaid.com
+cdn.posti.fi
 cdna.lystit.com
 cds.vrt.radio
 celinainsurance-idtheft.com
@@ -4655,6 +4659,7 @@ connect.arkane.network
 connect.arubanetworks.com
 connect.deezer.com
 connect.identity.stagaws.visma.com
+connect.posti.fi
 connect.secure.wellsfargo.com
 connect.venly.io
 console-backend.truelayer[-sandbox].com
@@ -4662,6 +4667,7 @@ console.anthropic.com
 console.circle.com
 console.dashlane.com
 console.ort-one-pingone.com
+console.posti.com
 console.tink.com
 console.truelayer[-sandbox].com
 contact-dev.nba.com
@@ -4866,6 +4872,7 @@ developer.konghq.com
 developer.metamask.io
 developer.mozilla.org
 developer.playcanvas.com
+developer.posti.com
 developer.swapcard.com/event-admin/graphql
 developer.valvesoftware.com
 developer.visa.com
@@ -4997,6 +5004,7 @@ eidhelp.marriott.com
 elastic.co credentials
 eligibility.khealth.com
 elm.nba.com
+elma.elma.fi
 em1198.bitstamp.net
 em4296.team.bitstamp.net
 em9457.team.bitstamp.net
@@ -5096,6 +5104,7 @@ fhdn.fareharbor.com
 fhir.developer.monespacesante.fr
 fhir.monespacesante.fr
 fhir.redoxengine.com
+fi.itella.posti.android
 fi.mariacasino.com
 fi.reworks.redecor
 fi.spankki
@@ -5170,6 +5179,7 @@ gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
 gateway.geneva-staging.chat
 gateway.geneva-staging.com
+gateway.posti.fi
 gateway.reddit.com
 gateway.skyscanner.net/*
 gateway.superhuman.com
@@ -6262,6 +6272,7 @@ https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vts
 https://ecohesion.aufbaubank.de
 https://ecosystem-experience.super-id.net
+https://ecoupon.maf.ae/
 https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|br|pt|ro|ru|com|tr|com.ua))
 https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua))
 https://edgeacademy.thetradedesk.com
@@ -6955,6 +6966,7 @@ https://keepersecurity.com/vault
 https://kiwi.partner.viator.com
 https://klaviyo.com/*
 https://knowledge.newrelic.com/
+https://kontakti.posti.fi
 https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://kyc-src.etoro.com
@@ -7680,6 +7692,7 @@ https://movienow-int.kinepolis.be/admin
 https://msaudience.com
 https://mstatic.usaa.com
 https://multipay-staging.test.komoju.com
+https://my.account.posti.fi
 https://my.arlo.com
 https://my.electroneum.com/
 https://my.elementor.com/
@@ -7691,6 +7704,9 @@ https://my.exness.com/webtrading/
 https://my.mintmobile.com
 https://my.planethoster.com
 https://my.salt.ch
+https://my.smartposti.ee/
+https://my.smartposti.lt
+https://my.smartposti.lv
 https://my.sogexia.com
 https://my.thesecurityteam.rocks
 https://my.ultramobile.com
@@ -7750,6 +7766,7 @@ https://ofa.adx.opera.com
 https://offer.tidal.com/download
 https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
+https://oma.posti.fi/
 https://onboard.neogov.com
 https://one-sit.uat.proptrack.com/
 https://one.newrelic.com
@@ -7802,6 +7819,7 @@ https://partnerapi.imoulife.com
 https://partnerapi.tapayments.com
 https://partnerapi1.tapayments.com
 https://partnerapi2.tapayments.com
+https://partnerconnect.maf.ae/
 https://partnerhelp.viator.com/
 https://partners.etoro.com
 https://partners.usaa.com
@@ -8079,10 +8097,12 @@ https://pprd.cybermalveillance.gouv.fr
 https://preprod-datahub.xelians.fr/
 https://preprod-xam.xelians.fr/
 https://priceless.com/golf/
+https://printerdriver.posti.com/
 https://privacy.blismedia.com
 https://privateinternetaccess.com/api/client/v5
 https://pro.dailymotion.com/
 https://pro.onedoc.ch
+https://pro.posti.fi
 https://prod.euid.eu
 https://prod.uidapi.com
 https://productasset.pnimedia.com/
@@ -8109,6 +8129,7 @@ https://push-n-hap.cloud.etoro.com
 https://push-real-hk-lightstreamer.cloud.etoro.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
+https://quicksight.aws.amazon.com
 https://r.etoro.com
 https://radio.api.soundtrackyourbrand.com/
 https://rankings.etoro.com
@@ -8209,6 +8230,7 @@ https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
+https://shop.posti.fi
 https://sign.originzero.com.au
 https://signal.pulsepoint.com/hcp365/#/dashboard/advertiser/6603/overview
 https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
@@ -8413,6 +8435,7 @@ https://trello.com/power-ups/6052d130068a8c0de7b022b4
 https://tria.ge
 https://trm.pinelabs.ae
 https://tsock.us1.twilio.com
+https://tuleasiakkaaksi.posti.fi
 https://twilio.com/blog
 https://u.oppomobile.com/
 https://uae.voxcinemas.com/
@@ -8833,6 +8856,7 @@ https://www.planethoster.com
 https://www.polkaudio.com
 https://www.pornhub.com/
 https://www.pornhubpremium.com/
+https://www.posti.fi
 https://www.powerman.co.uk/
 https://www.premogiftcards.com
 https://www.premogiftcards.com/
@@ -8858,6 +8882,9 @@ https://www.shffls.com
 https://www.shiseido.me/
 https://www.skidxb.com/
 https://www.skroutz.gr
+https://www.smartposti.ee
+https://www.smartposti.lt
+https://www.smartposti.lv
 https://www.sncf-connect.com
 https://www.sncf-connect.com/bff
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
@@ -8949,6 +8976,7 @@ https://www.water-link-jaarverslag.be
 https://www.water-link.be
 https://www.waterstoring.be/
 https://www.webmd.com
+https://www.webproteus.com/lpro-web/login
 https://www.weebly.com/
 https://www.whosampled.com/
 https://www.wien.gv.at
@@ -8976,6 +9004,7 @@ https://yeswehack.com
 https://yeswehack.staging.komoju.com
 https://youcouldbe.com
 https://yourdelivery.de
+https://yrityksennoutopiste.posti.fi
 https://zhongbao-ear.heytap.com/
 https://zhongbao.heytap.com/
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
@@ -9026,6 +9055,7 @@ id.logi.com
 id.nba.com
 id.oppo.com
 id.portswigger.net
+id.posti.fi
 id.recordedfuture.com
 id.stg.inspectorio.com
 id.superhuman.com
@@ -9162,6 +9192,7 @@ itv7.itv.com
 ius.ezvizlife.com
 ix2smbdyjt.infomaniak.site
 j.root-servers.net (DNS service; DNS related)
+jakelu.posti.fi
 jeux-concours.marionnaud.fr
 jimmobile.be
 jira.grab.com
@@ -9327,6 +9358,7 @@ logistica.redelcom.cl
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
+logout.id.posti.fi
 logs-partners.tw.coupang.com
 logs-platform.fr.cloud.gov
 logs.dashlane.com
@@ -9524,6 +9556,7 @@ metasearch-api.booking.com
 metrics.int.remitly.com
 meu1.badoo.com
 mexicogames.nba.com
+mfa.posti.fi
 mfa.simplisafe.com
 mgm.mobilevikings.be
 mgmt-sensors.iris.acceptance.forescoutcloud.net
@@ -9662,6 +9695,7 @@ net.wooga.switchcraft.googleplay
 net.wooga.tropicats_tropical_cats_puzzle_paradise
 netlify-cdp-loader.netlify.app
 netlify-rum.netlify.app
+netposti.fi
 nettle-rs
 nettle-sys
 networkguard.com
@@ -9740,6 +9774,7 @@ nextcloud/user_oidc
 nextcloud/user_saml
 nextcloud/viewer
 nextcloud/workflow_script
+nextshipping.posti.fi
 nft.coinbase.com
 nft.io
 nha-cf.*.aws.indriverapp.com
@@ -9828,6 +9863,7 @@ org.piwik.mobile2
 org.toshi
 org.toshi.distribution
 org.vom8x8.sipua
+orgadmin-ext.prd.account.posticloud.fi
 origenapp.com
 origenbanking.com
 origencard.com
@@ -9866,6 +9902,7 @@ partners.deriv.com
 partners.etoro.com
 partners.shopify.com
 partners.tw.coupang.com
+partnerselfservice.posti.fi
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
@@ -9925,6 +9962,7 @@ photo.kruidvat.be
 photos.adobe.io
 photoservice.stage.vismaonline.com
 photoshop.adobe.com
+picc.posti.fi
 pigeon.swiftfinancial.com
 pipe.deezer.com
 plaid.com
@@ -10021,6 +10059,8 @@ portland-dev.wnba.com
 portland-qa.wnba.com
 portland.wnba.com
 portswigger.net
+posti.com
+postikuori.posti.fi
 pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
@@ -10688,7 +10728,9 @@ timepeacesconfigurator.porsche-design.com
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
 tlfr.prod.tomorrowland.com
+tnt.posti.com
 tock.18f.gov
+todentaminen.posti.fi
 todo.notebleue.pro
 tokens.grammarly.com
 tomoe.bykea.net
@@ -11218,6 +11260,7 @@ www.pns.hk
 www.pornbox.com
 www.pornworld.com
 www.portofantwerpbruges.com
+www.posti.se
 www.pourvous.nl
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
@@ -11423,6 +11466,7 @@ xn--porsche-wrzburg-7vb.de
 xs2a.banking.playground.klarna.com
 xtramile.grabpay.com
 yelptop100.com
+yhteystietoni.posti.fi
 yimg.com
 you.23andme.com
 your-assigned-subdomain.files.com
@@ -11435,6 +11479,7 @@ yourdomain.freshdesk.com
 yourdomain.freshrelease.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yritysmuutto.posti.fi
 ywh.admin.zecible.fr
 ywh.api.zecible.fr
 ywh.comptage.zecible.fr

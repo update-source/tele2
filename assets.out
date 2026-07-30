@@ -1031,9 +1031,6 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tumblr.com
@@ -1512,6 +1509,7 @@
 403684733
 406056744
 407558537
+410789057
 425194759
 427916203
 434613896
@@ -1812,7 +1810,6 @@ Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
 Burp Suite Pro/Community
-C# SDK
 C100447517
 C103149579
 C2PA Tool
@@ -2115,7 +2112,6 @@ Infrastructure & Internal Apps/Services
 Insomnia CLI (inso)
 Insomnia Desktop Client
 Intellectual Property on Public Domains
-Java SDK
 Jetpack
 Jira
 Jira Projects
@@ -2349,7 +2345,6 @@ Other assets
 Other assets owned by Personio
 Other non-production infrastructure
 Other related e-commerce services
-PHP SDK
 PIA VPN servers
 PNS Android
 PNS iOS
@@ -2376,7 +2371,6 @@ Product Delivery
 Protocol of the Swiss Post Voting System
 Public API
 Public Others Target
-React Native SDK
 Recon Data
 Recruitment services
 Relational Migrator
@@ -2398,7 +2392,6 @@ Roblox Client
 Roblox Engine
 Roblox Studio
 Rockstar Games Launcher
-Rust SDK
 SAP AI Core
 SAP Business Network for Asset Collaboration
 SAP Business Network for Logistics	
@@ -2572,8 +2565,6 @@ Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
 Tribal Wars
-TrueLayer for Magento (Magento plugin)
-TrueLayer for WooCommerce (WordPress plugin)
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
@@ -2655,7 +2646,6 @@ Watsons Turkey iOS
 Watsons Vietnam Android
 Watsons Vietnam iOS
 Web Playback SDK
-Web SDK
 Web3 - Smart Contracts Scope
 Web3 Smart Contracts
 Whatnot: Shop, Sell, Connect
@@ -2960,7 +2950,6 @@ api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
 api.moonx-dev.com
-api.mtls.truelayer[-sandbox].com
 api.nba.com
 api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
@@ -2976,6 +2965,7 @@ api.pns.hk
 api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
+api.posti.fi
 api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
@@ -3014,7 +3004,6 @@ api.taxjar.com
 api.theperfumeshop.com
 api.tidal.com
 api.trello.com
-api.truelayer[-sandbox].com
 api.tumblr.com
 api.twilio.com
 api.unleashed.be
@@ -3113,7 +3102,6 @@ app.superdrug.com
 app.swapcard.com
 app.taxjar.com
 app.theperfumeshop.com
-app.truelayer[-sandbox].com
 app.uma.money
 app.watsons.com.tr
 app.whoop.com
@@ -3164,6 +3152,7 @@ auth-identity-qa.nba.com
 auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
+auth-service.posti.fi
 auth.23andme.com
 auth.digital.delen.be 
 auth.digital.delen.lu 
@@ -3171,14 +3160,12 @@ auth.dmp.gouv.fr
 auth.magic.link
 auth.monespacesante.fr
 auth.moonpay.com
-auth.mtls.truelayer[-sandbox].com
 auth.ort-one-pingone.com
 auth.preprod.monespacesante.fr
 auth.privy.io
 auth.remitly.com
 auth.services.adobe.com
 auth.skypicker.com
-auth.truelayer[-sandbox].com
 auth0.com	
 auth0.gocardless.com
 auth0.net
@@ -3396,6 +3383,7 @@ cdn.gleague.nba.com
 cdn.moderntreasury.com
 cdn.nba.com
 cdn.plaid.com
+cdn.posti.fi
 cdna.lystit.com
 cewe.kruidvat.be
 cewe.kruidvat.nl
@@ -3848,14 +3836,14 @@ connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network 
 connect.identity.stagaws.visma.com
+connect.posti.fi
 connect.secure.wellsfargo.com
 connect.venly.io
-console-backend.truelayer[-sandbox].com
 console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
+console.posti.com
 console.tink.com
-console.truelayer[-sandbox].com
 contact-dev.nba.com
 contact-qa.nba.com
 contact.nba.com
@@ -4029,6 +4017,7 @@ developer.infomaniak.com
 developer.konghq.com
 developer.mozilla.org
 developer.playcanvas.com
+developer.posti.com
 developer.swapcard.com/event-admin/graphql
 developer.valvesoftware.com
 developer.visa.com
@@ -4126,6 +4115,7 @@ efast.marriott.com
 effecthouse.tiktok.com
 eidhelp.marriott.com
 elm.nba.com
+elma.elma.fi
 emag.vinci.com
 embed.tumblr.com
 embed.vhx.tv
@@ -4195,6 +4185,7 @@ fhdn.fareharbor.com
 fhir.developer.monespacesante.fr
 fhir.monespacesante.fr
 fhir.redoxengine.com
+fi.itella.posti.android
 fi.mariacasino.com
 fi.reworks.redecor
 fi.spankki
@@ -4259,6 +4250,7 @@ gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
 gateway.geneva-staging.chat
 gateway.geneva-staging.com
+gateway.posti.fi
 gateway.reddit.com
 gateway.skyscanner.net/*
 gateway.superhuman.com
@@ -5114,6 +5106,7 @@ https://ebctest.cybersource.com/tss
 https://ebctest.cybersource.com/ums
 https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vts
+https://ecoupon.maf.ae/
 https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua))
 https://edgeacademy.thetradedesk.com
 https://edgeapis.onecloud.harman.com
@@ -5514,6 +5507,7 @@ https://keepersecurity.com/vault
 https://kiwi.partner.viator.com
 https://klaviyo.com/*
 https://knowledge.newrelic.com/
+https://kontakti.posti.fi
 https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://kyc.ripio.com/
@@ -6174,6 +6168,7 @@ https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://move.monash.edu/
 https://mstatic.usaa.com
+https://my.account.posti.fi
 https://my.arlo.com
 https://my.elementor.com/
 https://my.exness.com/pa/pim/manager
@@ -6181,6 +6176,9 @@ https://my.exness.com/webtrading/
 https://my.mintmobile.com
 https://my.planethoster.com
 https://my.salt.ch
+https://my.smartposti.ee/
+https://my.smartposti.lt
+https://my.smartposti.lv
 https://my.sogexia.com
 https://my.ultramobile.com
 https://my.wpengine.com
@@ -6231,6 +6229,7 @@ https://ofa.adx.opera.com
 https://offer.tidal.com/download
 https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
+https://oma.posti.fi/
 https://onboard.neogov.com
 https://one-sit.uat.proptrack.com/
 https://one.newrelic.com
@@ -6275,6 +6274,7 @@ https://partnerapi.imoulife.com
 https://partnerapi.tapayments.com
 https://partnerapi1.tapayments.com
 https://partnerapi2.tapayments.com
+https://partnerconnect.maf.ae/
 https://partnerhelp.viator.com/
 https://partners.usaa.com
 https://partners.viator.com
@@ -6516,8 +6516,10 @@ https://pprd.cybermalveillance.gouv.fr
 https://preprod-datahub.xelians.fr/
 https://preprod-xam.xelians.fr/
 https://priceless.com/golf/
+https://printerdriver.posti.com/
 https://privacy.blismedia.com
 https://privateinternetaccess.com/api/client/v5
+https://pro.posti.fi
 https://prod.euid.eu
 https://prod.uidapi.com
 https://production-delivery-metrics-svc.vistarmedia.com
@@ -6530,6 +6532,7 @@ https://property.com.au
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
+https://quicksight.aws.amazon.com
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
@@ -6598,6 +6601,7 @@ https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
+https://shop.posti.fi
 https://sign.originzero.com.au
 https://signal.pulsepoint.com/hcp365/#/dashboard/advertiser/6603/overview
 https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
@@ -6731,6 +6735,7 @@ https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
 https://tria.ge
 https://trm.pinelabs.ae
+https://tuleasiakkaaksi.posti.fi
 https://u.oppomobile.com/
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
@@ -7038,6 +7043,7 @@ https://www.pinelabs.us
 https://www.pixpay.fr/
 https://www.planethoster.com
 https://www.polkaudio.com
+https://www.posti.fi
 https://www.premogiftcards.com/
 https://www.priceline.com/pwd/v0/pcln-graphql/
 https://www.privateinternetaccess.com/download/linux-vpn
@@ -7058,6 +7064,9 @@ https://www.shffls.com
 https://www.shiseido.me/
 https://www.skidxb.com/
 https://www.skroutz.gr
+https://www.smartposti.ee
+https://www.smartposti.lt
+https://www.smartposti.lv
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 https://www.sophos.com/
 https://www.sophos.com/en-us/products
@@ -7124,6 +7133,7 @@ https://www.water-link-jaarverslag.be
 https://www.water-link.be
 https://www.waterstoring.be/
 https://www.webmd.com
+https://www.webproteus.com/lpro-web/login
 https://www.weebly.com/
 https://www.whosampled.com/
 https://www.wien.gv.at
@@ -7145,6 +7155,7 @@ https://yeswehack.com
 https://yeswehack.staging.komoju.com
 https://youcouldbe.com
 https://yourdelivery.de
+https://yrityksennoutopiste.posti.fi
 https://zhongbao-ear.heytap.com/
 https://zhongbao.heytap.com/
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
@@ -7184,6 +7195,7 @@ id.logi.com
 id.nba.com
 id.oppo.com
 id.portswigger.net
+id.posti.fi
 id.stg.inspectorio.com
 id.superhuman.com
 id.tw.coupang.com
@@ -7287,6 +7299,7 @@ itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itv7.itv.com
 ix2smbdyjt.infomaniak.site
 j.root-servers.net (DNS service; DNS related)
+jakelu.posti.fi
 jeux-concours.marionnaud.fr
 jimmobile.be
 jira.hyattdev.com
@@ -7384,7 +7397,6 @@ logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
-login-api.truelayer[-sandbox].com
 login-dev.nba.com
 login-qa.nba.com
 login-sandbox.nba.com
@@ -7405,7 +7417,6 @@ login.rei.com
 login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
-login.truelayer[-sandbox].com
 login.venly.io
 login.www.vaxvacationaccess.com
 logiq.logitech.io
@@ -7413,6 +7424,7 @@ logistica.redelcom.cl
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
+logout.id.posti.fi
 logs-partners.tw.coupang.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
@@ -7582,6 +7594,7 @@ metasearch-api.booking.com
 metrics.int.remitly.com
 meu1.badoo.com
 mexicogames.nba.com
+mfa.posti.fi
 mfa.simplisafe.com
 mgm.mobilevikings.be
 mgmt-sensors.iris.acceptance.forescoutcloud.net
@@ -7695,6 +7708,7 @@ net.wooga.switchcraft.googleplay
 net.wooga.tropicats_tropical_cats_puzzle_paradise
 netlify-cdp-loader.netlify.app
 netlify-rum.netlify.app
+netposti.fi
 networkguard.com
 new-order.eu-east-1.indriverapp.com
 new.express.adobe.com
@@ -7707,6 +7721,7 @@ newsletter.infomaniak.com
 newsos.com
 newsroom.images.hyatt.com
 next.airbnb.com
+nextshipping.posti.fi
 nft.coinbase.com
 nft.io
 nha-cf.*.aws.indriverapp.com
@@ -7747,7 +7762,6 @@ oklahomacity-dev.gleague.nba.com
 oklahomacity-qa.gleague.nba.com
 oklahomacity.gleague.nba.com
 onboarding-*.cloud.com
-onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
 one-world-radio-tomorrowland/id1485778856
@@ -7779,6 +7793,7 @@ org.piwik.mobile2
 org.toshi
 org.toshi.distribution
 org.vom8x8.sipua
+orgadmin-ext.prd.account.posticloud.fi
 origenapp.com
 origenbanking.com
 origencard.com
@@ -7808,20 +7823,18 @@ partnerportal.skyscanner.net/*
 partners.deriv.com
 partners.shopify.com
 partners.tw.coupang.com
+partnerselfservice.posti.fi
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
 pay*.indriverapp.com
-pay-api.truelayer[-sandbox].com
 pay-sandbox.gocardless.com
 pay.8x8.com
 pay.ibex.exchange
 pay.tokopediax.com
-pay.truelayer[-sandbox].com
 pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
-paydirect.truelayer[-sandbox].com
 payer-details-sandbox.gocardless.com
 payment.backend-capital.com
 payment.bingo.com
@@ -7833,12 +7846,10 @@ payment.ottokasino.com
 payment.pixiv.net
 payment.storspelare.se
 payment.storspiller.com
-payment.truelayer[-sandbox].com
 payment.tw.coupang.com
 payment.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 payment.vladcazino.ro
 paymentcomponent.booking.com
-payments-experience-api.truelayer[-sandbox].com
 payments.geneva-staging.chat
 payments.geneva-staging.com
 paynotifications.booking.com
@@ -7861,6 +7872,7 @@ photo.kruidvat.be
 photos.adobe.io
 photoservice.stage.vismaonline.com
 photoshop.adobe.com
+picc.posti.fi
 pigeon.swiftfinancial.com
 plaid.com
 planet.wordpress.org
@@ -7903,6 +7915,8 @@ portland-dev.wnba.com
 portland-qa.wnba.com
 portland.wnba.com
 portswigger.net
+posti.com
+postikuori.posti.fi
 pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
@@ -8173,7 +8187,6 @@ session-share.playstation.com
 settings.superhuman.com
 sfc-cf.*.aws.indriverapp.com
 sfc-gw-cf.*.aws.indriverapp.com
-sftp.reports.truelayer.com
 sftp://ftp.developersites.com.au:45875
 sgnl.ai
 sgnl.cloud
@@ -8187,7 +8200,6 @@ share.portofantwerp.com
 share.portofantwerpbruges.com
 share.portswigger.net
 shop-id.tokopedia.com
-shop-pay-app-api.truelayer.com
 shop.app
 shop.demorgen.be
 shop.dyson.co.za
@@ -8202,7 +8214,6 @@ shop.tw.coupang.com
 shop.volkskrant.nl
 shop.whoop.com
 shop.wyndhamvacationownership.trisept.travel
-shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
@@ -8425,6 +8436,8 @@ tiktok.com
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
 tlfr.prod.tomorrowland.com
+tnt.posti.com
+todentaminen.posti.fi
 todo.notebleue.pro
 tomoe.bykea.net
 toolsforhumanity.com
@@ -8442,7 +8455,6 @@ trello.com
 trendyol.com
 trm.pinepaymentsolutions.com
 truck-api.eu-east-1.indriverapp.com
-truelayer-signing
 trust.23andme.com
 try.discourse.org
 tucarro.com
@@ -8473,11 +8485,9 @@ us.cloud.com
 us.forescout.cloud
 us1.badoo.com
 usa.visa.com
-user-authentication-api.truelayer[-sandbox].com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.koho.ca
-users-api.truelayer.com
 uwa.mobilevikings.be
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
@@ -8585,7 +8595,6 @@ webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
 webauthn.me	
 webhooks.booking.com
-webhooks.truelayer[-sandbox].com
 webtoolbox.notebleue.pro
 webwinkel.ad.nl
 webwinkel.parool.nl
@@ -8882,6 +8891,7 @@ www.pns.hk
 www.pornbox.com
 www.pornworld.com
 www.portofantwerpbruges.com
+www.posti.se
 www.pourvous.nl
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
@@ -9051,6 +9061,7 @@ xlence.iciparisxl.nl
 xs2a.banking.playground.klarna.com
 xtramile.grabpay.com
 yelptop100.com
+yhteystietoni.posti.fi
 yimg.com
 you.23andme.com
 your-assigned-subdomain.files.com
@@ -9062,6 +9073,7 @@ yourdomain.freshdesk.com
 yourdomain.freshrelease.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yritysmuutto.posti.fi
 ywh.admin.zecible.fr
 ywh.api.zecible.fr
 ywh.comptage.zecible.fr
