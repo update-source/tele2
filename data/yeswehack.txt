@@ -293,9 +293,6 @@ https://play.google.com/store/apps/details?id=pl.mediamarkt
 https://apps.apple.com/pl/app/mediamarkt-polska/id6470200706
 https://play.google.com/store/apps/details?id=com.media.saturn
 https://apps.apple.com/de/app/saturn-deutschland/id557562682
-https://bug-bounty-dfm.mementoblockchain.com/
-https://api.dextf.com/dd/
-https://api.dextf.com/dcd/
 www.monespacesante.fr
 admincms.monespacesante.fr
 adminstore.monespacesante.fr
