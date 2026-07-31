@@ -101,9 +101,9 @@ net.bitstamp.app
 nummus.robinhood.com
 www.bitstamp.net
 www.tradepmr.com
-Tier 1
-Tier 2
-Tier 3
+Tier 1 OSS
+Tier 2 OSS
+Tier 3 OSS
 https://github.com/nitrojs/nitro
 https://github.com/nuxt/nuxt
 https://github.com/sveltejs/svelte
