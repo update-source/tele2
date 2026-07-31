@@ -1071,6 +1071,7 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1259,6 +1260,7 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
+1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -2794,6 +2796,7 @@ ak-static.cms-dev.nba.com
 ak-static.cms-qa.nba.com
 ak-static.cms.nba.com
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alerts.ninjakiwi.com
 alexa.amazon.com
@@ -2904,6 +2907,7 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
@@ -3011,7 +3015,9 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
+api.us.veriff.me
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3773,6 +3779,7 @@ com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -4030,6 +4037,7 @@ developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 developers.tw.coupangcorp.com
+developers.veriff.me
 device.marriott.com
 dh-gw-cf.*.aws.indriverapp.com
 diabrowser.com
@@ -7449,6 +7457,7 @@ lol.onevone
 longisland-dev.gleague.nba.com
 longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
+louvre.veriff.me
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7467,6 +7476,7 @@ mUSD Stablecoin
 maestro.8x8.cloud
 magazine.kruidvat.be
 magento.com
+magic.veriff.me
 magisto.com,www.magisto.com
 mail-builder.infomaniak.com/
 mail.hostinger.com/v2
@@ -8324,6 +8334,8 @@ staging.magisto.com
 staking-api.polygon.technology
 staking.polygon.technology
 static*.twilio.com
+station.veriff.com
+stationapi.veriff.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.gleague.nba.com
@@ -8992,6 +9004,7 @@ www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
+www.veriff.com
 www.vfsvisaonline.com
 www.vimeo.com
 www.vinci-vie.fr
