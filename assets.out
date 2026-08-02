@@ -266,7 +266,6 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -648,7 +647,6 @@
 *.miinsurtech.com
 *.miinsurtech.net
 *.mijiayoupin.com
-*.mijnwater-link.be
 *.mioffice.cn
 *.mios.cn
 *.miot-spec.org
@@ -1071,7 +1069,6 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
-*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1102,7 +1099,6 @@
 *.vtm.be
 *.vtmgo.be
 *.wali.com
-*.water-link.be/
 *.watsons.co.id
 *.watsons.co.th
 *.watsons.com.hk
@@ -1260,7 +1256,6 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
-1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -1801,8 +1796,6 @@ Body Scan scale
 Bot Management
 Braintree SDK
 Brand Sites
-Brave Browser Desktop
-Brave websites
 Bridge
 Broken Link
 Browser Isolation
@@ -2796,7 +2789,6 @@ ak-static.cms-dev.nba.com
 ak-static.cms-qa.nba.com
 ak-static.cms.nba.com
 akismet.com
-alchemy.veriff.com
 alert.logitech.com
 alerts.ninjakiwi.com
 alexa.amazon.com
@@ -2907,7 +2899,6 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
-api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
@@ -3015,9 +3006,7 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
-api.us.veriff.me
 api.vault.chiatest.net
-api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3047,9 +3036,6 @@ app.alasco.de
 app.basecamp.com
 app.blueskytravelvietnam.com
 app.circle.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3136,9 +3122,6 @@ arrive-server.shopifycloud.com
 as-cf.*.aws.indriverapp.com
 as-gw-cf.*.aws.indriverapp.com
 askpeopleteam.visa.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3331,7 +3314,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3541,8 +3523,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -3564,7 +3544,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -3779,7 +3758,6 @@ com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
-com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -4037,7 +4015,6 @@ developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 developers.tw.coupangcorp.com
-developers.veriff.me
 device.marriott.com
 dh-gw-cf.*.aws.indriverapp.com
 diabrowser.com
@@ -4486,7 +4463,6 @@ https://8x8.vc/xmpp-websocket
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
 https://a.klaviyo.com/api/*
-https://a.simplemdm.com/
 https://access-sit.uat.proptrack.com
 https://account-registration.monash.edu/
 https://account.bitpanda.com
@@ -4502,8 +4478,6 @@ https://accounts.webmd.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
-https://adhoc-bugcrowd-studio.cdn-code.org
-https://adhoc-bugcrowd.cdn-code.org
 https://admin-roundups.moneyboxapp.org
 https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-guard
@@ -4639,7 +4613,6 @@ https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
-https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4672,7 +4645,6 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -4857,7 +4829,6 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
-https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -5034,7 +5005,6 @@ https://demo.adstruc.com
 https://demo.priceless.com/
 https://desk.thetradedesk.com
 https://desktop-sit.uat.proptrack.com
-https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
 https://developer.ifood.com.br
@@ -5233,7 +5203,6 @@ https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
-https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
@@ -5559,7 +5528,6 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
-https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -6313,7 +6281,6 @@ https://pg.paymaya.com
 https://pinepg.in
 https://pinepgconsole.in:9099
 https://pioneer.truata.com/
-https://pit.water-link.be/
 https://pixabay.com/
 https://platform.blis.com
 https://platform.blismedia.com
@@ -6519,7 +6486,6 @@ https://portal.cms.gov/
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
-https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -7155,9 +7121,6 @@ https://www.vwfs.nl
 https://www.vwfs.pl
 https://www.vwfs.pt
 https://www.vwfs.sk
-https://www.water-link-jaarverslag.be
-https://www.water-link.be
-https://www.waterstoring.be/
 https://www.webmd.com
 https://www.webproteus.com/lpro-web/login
 https://www.weebly.com/
@@ -7457,7 +7420,6 @@ lol.onevone
 longisland-dev.gleague.nba.com
 longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
-louvre.veriff.me
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7476,7 +7438,6 @@ mUSD Stablecoin
 maestro.8x8.cloud
 magazine.kruidvat.be
 magento.com
-magic.veriff.me
 magisto.com,www.magisto.com
 mail-builder.infomaniak.com/
 mail.hostinger.com/v2
@@ -7949,7 +7910,6 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -7993,8 +7953,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
-profiles-api.datacamp.com
-projects.datacamp.com
 promo.tw.coupang.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -8334,8 +8292,6 @@ staging.magisto.com
 staking-api.polygon.technology
 staking.polygon.technology
 static*.twilio.com
-station.veriff.com
-stationapi.veriff.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.gleague.nba.com
@@ -8739,8 +8695,6 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -9004,7 +8958,6 @@ www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
-www.veriff.com
 www.vfsvisaonline.com
 www.vimeo.com
 www.vinci-vie.fr
