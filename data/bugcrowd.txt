@@ -1340,9 +1340,9 @@ https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client
 https://www.premogiftcards.com/
 https://identity.majidalfuttaim.com
 https://www.malloftheemirates.com
-https://play.google.com/store/apps/details?id=com.belongi.moe
-https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
 https://api.mafshoppingmalls.com/
+https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
+https://play.google.com/store/apps/details?id=com.belongi.moe
 https://partnerconnect.maf.ae/
 https://ecoupon.maf.ae/
 https://citycentredeira.com/
@@ -1358,6 +1358,12 @@ https://maf-properties-prod.apigee.net
 https://api.mafshoppingmalls.com
 https://smbu-api.maf.ae/
 https://www.citycentremalls.com/en
+https://play.google.com/store/search?q=mall+of+emirates&c=apps&hl=en_IN
+https://apps.apple.com/in/app/mall-of-the-emirates-moe/id1449578693
+https://apps.apple.com/in/app/mall-of-egypt-official-app/id1441905105
+https://apps.apple.com/in/app/mall-of-egypt-official-app/id1441905105
+https://apps.apple.com/in/app/city-centres/id1448471823
+https://play.google.com/store/apps/details?id=com.belongi.citycenter&hl=en_IN
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=cloud&tab=overview
