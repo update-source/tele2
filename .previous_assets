@@ -3460,6 +3460,7 @@ api-frontend.pab.porsche.com
 api-gateway.polygon.technology
 api-gw-cf.*.aws.indriverapp.com
 api-js.datadome.co
+api-p.xoswap.com
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
@@ -3605,6 +3606,7 @@ api.omise.co
 api.ort-one-pingone.com
 api.ovh.com
 api.pab.porsche.com
+api.passkeys.network
 api.paybox.sh
 api.personio-dev.com
 api.personio.com
@@ -3682,6 +3684,7 @@ api.whatnot.com
 api.wisdomtreeprimeapp.com
 api.wordpress.org
 api.workbox.dk
+api.xoswap.com
 api.yoti.com
 api.ys7.com
 api2.frontapp.com
@@ -4747,6 +4750,7 @@ css-tricks.com
 ct.deriv.com
 ct.ninjakiwi.com
 ctf.hacker101.com
+ctr.a.exodus.io
 custody.coinbase.com
 customer-academy.databricks.com
 customer-sessions.arkoselabs.com
@@ -4795,6 +4799,7 @@ dash.ai
 dash.cloudflare.com
 dash.dropbox.com
 dashboard-beta.fr.cloud.gov
+dashboard-p.xoswap.com
 dashboard.algolia.com
 dashboard.doppler.com
 dashboard.fr.cloud.gov
@@ -4808,6 +4813,7 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 dashboard.web3auth.io
+dashboard.xoswap.com
 data.mail.yahoo.com
 data.ninjakiwi.com
 databricks.com
@@ -5017,6 +5023,7 @@ em9457.team.bitstamp.net
 emag.vinci.com
 embed.tumblr.com
 embed.vhx.tv
+embedded.passkeys.foundation
 en.casinohuone.com
 en.kolikkopelit.com
 en.ottokasino.com
@@ -5054,6 +5061,9 @@ events.launchdarkly.com
 events.onecloud.harman.com
 evisa.gov.mz
 ews-fusion.my.site.com
+exchange-p.exodus.io
+exchange-server-p.exodus.io
+exchange-server.exodus.io
 exchange.opera.com
 exness.com
 exnessaffiliates.com
@@ -5115,6 +5125,9 @@ fi.mariacasino.com
 fi.reworks.redecor
 fi.spankki
 fi.unibet.com
+fiat-p.a.exodus.io
+fiat-prod-fallback.a.exodus.io
+fiat.a.exodus.io
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
@@ -5378,6 +5391,7 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingz
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
 http://digitalplayground.com/
 http://es.mydirtyhobby.com/
+http://exchange-server.exodus.io
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
 http://flightdeck.staples.com/#/login
@@ -9291,6 +9305,7 @@ kumulus.uzleuven.be
 kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc-src.etoro.com
+kyc.a.exodus.io
 kyc.etoro.com
 kz.kolesa
 kz.krisha
@@ -9367,6 +9382,7 @@ login.cm.com
 login.delen.be 
 login.delen.ch 
 login.delen.lu 
+login.exodus.com
 login.fr.cloud.gov
 login.infomaniak.com
 login.insightly.com
@@ -9658,6 +9674,7 @@ my.eurid.eu
 my.exness.com
 my.loanbuilder.com
 my.malwarebytes.com
+my.passkeys.network
 my.plaid.com
 my.playstation.com
 my.porsche.com
@@ -9744,6 +9761,8 @@ newsos.com
 newsroom.images.hyatt.com
 newsroom.transunioncentralamerica.com
 newton.xyz
+nexotrack-p.exodus.io
+nexotrack.exodus.io
 next.airbnb.com
 nextcloud.com
 nextcloud/3rdparty
@@ -9935,10 +9954,12 @@ partners.etoro.com
 partners.shopify.com
 partners.tw.coupang.com
 partnerselfservice.posti.fi
+passkeys.foundation
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
 pay*.indriverapp.com
+pay-admin.exodus.io
 pay-api.truelayer[-sandbox].com
 pay-sandbox.gocardless.com
 pay.8x8.com
@@ -10234,6 +10255,7 @@ registre.notebleue.pro
 registry.gitlab.com
 rei.com
 relay.firefox.com
+relay.passkeys.foundation
 relay.playcanvas.com
 releasor.payworks.com/
 remilty.net
@@ -10792,6 +10814,7 @@ tucarro.com
 tucarro.com.co
 tumoto.com
 tunnistus.s-ryhma.fi
+turing.exodus.io
 tvg.com
 tw.coupang.com
 tw.coupangcorp.com
@@ -10915,6 +10938,7 @@ w1.uzleuven.be/random
 waf.cumulusfire.net
 wallet-sandbox.uphold.com
 wallet.etoro.com
+wallet.passkeys.foundation
 wallet.tg
 wallet.venly.io
 wallet.web3auth.io
@@ -11496,6 +11520,8 @@ xn--porsche-mnchen-sd-b3bh.de
 xn--porsche-nrnberg-7vb.de
 xn--porsche-schwbisch-gmnd-c5b89c.de
 xn--porsche-wrzburg-7vb.de
+xoswap-graphql-p.a.exodus.io
+xoswap-graphql.a.exodus.io
 xs2a.banking.playground.klarna.com
 xtramile.grabpay.com
 yelptop100.com
