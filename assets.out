@@ -415,7 +415,6 @@
 *.gocardless-lab.io
 *.gocardless.dev
 *.gocardless.io,*.gocardless-banking.io
-*.gofin.io
 *.gofood.co.id
 *.gofoodmerchant.co.id
 *.gojek.com
@@ -593,6 +592,7 @@
 *.lyst.co
 *.lyst.com
 *.lystit.com
+*.mab.co.id
 *.magisto.com
 *.magwien.gv.at
 *.malwarebytes.com
@@ -1877,6 +1877,7 @@ Copilot Coding Agent
 Copilot Spaces
 Copilot for Business
 Core Assets
+Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 Core Backstage source code
 Corporate Assets
 CounterAct 9.x
@@ -1949,9 +1950,7 @@ Elastic Package Registry
 Elastic Synthetics Monitoring
 Elasticsearch
 Elvenar
-Enjin - Ethereum ERC-1155 Contract
 Enjin Blockchain
-Enjin Coin - Ethereum ERC-20 Contract
 Eno® Browser Extension
 Enterprise Edition Products and Tools
 EpicGamesLauncher.exe    
@@ -2015,7 +2014,6 @@ Framemaker
 Freshcaller-iOS-App
 Freshchat-iOS-App
 Freshdesk-iOS-App
-Freshservice Discovery Agent and Probe
 Freshservice-Intune-iOS-App
 Freshservice-iOS-App
 Front for Mac
@@ -2099,7 +2097,6 @@ Identity Services
 Illustrator
 Images
 In Scope - Points only
-In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 InCopy
 InDesign
 Indoor Cam
@@ -2288,6 +2285,7 @@ Nintendo Switch 2 applications for which Nintendo is the publisher worldwide
 Nintendo Switch System
 Nintendo Switch applications for which Nintendo is the publisher worldwide
 Non Altera Products
+Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 Non-Core Assets
 Notion AI
 Notion Authentication
@@ -4131,7 +4129,6 @@ eu.cloud.com
 eu.remix.com
 eu1.badoo.com
 eufyMake E1
-eufyMake Studio software
 euria.infomaniak.com
 events.launchdarkly.com
 evisa.gov.mz
@@ -4279,6 +4276,7 @@ go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
+gocorp.gojek.com
 gofood.co.id
 goldmansachsindices.com
 googleplace*.bykea.net
@@ -4710,6 +4708,7 @@ https://apps.apple.com/se/app/atg-live/id1608156355
 https://apps.apple.com/se/app/atg/id1434660322
 https://apps.apple.com/se/app/bookbeat-audiobooks-e-books/id1056652614?l=en-GB
 https://apps.apple.com/se/app/vimla/id1233271881  https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en
+https://apps.apple.com/sg/app/gojek-driver/id1573529788
 https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
 https://apps.apple.com/tr/app/mediamarkt-t%C3%BCrkiye/id908956795
 https://apps.apple.com/tt/app/blofin/id1616804346
@@ -6359,6 +6358,8 @@ https://play.google.com/store/apps/details?id=com.flipkart.android
 https://play.google.com/store/apps/details?id=com.glassdoor.app&hl=en_US
 https://play.google.com/store/apps/details?id=com.gojek.app
 https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id
+https://play.google.com/store/apps/details?id=com.gojek.partner
+https://play.google.com/store/apps/details?id=com.gojek.resto
 https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
 https://play.google.com/store/apps/details?id=com.indeed.resume
 https://play.google.com/store/apps/details?id=com.infomaniak.drive
@@ -6870,8 +6871,8 @@ https://www.cultbeauty.co.uk/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
-https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be)/
-https://www.decathlon.(hu|pl|ro|cz|com.tr)/
+https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be|pl|cz|ca)/
+https://www.decathlon.(hu|ro|com.tr)/
 https://www.definitivetechnology.com
 https://www.demandforced3.com/
 https://www.denon.com

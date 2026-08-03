@@ -399,7 +399,6 @@
 *.gocardless-lab.io
 *.gocardless.dev
 *.gocardless.io,*.gocardless-banking.io
-*.gofin.io
 *.gofood.co.id
 *.gofoodmerchant.co.id
 *.gojek.com
@@ -577,6 +576,7 @@
 *.lyst.co
 *.lyst.com
 *.lystit.com
+*.mab.co.id
 *.magisto.com
 *.magwien.gv.at
 *.malwarebytes.com

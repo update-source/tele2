@@ -62,8 +62,8 @@ mgs.dana.id
 https://apps.apple.com/fr/app/decathlon-shopping/id1168607403
 https://play.google.com/store/apps/details?id=com.decathlon.app
 https://(navigate|engage|checkout|internal|cached-api|api).shoppingapp.decathlon.com/*
-https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be)/
-https://www.decathlon.(hu|pl|ro|cz|com.tr)/
+https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be|pl|cz|ca)/
+https://www.decathlon.(hu|ro|com.tr)/
 https://bounty-nodejs.datashield.co
 https://bounty-fastly.datashield.co
 https://bounty-nginx.datashield.co
@@ -163,6 +163,10 @@ https://apps.apple.com/id/app/gojek/id944875099
 gofood.co.id
 api.gobiz.co.id
 portal.gofoodmerchant.co.id
+gocorp.gojek.com
+https://play.google.com/store/apps/details?id=com.gojek.resto
+https://apps.apple.com/sg/app/gojek-driver/id1573529788
+https://play.google.com/store/apps/details?id=com.gojek.partner
 https://apps.apple.com/id/app/gopay-transfer-pulsa-bills/id6446321594
 https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id
 gopaymerchant.midtrans.com
@@ -470,7 +474,8 @@ vimla.se
 ownit.se
 https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en
 https://apps.apple.com/se/app/vimla/id1233271881  https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en
-In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
+Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
+Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 https://thueringer-foerderportal.eu
 https://login.aufbaubank.de
 www.vfsvisaonline.com

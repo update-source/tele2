@@ -686,6 +686,7 @@
 *.lyst.com
 *.lystit.com
 *.m-pesa.com
+*.mab.co.id
 *.magiceden.dev
 *.magiceden.io
 *.magiceden.workers.dev
@@ -2207,6 +2208,7 @@ Copilot Coding Agent
 Copilot Spaces
 Copilot for Business
 Core Assets
+Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 Core Backstage source code
 Core Product
 Corporate Assets
@@ -2769,6 +2771,7 @@ Nintendo Switch applications for which Nintendo is the publisher worldwide
 No Bounty
 Node.js Driver
 Non Altera Products
+Non Core Assets In-Scope Products (for the full list please visit https://en.security.tencent.com/index.php/policy)
 Non-Core Assets
 Non-Core Grafana Plugins
 NordPass - Linux Executable
@@ -5230,6 +5233,7 @@ go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
+gocorp.gojek.com
 goezshield.com
 gofood.co.id
 goldengate.grammarly.com
@@ -5793,6 +5797,7 @@ https://apps.apple.com/se/app/atg-live/id1608156355
 https://apps.apple.com/se/app/atg/id1434660322
 https://apps.apple.com/se/app/bookbeat-audiobooks-e-books/id1056652614?l=en-GB
 https://apps.apple.com/se/app/vimla/id1233271881  https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en
+https://apps.apple.com/sg/app/gojek-driver/id1573529788
 https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
 https://apps.apple.com/tr/app/mediamarkt-t%C3%BCrkiye/id908956795
 https://apps.apple.com/tt/app/blofin/id1616804346
@@ -7947,6 +7952,8 @@ https://play.google.com/store/apps/details?id=com.flipkart.android
 https://play.google.com/store/apps/details?id=com.glassdoor.app&hl=en_US
 https://play.google.com/store/apps/details?id=com.gojek.app
 https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id
+https://play.google.com/store/apps/details?id=com.gojek.partner
+https://play.google.com/store/apps/details?id=com.gojek.resto
 https://play.google.com/store/apps/details?id=com.google.android.apps.diabetes
 https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
 https://play.google.com/store/apps/details?id=com.indeed.resume
@@ -8649,7 +8656,9 @@ https://www.decathlon.(co.uk|it|nl|de)/
 https://www.decathlon.(co.uk|it|nl|de|pt|es)/
 https://www.decathlon.(co.uk|it|nl|de|pt|es|be)/
 https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be)/
+https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be|pl|cz|ca)/
 https://www.decathlon.(hu|pl|ro|cz|com.tr)/
+https://www.decathlon.(hu|ro|com.tr)/
 https://www.definitivetechnology.com
 https://www.demandforced3.com/
 https://www.demarches-simplifiees.fr
