@@ -265,6 +265,7 @@
 *.dailyadvent.com
 *.dancecentral.com
 *.das.eu
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -1698,6 +1699,7 @@ Anchor
 Android & iOS App for Instacart Shoppers
 Android & iOS App for REI Customers
 Android App
+Android Box Mobile App
 Android Playstation App
 Android SDK
 Animate
@@ -1794,6 +1796,7 @@ Blink Video Doorbell
 Body Comp scale
 Body Scan scale
 Bot Management
+Box Drive
 Braintree SDK
 Brand Sites
 Brave Browser Desktop
@@ -2711,6 +2714,7 @@ account-sprint.dynatracelabs.com
 account.acronis.com
 account.adobe.com
 account.booking.com
+account.box.com
 account.krisp.ai
 account.magento.com
 account.ui.com
@@ -2853,6 +2857,7 @@ api.atg.se
 api.au.frontegg.com
 api.binance.com
 api.blockchain.info
+api.box.com
 api.chainabuse-staging.com
 api.circle.com
 api.cloudflare.com
@@ -3035,7 +3040,11 @@ app.aikido.dev
 app.alasco.de
 app.basecamp.com
 app.blueskytravelvietnam.com
+app.box.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3122,6 +3131,9 @@ arrive-server.shopifycloud.com
 as-cf.*.aws.indriverapp.com
 as-gw-cf.*.aws.indriverapp.com
 askpeopleteam.visa.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3318,6 +3330,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3413,6 +3426,7 @@ clearme.com
 cleveland.gleague.nba.com
 clicks.koho.ca
 client-api.arkoselabs.com
+cloud.app.box.com
 cloud.coinbase.com
 cloud.digitalocean.com
 cloud.elastic.co
@@ -3550,6 +3564,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -4039,6 +4054,7 @@ digitalspecs.portofantwerpbruges.com
 direct-demo.currencycloud.com
 direct.playstation.com
 distribution-xml.booking.com
+dl.boxcloud.com
 dmm.bpost.be
 dns0.optus.net.au
 dns1.optus.net.au
@@ -4663,6 +4679,7 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -7206,6 +7223,7 @@ hyatt.com
 hybrid-analysis.com
 hypermint.com
 iOS App
+iOS Box Mobile App
 iOS Playstation App
 iOS SDK
 iRobot API Endpoint
@@ -7480,6 +7498,7 @@ lynx.wnba.com
 m.airbnb.com
 m.badoo.com
 m.bild.de
+m.box.com
 m.chaturbate.com
 m.dana.id
 m.reddit.com
@@ -7778,6 +7797,7 @@ no-gw-cf.*.aws.indriverapp.com
 northernarizona-dev.gleague.nba.com
 northernarizona-qa.gleague.nba.com
 northernarizona.gleague.nba.com
+notes.services.box.com
 notification-front-web.tw.coupang.com
 notion.id
 notula-accpt.portofantwerpbruges.com
@@ -7968,6 +7988,7 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8011,6 +8032,8 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
+profiles-api.datacamp.com
+projects.datacamp.com
 promo.tw.coupang.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -8263,6 +8286,7 @@ shopifyinbox.com
 shoppers.instacart.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
+signrequest.com
 signup.sendgrid.com
 simperium.com
 simplenote.com
@@ -8334,6 +8358,7 @@ speelgoedfolder.kruidvat.be
 speelgoedfolder.kruidvat.nl
 splunk-phantom-nlb.marriott.com
 sporza.be
+sr-staging-1.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
@@ -8530,6 +8555,7 @@ university.marriott.com
 unreal-agents.8x8pilot.com
 updates.forescout.com
 upld.krisp.ai
+upload.box.com
 upsell.hyatt.com
 url-checker.indrive.com
 us.cloud.com
@@ -8763,6 +8789,8 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 

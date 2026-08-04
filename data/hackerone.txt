@@ -2020,6 +2020,19 @@ api.evernote.com
 api.stage.evernote.com
 com.evernote
 www.evernote.com
+Android Box Mobile App
+Box Drive
+account.box.com
+api.box.com
+app.box.com
+cloud.app.box.com
+dl.boxcloud.com
+iOS Box Mobile App
+m.box.com
+notes.services.box.com
+signrequest.com
+sr-staging-1.com
+upload.box.com
 Exodus Desktop Wallet
 Passkey Wallet
 api-p.xoswap.com

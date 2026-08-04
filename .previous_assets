@@ -1997,6 +1997,7 @@ Anchor
 Android & iOS App for Instacart Shoppers
 Android & iOS App for REI Customers
 Android App
+Android Box Mobile App
 Android Playstation App
 Android SDK
 Animate
@@ -2107,6 +2108,7 @@ Blinkit, Bistro and Hyperpure assets (in scope)
 Body Comp scale
 Body Scan scale
 Bot Management
+Box Drive
 Braintree SDK
 Brand Sites
 Brave Browser Desktop
@@ -3317,6 +3319,7 @@ account-sprint.dynatracelabs.com
 account.acronis.com
 account.adobe.com
 account.booking.com
+account.box.com
 account.brave.com
 account.deezer.com
 account.fr.cloud.gov
@@ -3484,6 +3487,7 @@ api.au.frontegg.com
 api.avtoelon.uz
 api.binance.com
 api.blockchain.info
+api.box.com
 api.chainabuse-staging.com
 api.circle.com
 api.cloudflare.com
@@ -3702,6 +3706,7 @@ app.alasco.de
 app.avtoelon.uz
 app.basecamp.com
 app.blueskytravelvietnam.com
+app.box.com
 app.circle.com
 app.codacy.com
 app.dashlane.com
@@ -4175,6 +4180,7 @@ clicks.koho.ca
 client-api.arkoselabs.com
 clientcert.gamma.redoxstage.com
 clinic.lemonaidhealth.com
+cloud.app.box.com
 cloud.coinbase.com
 cloud.digitalocean.com
 cloud.elastic.co
@@ -4917,6 +4923,7 @@ direct-demo.currencycloud.com
 direct.playstation.com
 discover.23andme.com
 distribution-xml.booking.com
+dl.boxcloud.com
 dmm.bpost.be
 dmxleo.com
 dns.watch
@@ -9077,6 +9084,7 @@ hybrid-analysis.com
 hypermint.com
 i.ys7.com
 iOS App
+iOS Box Mobile App
 iOS Playstation App
 iOS SDK
 iRobot API Endpoint
@@ -9440,6 +9448,7 @@ m.airbnb.com
 m.avtoelon.uz
 m.badoo.com
 m.bild.de
+m.box.com
 m.chaturbate.com
 m.dana.id
 m.kolesa.kz
@@ -9846,6 +9855,7 @@ no.kolonial.tienda
 northernarizona-dev.gleague.nba.com
 northernarizona-qa.gleague.nba.com
 northernarizona.gleague.nba.com
+notes.services.box.com
 notification-front-web.tw.coupang.com
 notion.id
 notula-accpt.portofantwerpbruges.com
@@ -10487,6 +10497,7 @@ sign.zivver.com
 signature-insights.api.cx.metamask.io
 signhom.acesso.io
 signin.auth.welt.de
+signrequest.com
 signup.myconnect.com.au
 signup.porsche.com
 signup.sendgrid.com
@@ -10572,6 +10583,7 @@ sporza.be
 sq
 sqop
 sqv
+sr-staging-1.com
 srp-idtheft.com
 ssh.fr.cloud.gov
 ssm-marriottms.saviyntcloud.com
@@ -10843,6 +10855,7 @@ unreal-agents.8x8pilot.com
 updates.forescout.com
 updates.nextcloud.com
 upld.krisp.ai
+upload.box.com
 upsell.hyatt.com
 url-checker.indrive.com
 url6884.team.bitstamp.net
