@@ -1193,6 +1193,7 @@ com.oceanwing.care.cam
 com.security.BatteryCam
 com.security.care
 eufyMake E1
+eufyMake Studio(2D UV)
 https://us.eufy.com/products/e8213181
 https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
