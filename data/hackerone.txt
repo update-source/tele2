@@ -2035,6 +2035,8 @@ sr-staging-1.com
 upload.box.com
 Exodus Desktop Wallet
 Passkey Wallet
+Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
+Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
 api-p.xoswap.com
 api.passkeys.network
 api.xoswap.com
@@ -2052,8 +2054,15 @@ fiat.a.exodus.io
 http://exchange-server.exodus.io
 https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
 https://apps.apple.com/us/app/grateful-by-exodus/id6754093889
+https://github.com/ExodusOSS/bytes
+https://github.com/ExodusOSS/crypto
+https://github.com/ExodusOSS/hydra
 https://play.google.com/store/apps/details?id=com.exodus.grateful
 https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
+https://www.npmjs.com/package/@exodus/errors
+https://www.npmjs.com/package/@exodus/keychain
+https://www.npmjs.com/package/@exodus/safe-string
+https://www.npmjs.com/package/@exodus/sentry-client
 kyc.a.exodus.io
 login.exodus.com
 my.passkeys.network

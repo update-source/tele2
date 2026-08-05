@@ -2983,6 +2983,8 @@ Skyscanner Android app
 Skyscanner iOS App
 Skyscanner iOS app
 Slack Desktop Application
+Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
+Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
 Smokescreen Open Source Project
 Snaps
 Snaps Development Packages
@@ -6441,6 +6443,9 @@ https://github.com/ClickHouse/ClickHouse
 https://github.com/DopplerHQ/cli
 https://github.com/Dynatrace
 https://github.com/Electron
+https://github.com/ExodusOSS/bytes
+https://github.com/ExodusOSS/crypto
+https://github.com/ExodusOSS/hydra
 https://github.com/Hacker0x01/react-datepicker
 https://github.com/ImageMagick/ImageMagick
 https://github.com/Infomaniak/desktop-kDrive
@@ -8854,6 +8859,10 @@ https://www.networksolutions.com
 https://www.nintendo.com/us/store/products/rec-room-switch/
 https://www.npmjs.com/package/@8x8/pui-partner-comm
 https://www.npmjs.com/package/@airtable/mcp-cli
+https://www.npmjs.com/package/@exodus/errors
+https://www.npmjs.com/package/@exodus/keychain
+https://www.npmjs.com/package/@exodus/safe-string
+https://www.npmjs.com/package/@exodus/sentry-client
 https://www.npmjs.com/package/@forge/cli	
 https://www.npmjs.com/package/@privy-io/cross-app-connect
 https://www.npmjs.com/package/@privy-io/cross-app-provider
