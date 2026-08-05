@@ -33,6 +33,7 @@ https://marketplace.atlassian.com/apps/2903137599/sprintretro-pro-retrospective-
 https://marketplace.atlassian.com/apps/3780102417/sprintpoker-free-planning-poker-async-estimation?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/3684126567/laya-workflowos-ai-automation-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4076194710/laya-export-studio-for-jira-and-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/3402280988/laya-board?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219429/status-progress-report-structure-jira-dashboard-gadget?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219761/individual-velocity-report-chart-dashboard-gadget-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219487/simple-timesheet-worklog-dashboard-gadget-for-jira?hosting=cloud&tab=overview
