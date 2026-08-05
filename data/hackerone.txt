@@ -2037,21 +2037,13 @@ Exodus Desktop Wallet
 Passkey Wallet
 Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
 Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
-api-p.xoswap.com
 api.passkeys.network
-api.xoswap.com
 ctr.a.exodus.io
-dashboard-p.xoswap.com
-dashboard.xoswap.com
 embedded.passkeys.foundation
-exchange-p.exodus.io
-exchange-server-p.exodus.io
-exchange-server.exodus.io
 exodus-movement.exodus
 fiat-p.a.exodus.io
 fiat-prod-fallback.a.exodus.io
 fiat.a.exodus.io
-http://exchange-server.exodus.io
 https://apps.apple.com/us/app/exodus-crypto-bitcoin-wallet/id1414384820
 https://apps.apple.com/us/app/grateful-by-exodus/id6754093889
 https://github.com/ExodusOSS/bytes

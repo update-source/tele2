@@ -266,7 +266,6 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
-*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -2734,6 +2733,7 @@ account.acronis.com
 account.adobe.com
 account.booking.com
 account.box.com
+account.deezer.com
 account.krisp.ai
 account.magento.com
 account.ui.com
@@ -2853,7 +2853,6 @@ api-eu.floqast.app
 api-gateway.polygon.technology
 api-gw-cf.*.aws.indriverapp.com
 api-js.datadome.co
-api-p.xoswap.com
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
@@ -2888,6 +2887,7 @@ api.coindcx.com
 api.coinmarketcap.com
 api.creditkarma.com
 api.custody.coinbase.com
+api.deezer.com
 api.deriv.com
 api.developer.monespacesante.fr
 api.dicey.com
@@ -3047,7 +3047,6 @@ api.whatnot.com
 api.wisdomtreeprimeapp.com
 api.wordpress.org
 api.workbox.dk
-api.xoswap.com
 api.yoti.com
 api2.frontapp.com
 api2.grofers.com
@@ -3063,9 +3062,6 @@ app.basecamp.com
 app.blueskytravelvietnam.com
 app.box.com
 app.circle.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3152,9 +3148,6 @@ arrive-server.shopifycloud.com
 as-cf.*.aws.indriverapp.com
 as-gw-cf.*.aws.indriverapp.com
 askpeopleteam.visa.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3351,7 +3344,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3585,7 +3577,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.defi.wallet
 com.deribit
@@ -3866,6 +3857,7 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network 
+connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.posti.fi
 connect.secure.wellsfargo.com
@@ -3978,7 +3970,6 @@ cz.skodaauto.myskoda
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
-dashboard-p.xoswap.com
 dashboard.doppler.com
 dashboard.magic.link
 dashboard.mergify.com
@@ -3987,7 +3978,6 @@ dashboard.pluralonline.com
 dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
-dashboard.xoswap.com
 data.mail.yahoo.com
 data.ninjakiwi.com
 databricks.com
@@ -4185,9 +4175,6 @@ euria.infomaniak.com
 events.launchdarkly.com
 evisa.gov.mz
 ews-fusion.my.site.com
-exchange-p.exodus.io
-exchange-server-p.exodus.io
-exchange-server.exodus.io
 exchange.opera.com
 exness.com
 exnessaffiliates.com
@@ -4453,7 +4440,6 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
-http://exchange-server.exodus.io
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
 http://federatedid-na1.services.adobe.com
 http://github.com/circlefin/noble-cctp
@@ -4706,13 +4692,13 @@ https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/realestate-com-au-property/id404667893
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/mediamarkt-belgi%C3%AB/id958993034
+https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
 https://apps.apple.com/ca/app/lime-ridegreen/id1199780189
@@ -4733,6 +4719,7 @@ https://apps.apple.com/es/app/osl-buy-bitcoin-crypto/id6743699672
 https://apps.apple.com/fr/app/blablalines-covoiturage/id1225543288
 https://apps.apple.com/fr/app/cryptobox/id972602802
 https://apps.apple.com/fr/app/decathlon-shopping/id1168607403
+https://apps.apple.com/fr/app/deezer-musique-podcast/id292738169
 https://apps.apple.com/fr/app/doctolib/id925339063
 https://apps.apple.com/fr/app/infomaniak-mail/id1622596573
 https://apps.apple.com/fr/app/jbl-one/id1610239857
@@ -6431,6 +6418,7 @@ https://play.google.com/store/apps/details?id=com.coindcx.okto
 https://play.google.com/store/apps/details?id=com.coindesk.mobile
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.decathlon.app
+https://play.google.com/store/apps/details?id=com.deezer.zen
 https://play.google.com/store/apps/details?id=com.ecwid.android&pli=1
 https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://play.google.com/store/apps/details?id=com.exodus.grateful
@@ -6519,6 +6507,7 @@ https://play.google.com/store/apps/details?id=com.vuitton.android&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.worldcoin
 https://play.google.com/store/apps/details?id=de.cellular.ottohybrid&hl=de
 https://play.google.com/store/apps/details?id=de.mobileconcepts.cyberghost
+https://play.google.com/store/apps/details?id=deezer.android.app
 https://play.google.com/store/apps/details?id=edu.monash.monashmobile
 https://play.google.com/store/apps/details?id=ee.mtakso.client
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
@@ -7941,6 +7930,7 @@ payer-details-sandbox.gocardless.com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
+payment.deezer.com
 payment.kolikkopelit.com
 payment.mariacasino.(com|se|ee|dk)
 payment.ottocasino.se
@@ -7976,6 +7966,7 @@ photoservice.stage.vismaonline.com
 photoshop.adobe.com
 picc.posti.fi
 pigeon.swiftfinancial.com
+pipe.deezer.com
 plaid.com
 planet.wordpress.org
 plannerrequest.hyatt.com
@@ -8023,7 +8014,6 @@ pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
 pr-gw-cf.*.aws.indriverapp.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8067,8 +8057,6 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
-profiles-api.datacamp.com
-projects.datacamp.com
 promo.tw.coupang.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -8592,6 +8580,7 @@ unreal-agents.8x8pilot.com
 updates.forescout.com
 upld.krisp.ai
 upload.box.com
+upload.deezer.com
 upsell.hyatt.com
 url-checker.indrive.com
 us.cloud.com
@@ -8718,6 +8707,8 @@ webwinkel.trouw.nl
 webwinkel.volkskrant.nl
 wechat.api.marriott.com
 welcome.infomaniak.com
+wellbeing.deezer.com
+wellbeing.dzcdn.net
 welt.de
 wga.volans.tech
 whyisend.com
@@ -8760,6 +8751,7 @@ wps-cps.dmp.gouv.fr
 wps-cps.dmp.monespacesante.fr
 wpscan.com
 ws.blockchain.info
+ws.deezer.com
 ws.sorare.com
 wss://socket.bitpanda.com
 www-all.nba.com
@@ -8825,9 +8817,8 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
+www.deezer.com
 www.delen.bank
 www.delen.be/en 
 www.demorgen.be
@@ -9215,6 +9206,7 @@ ywh.update.zecible.fr
 ywh.zcb.fr
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
+zen.deezer.com
 ziekenhuisschool.be
 zooplus.net
 ███
