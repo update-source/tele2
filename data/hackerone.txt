@@ -2066,8 +2066,6 @@ pay.exodus.io
 relay.passkeys.foundation
 turing.exodus.io
 wallet.passkeys.foundation
-xoswap-graphql-p.a.exodus.io
-xoswap-graphql.a.exodus.io
 Community Management & Communications
 Tier 1
 Tier 2
