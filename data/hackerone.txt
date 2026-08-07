@@ -2233,7 +2233,6 @@ larksuite.com
 open.larksuite.com
 passport.larksuite.com
 status.larksuite.com
-All other Assets
 Core Assets
 Dynatrace ActiveGate
 Dynatrace MobileAgent
@@ -3069,6 +3068,8 @@ codacontent.io
 codahosted.io
 com.grammarly.android.keyboard
 com.grammarly.keyboard
+com.superhuman.mail
+com.superhuman.mail 
 gateway.superhuman.com
 id.superhuman.com
 io.coda

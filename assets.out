@@ -1690,7 +1690,6 @@ All Other NVIDIA Container Toolkit Assets
 All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
 All internet facing Sky UK/ROI assets
-All other Assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
 All the Blockchain Infrastructure
@@ -3746,6 +3745,8 @@ com.starbucks.mystarbucks
 com.streamlabs
 com.streamlabs.slobsrc
 com.stripe.android.dashboard
+com.superhuman.mail
+com.superhuman.mail 
 com.syfe
 com.ticketflow.ticketscanner
 com.tiktok.tv
