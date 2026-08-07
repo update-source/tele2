@@ -545,16 +545,9 @@
 *.khealth.com
 *.kibana.wtf
 *.kiln.it
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
 *.kiwi.com
 *.klaviyo-dev.com/*
 *.klaviyomsv.com/*
-*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -563,7 +556,6 @@
 *.kruidvatkids.nl
 *.kwsdose.be
 *.labs.8x8.com
-*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
 *.lastminute.co.nz
@@ -623,7 +615,6 @@
 *.mbamupdates.com
 *.mclead.com.au
 *.mediatonic.co.uk
-*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -668,7 +659,6 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
-*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -1539,7 +1529,6 @@
 52.67.69.35
 52.76.174.107
 52.86.17.52
-522089287
 524362642
 529996768
 531549799
@@ -3120,7 +3109,6 @@ app.superdrug.com
 app.swapcard.com
 app.taxjar.com
 app.theperfumeshop.com
-app.uma.money
 app.watsons.com.tr
 app.whoop.com
 app.workbox.dk
@@ -3274,7 +3262,6 @@ booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
-booking.mjrtheatres.com
 bookingholdings-coe.com
 boomer2.ninjakiwi.com
 boost.vinci.com
@@ -3297,9 +3284,6 @@ building-blocks.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
-business.kinepolis.be
-business.kinepolis.lu
-business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
@@ -3660,7 +3644,6 @@ com.hypr.one
 com.imdbtv.livingroom
 com.immediasemi.android.blink
 com.instacart.client
-com.inthepocket.kinepolis
 com.iphone.workfront
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
@@ -4133,7 +4116,6 @@ education.github.com
 eero Devices
 efast.marriott.com
 effecthouse.tiktok.com
-egaming.kinepolis.es
 eidhelp.marriott.com
 elm.nba.com
 elma.elma.fi
@@ -4185,8 +4167,6 @@ extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
 extranet.uzleuven.be
-extras-acc.landmarkcinemas.com
-extras.landmarkcinemas.com
 fab.com
 falcon-sandbox.com
 fareharborsites.com
@@ -4404,10 +4384,8 @@ http://analytics.prosus.com
 http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
-http://api.lightspark.com
 http://api.na1.insightly.com/v3.1/
 http://app-qa.chime.com/users/sign_in
-http://app.lightspark.com
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
 http://arcanitegames.ca/
@@ -5258,7 +5236,6 @@ https://github.com/backstage/backstage
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
 https://github.com/brave/*, https://github.com/brave-intl/*
-https://github.com/buildonspark/spark
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -5384,9 +5361,6 @@ https://github.com/kubernetes/steering
 https://github.com/kubernetes/test-infra
 https://github.com/kubernetes/utils
 https://github.com/kubernetes/website
-https://github.com/lightsparkdev/go-sdk
-https://github.com/lightsparkdev/lightspark-rs
-https://github.com/lightsparkdev/python-sdk
 https://github.com/matomo-org
 https://github.com/matomo-org/docker
 https://github.com/matomo-org/matomo
@@ -5591,7 +5565,6 @@ https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
 https://life.pulsepoint.com/MediaPlanner/#/dashboard/targetview
 https://lifeapi.pulsepoint.com
-https://link.uma.me
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.com
@@ -6170,7 +6143,6 @@ https://marketplace.atlassian.com/apps/924938813/agile-wip-charts-for-scrum-kanb
 https://marketplace.atlassian.com/apps/9475/switch-user-su-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
-https://marketplace.visualstudio.com/items?itemName=AikidoSecurity.aikido
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matlab.mathworks.com/
@@ -6210,8 +6182,6 @@ https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://move.monash.edu/
-https://movieclub-int.kinepolis.com
-https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://my.account.posti.fi
 https://my.arlo.com
@@ -6649,7 +6619,6 @@ https://services.chipotle.com
 https://services.unity.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
-https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
@@ -7292,8 +7261,6 @@ identity.nba.com
 identity.stage.vismaonline.com
 identity.yoti.com
 identityhomolog.acesso.io
-identityserver-acc.landmarkcinemas.com
-identityserver.landmarkcinemas.com
 idp-cf.*.aws.indriverapp.com
 idpay-uat.unico.io
 ifast.marriott.com
@@ -7399,9 +7366,6 @@ kartaview.org
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
-kinepolis-studio.be
-kinepolis.megatix.be
-kinepolis/id368204284
 kit.snapchat.com
 klarna.com
 klarna.net
@@ -7443,11 +7407,6 @@ liberty-qa.wnba.com
 liberty-qa2.wnba.com
 liberty.wnba.com
 licensemgmt.varonis.com
-lightsparkdev/flutter-sdk
-lightsparkdev/js-sdk
-lightsparkdev/kotlin-sdk
-lightsparkdev/lightspark-crypto-uniffi
-lightsparkdev/swift-wallet-sdk
 link.tw.coupang.com
 linkpop.com
 links.geneva-staging.chat
@@ -7507,9 +7466,6 @@ longisland.gleague.nba.com
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
-luxfilmfestfilms.megatix.be
-luxfilmfestproducts.megatix.be
-luxfilmfesttickets.megatix.be
 lynx-dev.wnba.com
 lynx-qa.wnba.com
 lynx-qa2.wnba.com
@@ -7706,7 +7662,6 @@ monzo.com
 moonpay.com
 motorcity.gleague.nba.com
 movie.indrive.com
-movieapi.kinepolis.megatix.be
 mpago.la
 mpago.li
 msg-cf.*.aws.indriverapp.com
@@ -7829,7 +7784,6 @@ ns2.optusnet.com.au
 nummus.robinhood.com
 nvJitLink APIs
 nycbasketball.nba.com
-nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
 oauth-sandbox.gocardless.com
 oauth.deriv.com
@@ -8386,7 +8340,6 @@ sso.marriott.com
 sso.oft.hyatt.com
 sso.ryadom.kz
 st*.indriverapp.com
-stage.landmarkcinemas.com
 staging-app.bany.dev
 staging.airtable.com
 staging.kidswebservices.com
@@ -8520,12 +8473,6 @@ testbank.xs2a.com
 teststs.uzleuven.be
 thebrowser.company
 thisiswhyweplay.nba.com
-tickets.kinepolis.be
-tickets.kinepolis.ch
-tickets.kinepolis.es
-tickets.kinepolis.fr
-tickets.kinepolis.lu
-tickets.kinepolis.nl
 tiktok.com
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
@@ -8585,8 +8532,6 @@ usa.visa.com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.koho.ca
-userprofile-acc.landmarkcinemas.com
-userprofile-ui.landmarkcinemas.com
 uwa.mobilevikings.be
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
@@ -8918,14 +8863,6 @@ www.instacart.com
 www.intigriti.com
 www.jaybirdsport.com
 www.kayak.com
-www.kinepolis.be 
-www.kinepolis.biz
-www.kinepolis.ch 
-www.kinepolis.com 
-www.kinepolis.es 
-www.kinepolis.fr 
-www.kinepolis.lu 
-www.kinepolis.nl 
 www.kiwi.com
 www.koho.ca
 www.kolikkopelit.com
@@ -8933,7 +8870,6 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
-www.landmarkcinemas.com
 www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -8976,7 +8912,6 @@ www.mercadolivre.com
 www.mercadopago.com.ec
 www.midtrans.com
 www.mini.de
-www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
