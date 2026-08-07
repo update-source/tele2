@@ -3905,7 +3905,6 @@ www.tumblr.com
 54.175.255.192/27
 Coinbase WaaS (Wallet as a Service)
 Other
-Web3 Smart Contracts
 api.coinbase.com
 api.custody.coinbase.com
 cloud.coinbase.com
