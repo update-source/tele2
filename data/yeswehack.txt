@@ -533,18 +533,6 @@ essentials.vinci.com
 www.chaire-arpenter.fr
 www.habileoh.com
 stats.vinci.com
-https://wbsapi.withings.net
-https://healthmate.withings.com
-https://account.withings.com
-https://app.withings.com
-https://developer.withings.com/dashboard/
-https://scalews.withings.com
-Body Scan scale
-Body Comp scale
-Scanwatch Light
-Scanwatch 2
-Scanwatch Nova
-Scanwatch
 https://preprod-xam.xelians.fr/
 https://preprod-datahub.xelians.fr/
 https://yeswehack.com
