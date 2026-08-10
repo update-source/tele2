@@ -1847,8 +1847,6 @@ https://marketplace.atlassian.com/apps/1237740?tab=overview&hosting=cloud
 ████████████████████████████
 https://www.originenergy.com.au/
 https://dataportal.originenergy.com.au
-https://api.rx.originenergy.com.au/v1/gateway/schema/graphql
-https://api.rx.originenergy.com.au/v1/gateway/schema/kraken/graphql
 https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://www.winconnect.com.au/moving-out/
 https://www.winconnect.com.au/get-connected/
