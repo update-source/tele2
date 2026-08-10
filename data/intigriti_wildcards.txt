@@ -106,6 +106,8 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
+*.monzo.com
+*.prod-ffs.io
 *.nexuzhealth.*
 *.ninjakiwi.me
 *.nkstatic.com
@@ -122,6 +124,8 @@ Leaked/compromised employee accounts *.here.com
  *.rivian.com
 *.swisspass.ch
 *.sbb.ch
+*.sqills.com
+*.sqills.team
 *.superdrug.com
 *.savers.co.uk
 *.theperfumeshop.com
