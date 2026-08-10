@@ -62,13 +62,13 @@ appmiral.com
 building-blocks.com
 cm.com/app/messagingtrial/
 cmcom.atlassian.net
+https://github.com/cmdotcom
 www.cm.com
 1199521324
 1579530451
 com.cm.cashregister
 com.ticketflow.ticketscanner
 demo.globalticket.com/*
-https://github.com/cmdotcom
 payment.backend-capital.com
 capital.com/*
 com.capital.trading
