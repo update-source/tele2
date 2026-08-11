@@ -85,6 +85,20 @@ unified.cloudways.com
 www.cloudways.com
 css-tricks.com
 Any related DPG media domain
+profiles-api.datacamp.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
+campus.datacamp.com
+com.datacamp
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
+practice.datacamp.com
+projects.datacamp.com
+www.datacamp.com
+www.datacamp.com/datalab
 myaccount.demorgen.be
 shop.demorgen.be
 www.demorgen.be
@@ -269,18 +283,6 @@ ecom-data.trekpleister.nl
 service.trekpleister.nl
 folder.trekpleister.nl
 www.prijsmepper.nl
-Lansweeper Discovery
-app.lansweeper.com
-fb.lansweeper.com
-edge.lansweeper.com
-api.lansweeper.com
-backoffice.lansweeper.com
-https://lsagentrelay.lansweeper.com/
-app.lansweeper.com/trial
-autoupdateapi.lansweeper.com
-docs.lansweeper.com
-login.lansweeper.com
-www.lansweeper.com
 www.libelle.nl
 www.marionnaud.fr
 Marionnaud France Android
