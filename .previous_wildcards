@@ -604,6 +604,9 @@
 *.kinepolis.lu
 *.kinepolis.nl
 *.kiwi.com
+*.klarna.com
+*.klarna.net
+*.klarnacdn.net
 *.klaviyo-dev.com/*
 *.klaviyomsv.com/*
 *.klubcinema.fr
@@ -915,6 +918,7 @@
 *.preemptsecurity.com
 *.prelert.com
 *.preview.8x8.vc
+*.pricerunner.com
 *.prijsmepper.nl
 *.primarycareondemand.mayoclinic.org
 *.privateinternetaccess.com
