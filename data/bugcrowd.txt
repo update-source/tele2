@@ -10,6 +10,7 @@ https://graphql.acorns.com
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
 https://www.gohenry.com/
 https://www.pixpay.fr/
+https://marketplace.atlassian.com/apps/1219205/scrumpy-planning-poker-for-jira?hosting=cloud&tab=overview
 https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://portal.afterpay.com
@@ -545,8 +546,6 @@ https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/hermit
 https://github.com/cashapp/misk
-https://github.com/square/okhttp
-https://github.com/square/okio
 https://github.com/square/wire
 https://blofin.com
 https://apps.apple.com/tt/app/blofin/id1616804346
@@ -613,8 +612,7 @@ https://www.chime.com
 https://app.chime.com
 https://play.google.com/store/apps/details?id=com.onedebit.chime
 https://apps.apple.com/us/app/chime-mobile-banking/id836215269
-https://app.bitrise.io/app/5bec038cb1e318cd/installable-artifacts/0eb2f51fc0172fde/public-install-page/487597a06ddfcd4667285d53796de623
-https://app.bitrise.io/app/5bec038cb1e318cd/installable-artifacts/00b806e389a27a0e/public-install-page/945cffa9854b0bde1e1be7ba7f770c2e
+https://drive.google.com/file/d/17IX06JcI2Nn7hbg9kDps5iK6oVi9U71O/view?usp=sharing
 http://member-qa.chime.com/enroll
 http://app-qa.chime.com/users/sign_in
 https://app.saltlabs.com/
@@ -1298,6 +1296,7 @@ https://www.shiseido.me/
 lego.me
 psychobunny.me
 fashion4less.me
+https://marketplace.atlassian.com/apps/1223655/magic-estimations-async-and-planning-poker-sizing-for-jira?hosting=cloud&tab=overview
 dashboard.magic.link
 auth.magic.link
 api.magic.link
@@ -1353,6 +1352,11 @@ https://apps.apple.com/in/app/mall-of-egypt-official-app/id1441905105
 https://apps.apple.com/in/app/mall-of-egypt-official-app/id1441905105
 https://apps.apple.com/in/app/city-centres/id1448471823
 https://play.google.com/store/apps/details?id=com.belongi.citycenter&hl=en_IN
+https://marketplace.atlassian.com/apps/1211022/?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1211022/?hosting=cloud
+https://marketplace.atlassian.com/apps/1211022/links-hierarchy-jira-agile?hosting=server&tab=overview
+https://marketplace.atlassian.com/apps/1211642/subversion-alm-for-the-enterprise?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1211642/subversion-alm-for-the-enterprise?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=server&tab=overview
 https://marketplace.atlassian.com/apps/1211376/jenkins-integration-for-jira?hosting=cloud&tab=overview
@@ -1408,6 +1412,21 @@ https://apps.apple.com/mo/app/%E7%BE%8E%E9%AB%98%E6%A2%85%E6%9C%83%E5%93%A1%E6%9
 https://play.google.com/store/apps/details?id=mo.mgm.app
 http://mobileapp-gaming.mgm.mo
 http://mobileapp-non-gaming.mgm.mo/
+https://marketplace.atlassian.com/apps/1216313/google-sheets-integration?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1220350/excel-online-integration?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1216313/google-sheets-integration?hosting=server&tab=overview
+https://marketplace.atlassian.com/apps/1216313/google-sheets-integration?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1211459/mobility-for-jira-mobile-jira-team?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1220350/excel-online-integration?hosting=server&tab=overview
+https://marketplace.atlassian.com/apps/1220350/excel-online-integration?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1211459/mobility-for-jira-mobile-jira-team?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1220350/excel-online-integration?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1211459/mobility-for-jira-mobile-for-enterprise-teams?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1211459/mobility-for-jira-mobile-for-enterprise-teams?hosting=server&tab=overview
+https://marketplace.atlassian.com/apps/1227353/snowflake-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1233310/databricks-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/738419736/microsoft-fabric-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1442498121/asset-manager-for-jira?hosting=cloud&tab=overview
 https://identity.monash.edu/
  mix.monash.edu 
 https://connect.monash.edu
@@ -1546,6 +1565,9 @@ Okta On-Prem Agents ( AD, LDAP, RDP, IWA )
 https://help.okta.com/en/prod/Content/Topics/Adv_Server_Access/docs/sftd-windows.htm
 https://help.okta.com/en/prod/Content/Topics/Settings/download-browser-plugin.htm
 https://pentest-app.onetrust.com/
+https://marketplace.atlassian.com/apps/1231655/onlink-hr-systems-integration-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1232053/onramp-employee-onboarding-and-offboarding?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1235010/onlink-ai-integration-toolkit-to-automate-your-workflows?hosting=cloud&tab=overview
 https://api.openai.com
 https://chat.openai.com
 https://chat.openai.com
@@ -2073,6 +2095,19 @@ https://marketplace.atlassian.com/apps/1223200/agile-tools-epic-tree-links-tree-
 https://marketplace.atlassian.com/apps/1226187/time-in-status-reports?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1230243/worklogs-time-tracking-timesheets?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228019/issue-hierarchy-structure?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1219732/time-in-status-for-jira-cloud?hosting=cloud
+https://marketplace.atlassian.com/apps/1220385/issue-history?hosting=cloud
+https://marketplace.atlassian.com/apps/1220741/sla-time-and-report-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1221462/time-between-statuses?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1227085/forms-checklists-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1228109/recurring-checklists-and-report?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1222274/jiva-voice-assistant-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1229405/cost-tracker-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1231078/issue-creator-for-jira-cloud-capture-screen-annotate?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1220385/issue-history-for-jira?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1221462/time-between-statuses-time-to-resolution-timer?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1219732/time-in-status?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1221462/time-between-statuses-time-to-resolution-timer?hosting=datacenter&tab=overview
 SAP SuccessFactors Employee Central
 SAP SuccessFactors Recruiting Marketing
 SAP S/4HANA Cloud Public Edition
@@ -2159,6 +2194,14 @@ https://blockexplorer.electroneum.com
 https://testnet-blockexplorer.electroneum.com
 https://snapnames.com/
 https://www.namejet.com/
+https://marketplace.atlassian.com/apps/1219004/worklogs-time-tracking-and-reports?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1220026/multiple-checklists-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1222083/qality-test-management-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1223344/qality-plus-test-management-for-jira?hosting=cloud
+https://marketplace.atlassian.com/apps/1219196/team-performance-reports-and-insights?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1229442/team-planner-resource-planning-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1235478/time-assistant-time-tracking-and-workload-dashboard?hosting=cloud
+https://marketplace.atlassian.com/apps/1235478/time-assistant-time-tracking-and-workload-dashboard?hosting=cloud&tab=overview
 https://www.sophos.com/en-us/products/endpoint-antivirus/free-trial 
 https://central.sophos.com/
 Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
@@ -2214,6 +2257,13 @@ https://marketplace.atlassian.com/apps/1214971/handy-macros-for-confluence-statu
 https://marketplace.atlassian.com/apps/1214971/handy-macros-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1214110/courses-and-quizzes-lms-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1899492230/live-tables-from-csv-json-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1216564/great-gadgets-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1218777/great-gadgets-for-jira-server?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1211062/documents-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1226592/great-gadgets-for-confluence-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1217117/project-team-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1237211/devops-gadgets-for-jira-insights-from-github-bb?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1234296/azure-sync-for-jira-assets?hosting=cloud
 Self Register Account on T-Mobile Microsoft Entra ID
 Cellular Network Auth Bypass via Web/Mobile App
 T&P Servers
@@ -2644,7 +2694,11 @@ https://www.wyze.com/products/wyze-cam
 staging-app.bany.dev
 https://staging-api.bany.dev/
 https://www.ynab.com/
+Zendesk AI
+Zendesk Front End
+Zendesk Suite
+Zendesk Mobile Applications
+Zendesk Public Repositories
+Zendesk Marketplace Apps created by Zendesk
 ██████████████████████
 ██████████████████████████
-https://tracker.eu.bugcrowd.net/
-https://temp-target.ai

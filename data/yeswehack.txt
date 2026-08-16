@@ -267,6 +267,7 @@ invitation.infomaniak.com
 academy.infomaniak.com
 newsletter.infomaniak.com
 hosting-ik.com
+manager.infomaniak.com/*proxy*
 https://yeswehack.staging.komoju.com
 https://doc.komoju.com/docs/fields-overview
 Keycloak Server
@@ -435,9 +436,6 @@ s.qwant.com
 s1.qwant.com
 s2.qwant.com
 qwantjunior.com
-https://my.salt.ch
-https://eshop.salt.ch
-https://login.salt.ch
 www.onsexprime.fr
 www.1000-premiers-jours.fr
 mangerbouger.fr

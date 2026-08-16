@@ -10,6 +10,7 @@ Software
 Non Altera Products
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 Software: Mali GPU Kernel Driver
+emarketer.com
 newsos.com
 politico.eu
 adtechnology.axelspringer.com

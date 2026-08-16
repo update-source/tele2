@@ -773,15 +773,7 @@ support.varonis.com
 Klarna Android App (com.myklarnamobile)
 Klarna iOS App (com.klarna.app)
 Merchant Portal
-api.klarna.com
 app.klarna.com
-js.klarna.com
-klarna.com
-klarna.net
-klarnacdn.net
-portal.openbanking.playground.klarna.com
-pricerunner.com
-xs2a.banking.playground.klarna.com
 [Unico] Liveness Bypass
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
@@ -1261,6 +1253,13 @@ com.booztlet
 kronor.io
 my.sheer.com
 www.sheer.com
+1589071345
+apix.vodafone.om
+om.vodafone.mva
+vfo01.vodafone.om
+vfo02.vodafone.om
+vfo03.vodafone.om
+www.vodafone.om
 api.au.frontegg.com
 portal.au.frontegg.com
 ab-platform-api.eu-east-1.indriverapp.com
@@ -1312,6 +1311,7 @@ Kindle E-Reader
 Luna
 Other
 Tablets
+Vega OS
 a4k.amazon.com
 alexa.amazon.com
 alexaanswers.amazon.com
@@ -3275,11 +3275,6 @@ workflows.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
-Brave Browser Desktop
-Brave websites
-com.brave.browser
-com.brave.ios.browser
-https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)
