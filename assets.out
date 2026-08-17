@@ -7,6 +7,7 @@
  UniFi OS Server
  com.citymapper.app.release
  https://api-*exoscale.com/v2
+ idp-contact.nexuzhealth.be
  login-test.portofantwerpbruges.com/
  mix.monash.edu 
  new CDI-based architecture
@@ -7577,6 +7578,7 @@ media.marionnaud.hu
 media.marionnaud.it
 media.marionnaud.ro
 media.marionnaud.sk
+media.nexuzhealth.be/patient/ 
 media.remitly.io
 media.savers.co.uk
 media.simplisafe.com
