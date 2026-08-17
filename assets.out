@@ -967,8 +967,6 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
-*.sqills.com
-*.sqills.team
 *.srvcs.tumblr.com
 *.stadtwien.onmicrosoft.com
 *.stag.tomorrowland.com
@@ -4488,8 +4486,6 @@ http://www.underarmour.com.sg
 http://www.whynot.com/
 https://(navigate|engage|checkout|internal|cached-api|api).shoppingapp.decathlon.com/*
 https://*-prod.arlo.com
-https://*nsa-idr.cms.gov
-https://*qpp.cms.gov/
 https://10bis.co.il
 https://1win.com/betting
 https://1win.com/casino
@@ -4530,7 +4526,6 @@ https://aiven.io/docs/products/metrics/concepts/metrics-overview
 https://album.link
 https://alumni-friends.monash.edu
 https://analytics-admin.prosus.com
-https://analytics.neogov.com
 https://analytics.welcomesoftware.com/
 https://answers.irobot.com
 https://api-a.usaa.com
@@ -4578,7 +4573,6 @@ https://api.mafshoppingmalls.com
 https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com
 https://api.myntra.com
-https://api.neogov.com
 https://api.openai.com
 https://api.optimizely.com/
 https://api.paddle.com
@@ -4624,7 +4618,6 @@ https://apigw.prod.quintoandar.com.br/sales-flow-api/*
 https://apis.indeed.com/graphql
 https://apis.onecloud.harman.com
 https://app-staging.getmoneytree.com
-https://app.agency360.com
 https://app.asana.com
 https://app.aurory.io
 https://app.bitgo-test.com
@@ -4943,7 +4936,6 @@ https://cdn-app.welcomesoftware.com/
 https://cdn-pci.optimizely.com/
 https://cdn-store.opera-api.com
 https://cdn.myopenpass.com
-https://cdn.neogov.com
 https://cdn.optimizely.com/
 https://cdn.unicdn.net/apk/UnibetCasino.apk
 https://central.sophos.com
@@ -4968,7 +4960,6 @@ https://cloud.unity.com
 https://cloudinary.com/console
 https://cms.adx.opera.com
 https://cms.mobile.monash/ 
-https://cmsnationaltrainingprogram.cms.gov/
 https://cockpit-eu-west-2.outscale.com/
 https://collabora.stg.inspectorio.com
 https://collections.monash.edu/
@@ -5013,7 +5004,6 @@ https://crypto.com/exchange
 https://crypto.com/nft
 https://crypto.com/price
 https://cryptowallet.opera-api.com
-https://csscoperations.com/
 https://cstg-integ.uidapi.com
 https://customer-api.datadome.co
 https://customer-portal.paddle.com
@@ -5133,7 +5123,6 @@ https://edge.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|c
 https://edgeacademy.thetradedesk.com
 https://edgeapis.onecloud.harman.com
 https://education.cfr.org/
-https://eforms.neogov.com
 https://eim.eu-west-2.outscale.com
 https://elementor.careers
 https://emistores.pinelabs.com
@@ -5157,8 +5146,6 @@ https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
 https://etoropartners.com
 https://etorox.com
 https://etsypayments.com
-https://eua.cms.gov/
-https://eua.cms.gov/efi
 https://events.1password.com/api/
 https://events.onecloud.harman.com
 https://evigilation.monash.edu
@@ -5463,7 +5450,6 @@ https://hg.easy4ipcloud.com
 https://hipaa.staging.gearset.com/
 https://home.classdojo.com
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
-https://hr.neogov.com
 https://hr.prosus.com/
 https://hub.immutable.com/
 https://hug.personio.com
@@ -5562,7 +5548,6 @@ https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client
 https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/zISrnnxfS19jUJTUAtnFaTUkAJ27r8mE
 https://lbu.eu-west-2.outscale.com
 https://leaflet-map.bykea.net
-https://learn.neogov.com
 https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
@@ -5585,7 +5570,6 @@ https://liveassist23.usaa.com
 https://liveassist24.usaa.com
 https://login.aufbaubank.de
 https://login.medscape.com
-https://login.neogov.com
 https://login.paddle.com
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
@@ -6304,7 +6288,6 @@ https://offer.tidal.com/download
 https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
 https://oma.posti.fi/
-https://onboard.neogov.com
 https://one-sit.uat.proptrack.com/
 https://one.newrelic.com
 https://oneview.threatdownstage.com
@@ -6363,7 +6346,6 @@ https://payoutapi.maya.ph/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
-https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
 https://pets.webmd.com
 https://pg.paymaya.com
@@ -6577,7 +6559,6 @@ https://portal.afterpay.com
 https://portal.anz.kinergysolutions.com
 https://portal.clearpay.co.uk
 https://portal.clearpay.com
-https://portal.cms.gov/
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
@@ -6589,7 +6570,6 @@ https://portalapi.eu.clearpay.co.uk
 https://portalapi.us.afterpay.com
 https://portalv2.lh360.com
 https://portfolio-manager-sit.uat.proptrack.com/
-https://powerdms.com/
 https://powerpak.com
 https://pprd.cybermalveillance.gouv.fr
 https://preprod-datahub.xelians.fr/
@@ -6654,13 +6634,9 @@ https://secure-signals-jssdk-integ.uidapi.com
 https://secure-signals-react-integ.uidapi.com
 https://secure-signals-srvonly-integ.uidapi.com
 https://secure-test.six-swiss-exchange.com/
-https://secure.cuehit.net
-https://secure.neogov.com
 https://secure.newegg.com
 https://secure.thefork.com
 https://securemail.usaa.com
-https://securesignin.neogov.com
-https://securesignin.powerdms.com/
 https://securitytrails.com
 https://seekcdn.com
 https://segment.com/docs/connections/sources/
@@ -6828,7 +6804,6 @@ https://ultramobile.com
 https://umiloans.com.au
 https://underarmour.co.kr
 https://underarmournext.com/
-https://unified.neogov.com
 https://unihub.monash.edu/
 https://unity.com/download
 https://unity3d.com/get-unity/download/archive
@@ -6951,7 +6926,6 @@ https://www.citycentremalls.com/en
 https://www.classdojo.com
 https://www.classeaudio.com
 https://www.cloudvector.com/
-https://www.cms.gov/
 https://www.coindesk.com/
 https://www.coinspot.com.au/v2/api
 https://www.coloros.com/
@@ -7000,7 +6974,6 @@ https://www.glassdoor.com/member/*
 https://www.glassdoor.com/mz-survey/*
 https://www.globalacademycme.com
 https://www.gohenry.com/
-https://www.governmentjobs.com
 https://www.homesupport.irobot.com
 https://www.hostgator.com.br/
 https://www.hostgator.com/
