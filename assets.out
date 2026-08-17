@@ -1892,7 +1892,6 @@ Crowdsignal
 Crypto
 Crypto infrastructure for cold and hot wallets
 Crypto.com Exchange APIs that require an account
-Crypto.com Wallet Extension
 Crypto.com mobile app APIs that require an account
 Customer Connected Domain
 Customer Portal
@@ -3552,7 +3551,6 @@ com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
 com.dd.doordash
-com.defi.wallet
 com.deribit
 com.dolap.android
 com.dropbox.android
@@ -4151,6 +4149,7 @@ exnessaffiliates.com
 exodus-movement.exodus
 experience.prod.innovexperiments.com
 experiences.booking.com
+experiences.crypto.com
 explore.redoxengine.com
 expressvpn.jobs
 external-api.lime.bike
@@ -8487,6 +8486,7 @@ testing.maventa.com
 teststs.uzleuven.be
 thebrowser.company
 thisiswhyweplay.nba.com
+tickets.crypto.com
 tiktok.com
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com

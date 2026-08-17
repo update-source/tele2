@@ -2818,16 +2818,14 @@ com.affirm.central.audit
 com.affirm.internal.hackerone
 sandbox.affirm.com
 Crypto.com Exchange APIs that require an account
-Crypto.com Wallet Extension
 Crypto.com mobile app APIs that require an account
 app.mona.co
 co.mona.android
-com.defi.wallet
-com.defi.wallet
 com.monaco.mobile
 developer-api.crypto.com
 developer-platform-api.crypto.com
 developer.crypto.com
+experiences.crypto.com
 https://crypto.com/exchange
 https://crypto.com/nft
 https://crypto.com/price
@@ -2838,6 +2836,7 @@ merchant.crypto.com
 nadex.com
 og.com
 tax.crypto.com
+tickets.crypto.com
 travel.crypto.com
 web.crypto.com
 com.goodrx
