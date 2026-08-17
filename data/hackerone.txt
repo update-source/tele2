@@ -3051,7 +3051,6 @@ Superhuman Go
 Superhuman Mail
 Superhuman Mail Chrome Extension
 Superhuman Mail Desktop App
-app.grammarly.com
 coda.grammarly.com
 coda.io
 codacontent.io
@@ -3060,6 +3059,7 @@ com.grammarly.android.keyboard
 com.grammarly.keyboard
 com.superhuman.mail
 com.superhuman.mail 
+docs.superhuman.com
 gateway.superhuman.com
 id.superhuman.com
 io.coda
