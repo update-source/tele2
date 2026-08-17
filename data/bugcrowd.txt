@@ -59,7 +59,7 @@ https://console.aiven.io/login
 https://api.aiven.io/login
 https://github.com/Aiven-Open
 https://github.com/Aiven
-http://falcon-bug-bounty-flag-pgsql-dev-sandbox.aivencloud.com/
+http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/
 https://marketplace.atlassian.com/apps/1219112/easy-templates-for-jira-issues?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236389/easy-progress-hill-charts-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236512/easy-action-items-checklist-templates-and-automation?hosting=cloud&tab=overview
