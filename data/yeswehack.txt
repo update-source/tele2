@@ -270,9 +270,6 @@ hosting-ik.com
 manager.infomaniak.com/*proxy*
 https://yeswehack.staging.komoju.com
 https://doc.komoju.com/docs/fields-overview
-Keycloak Server
-Keycloak Operator
-JavaScript Client Adapter
 https://[it | fr | us | sg | …].louisvuitton.com
 https://apps.apple.com/fr/app/louis-vuitton/id709101942
 https://play.google.com/store/apps/details?id=com.vuitton.android&hl=fr&gl=US
