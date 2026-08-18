@@ -1,6 +1,5 @@
 	 speedtest-eastburwood.optusnet.com.au
  *.rivian.com
- *.test.*.lfscnp.com
  203.13.125.32/27
  Finicity Connect
  Mobile Apps
@@ -21,7 +20,6 @@
 *. advancedcustomfields.com
 *. bettersearchreplace.com
 *. vfsevisa.id
-*.-np.*.lfscnp.com
 *.1debit.com
 *.3lateral.com
 *.5nine.com
@@ -279,7 +277,6 @@
 *.deriv.com
 *.derivws.com
 *.dev-pub.mobilevikings.be
-*.dev.*.lfscnp.com
 *.dev.grindr.io
 *.dev.mobilevikings.be
 *.dev.remitly.com
@@ -398,8 +395,6 @@
 *.fuze.site
 *.gaming.gopayapi.com
 *.gateway.marriott.com
-*.genoapay.co.nz
-*.genoapay.com
 *.germany.politico.eu
 *.gesundheitsverbund.at
 *.gethypr.com
@@ -572,11 +567,6 @@
 *.lansweeper.com
 *.lastminute.co.nz
 *.lastminute.com.au
-*.latitudefinancial.co.nz
-*.latitudefinancial.com
-*.latitudefinancial.com.au
-*.latitudepay.com
-*.latitudepay.com.au
 *.lemonsqueezy.com
 *.libelle.nl
 *.lightroom.adobe.com
@@ -882,7 +872,6 @@
 *.runnr.in
 *.s-cloud.net
 *.saltlabs.com
-*.sandbox.*.lfscnp.com
 *.savers.co.uk
 *.savi.xyz
 *.say.rocks
@@ -4489,7 +4478,6 @@ https://*-prod.arlo.com
 https://10bis.co.il
 https://1win.com/betting
 https://1win.com/casino
-https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
@@ -4594,7 +4582,6 @@ https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
 https://api.t-mobile.com
-https://api.test.latitudefinancial.com
 https://api.thefork.com
 https://api.thefork.io
 https://api.thetradedesk.com
@@ -4636,7 +4623,6 @@ https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
 https://app.intercom.com
 https://app.intercom.io/
-https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
@@ -4915,13 +4901,11 @@ https://business-staging.getmoneytree.com/
 https://business.rivian.com/api
 https://businessportal.origin.com.au
 https://butlerfortrello.com/
-https://buyersedge.co.nz
 https://c.realme.com/eg/
 https://c.realme.com/global/
 https://c.realme.com/id/
 https://c.realme.com/in/
 https://c.realme.com/ru/
-https://carecredit.com.au
 https://careers.etsy.com
 https://careers.thetradedesk.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
@@ -5184,10 +5168,7 @@ https://gatewaydsapdev2.marriott.com/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
 https://gcsm.oppoit.com/
-https://gemcreditline.co.nz
-https://gemfinance.co.nz
 https://geminiadvisory.io
-https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
@@ -5429,7 +5410,6 @@ https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.isc.org/isc-projects/bind9
 https://glow.imoulife.com
 https://go.elementor.com/
-https://gomastercard.com.au
 https://gov.bugcrowd.net
 https://gpt.lime.bike
 https://graphql.acorns.com
@@ -5467,7 +5447,6 @@ https://identity.bugcrowd.com/
 https://identity.majidalfuttaim.com
 https://identity.monash.edu
 https://identity.monash.edu/
-https://images.latitudepayapps.com/
 https://imply-pivot.blis.com
 https://imply-pivot.test.blis.com
 https://imply.blis.com
@@ -5481,7 +5460,6 @@ https://ims.monash.edu
 https://indeed.com
 https://indonesiavoa.vfsevisa.id/
 https://infiniteathlete.ai
-https://interestfree.com.au
 https://internal.platform.blis.com
 https://interviews.monash.edu/
 https://investor.bullish.com/
@@ -5529,7 +5507,6 @@ https://landrover.here.com
 https://lapi.yellowblocks.me
 https://lastpass.com
 https://lastpass.com/misc_download2.php
-https://latitudeinfinity.com.au
 https://launchdarkly.com/docs
 https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/0dfwUn870OFm3aebVTKv0xz1viKKyXlL
 https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/8VdAQsuIqDPQhsNC1sNQtS2Jf7anninl
@@ -5806,6 +5783,7 @@ https://marketplace.atlassian.com/apps/1218118/release-plugin-for-bitbucket-serv
 https://marketplace.atlassian.com/apps/1218151/capacity-tracker?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218211/secure-google-calendar-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1218221/feature-bundle-for-jira-service-management?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1218225?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=datacenter
 https://marketplace.atlassian.com/apps/1218250/mobile-plugin-for-confluence-data-center-and-server?hosting=server
 https://marketplace.atlassian.com/apps/1218271/code-coverage-for-bitbucket-server?hosting=server
@@ -5832,6 +5810,7 @@ https://marketplace.atlassian.com/apps/1219094/insight-sccm-integration?hosting=
 https://marketplace.atlassian.com/apps/1219099/stagil-tables-todo-checklists-reports-statistics?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219105/xcode-for-bitbucket-server?hosting=server
 https://marketplace.atlassian.com/apps/1219112/easy-templates-for-jira-issues?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219196/team-performance-reports-and-insights?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219205/scrumpy-planning-poker-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219212/insight-google-cloud-integration?hosting=datacenter
@@ -6111,6 +6090,7 @@ https://marketplace.atlassian.com/apps/1236260/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1236389/easy-progress-hill-charts-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236512/easy-action-items-checklist-templates-and-automation?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1236750?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1236998/refined-ui-toolkit-for-confluence-page-builder-navigation?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1237211/devops-gadgets-for-jira-insights-from-github-bb?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1237512/latex-math-for-confluence?hosting=cloud
@@ -6150,6 +6130,7 @@ https://marketplace.atlassian.com/apps/2836020067/created-vs-resolved-charts-for
 https://marketplace.atlassian.com/apps/288/jira-charting-plugin?hosting=server
 https://marketplace.atlassian.com/apps/2903137599/sprintretro-pro-retrospective-metrics-suite?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/293/jira-calendar-plugin?hosting=server
+https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira
 https://marketplace.atlassian.com/apps/30318/directory-scanning-plugin?hosting=server
 https://marketplace.atlassian.com/apps/3076252818/gliffy-zero-egress-compliance-ready-diagramming?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/31399/jql-tricks-plugin?hosting=cloud&tab=overview
@@ -6185,8 +6166,6 @@ https://marketplace.atlassian.com/apps/924938813/agile-wip-charts-for-scrum-kanb
 https://marketplace.atlassian.com/apps/9475/switch-user-su-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.auth0.com
 https://marketplace.ifood.com.br
-https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
-https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matlab.mathworks.com/
 https://mattermost.com/apps/
 https://mcp-server.zomato.com/mcp
@@ -6807,7 +6786,6 @@ https://ui.com/training/partners/
 https://uiscoop.payzippy.com
 https://uketa.vfsglobal.com/forms/UKETA/
 https://ultramobile.com
-https://umiloans.com.au
 https://underarmour.co.kr
 https://underarmournext.com/
 https://unified.neogov.com
