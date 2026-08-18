@@ -975,6 +975,7 @@
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
+*.telenorcdn.net
 *.telenorinpli.se
 *.tesla.cn
 *.tesla.com
@@ -1020,7 +1021,6 @@
 *.tstaging.com
 *.tstaging.tools
 *.tumblr.com
-*.tv.telenor.se
 *.tvg.com
 *.tweakblogs.net
 *.tweakers.net

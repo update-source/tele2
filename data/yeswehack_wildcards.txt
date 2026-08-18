@@ -82,7 +82,6 @@ storage*.infomaniak.com
 *.foretagsportalen.telenor.se
 *.mittforetag.telenor.se
 *.stream.telenor.se
-*.tv.telenor.se
 *.play.ownit.se
 *.inpli.se
 *.telenorinpli.se
@@ -93,6 +92,7 @@ storage*.infomaniak.com
 *.ownit.se
 *.bredbandsbolaget.se
 *.europolitan.se
+*.telenorcdn.net
 *.vfsglobal.(com|co.uk|ca)
 *.vfsevisa.com
 *.onevasco.com
