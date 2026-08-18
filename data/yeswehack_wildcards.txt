@@ -92,7 +92,6 @@ storage*.infomaniak.com
 *.ownit.se
 *.bredbandsbolaget.se
 *.europolitan.se
-*.telenorcdn.net
 *.vfsglobal.(com|co.uk|ca)
 *.vfsevisa.com
 *.onevasco.com
