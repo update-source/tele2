@@ -1264,6 +1264,8 @@ https://artist.link
 https://pods.link
 https://playlist.link
 https://mylink.page
+https://marketplace.atlassian.com/apps/1230303/project-templates-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1235430/space-templates-for-confluence?tab=overview&hosting=cloud
 https://shop.lululemon.com
 https://apps.apple.com/us/app/lululemon/id920098546
 https://www.lululemon.com.au/  
@@ -1999,6 +2001,8 @@ https://marketplace.atlassian.com/apps/1229966/scrum-master-assistant-for-jira?h
 https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
 3.0 API
+https://marketplace.atlassian.com/apps/1214045/raley-email-notifications-for-jira-jsm?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1223409/raley-purchase-orders?hosting=cloud&tab=overview
 api.rapyd.net
 https://dashboard.rapyd.net/
 verify.rapyd.net
