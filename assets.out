@@ -1922,6 +1922,7 @@ Database Tools
 Databricks Free Edition
 Dependabot
 Deposit/Withdraw
+Desktop Client
 Desktop MFA for Windows
 Desktop MFA for macOS
 Device: JBL Authentics 200
@@ -2100,7 +2101,7 @@ Harmony Remotes
 HelloFax.com
 HelloSign.com
 Hilton Franchised Properties
-Hilton Third Party Applications
+Hilton Third Party Applications - *.hilton.com
 HubSpot Android Mobile App
 HubSpot Sales Office 365 add-in
 HubSpot iOS Mobile App
@@ -3141,6 +3142,7 @@ apps-accpt.portofantwerpbruges.com
 apps.8x8.com
 apps.apple.com/fr/app/mon-espace-sant%C3%A9/id1589255019 (iOS)
 apps.apple.com/us/app/crowdstrike-falcon/id1458815656
+apps.nextcloud.com
 apps.ort-one-pingone.com
 apps.portofantwerp.com
 apps.portofantwerpbruges.com
@@ -3185,6 +3187,7 @@ auth.magic.link
 auth.monespacesante.fr
 auth.moonpay.com
 auth.mtls.truelayer[-sandbox].com
+auth.nextcloud.com
 auth.ort-one-pingone.com
 auth.preprod.monespacesante.fr
 auth.privy.io
@@ -3711,6 +3714,9 @@ com.nbaimd.gametime.universal
 com.nearme.gamecenter
 com.netease.my.nearme.gamecenter
 com.newegg.app
+com.nextcloud.Talk
+com.nextcloud.client
+com.nextcloud.talk2
 com.oceanwing.FDMPrint
 com.oceanwing.battery.cam
 com.oceanwing.care.cam
@@ -3731,6 +3737,7 @@ com.pacificinteractive.HouseOfFun
 com.paypal.android.p2pmobile
 com.paypal.merchant
 com.paypal.merchant.client
+com.peterandlinda.iOCNotes
 com.playtika.caesarscasino
 com.playtika.wsop.gp
 com.priceline.android.negotiator
@@ -3929,6 +3936,7 @@ create.snapchat.com
 creator.amazon.com
 creatormarketplace.tiktok.com
 crm.na1.insightly.com
+crm.nextcloud.com
 cruises.priceline.com
 cs.money
 css-tricks.com
@@ -3939,6 +3947,7 @@ ctr.a.exodus.io
 customer-sessions.arkoselabs.com
 customerevents.netflix.com
 customers.gitlab.com
+customerupdates.nextcloud.com
 cw.visa.com
 cweb-ott-aws-qa.nba.com
 cweb-ott-aws-uat-uw2.nba.com
@@ -4082,6 +4091,7 @@ docs.api.enterprise.uphold.com
 docs.gitlab.com
 docs.lansweeper.com
 docs.launchdarkly.com
+docs.nextcloud.com
 docs.optimuscards.com
 docs.redoxengine.com
 docs.superhuman.com
@@ -4094,6 +4104,7 @@ doordash.DoorDashConsumer
 doppler
 doppler.team
 download.krisp.ai
+download.nextcloud.com
 downloads.varonis.com
 dr-cf.*.aws.indriverapp.com
 dream-dev.wnba.com
@@ -4371,6 +4382,7 @@ help.krisp.ai
 help.lime.bike
 help.marriott.com
 help.netflix.com
+help.nextcloud.com
 help.redoxengine.com
 help.sketchfab.com
 help.steampowered.com
@@ -5392,6 +5404,9 @@ https://github.com/mattermost/mattermost-plugin-msteams-meetings
 https://github.com/mattermost/mattermost-plugin-playbooks
 https://github.com/mattermost/mattermost-plugin-zoom
 https://github.com/moonpay
+https://github.com/nextcloud/collectives
+https://github.com/nextcloud/files_confidential
+https://github.com/nextcloud/tables
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
@@ -5401,6 +5416,7 @@ https://github.com/plaid/plaid-link-ios
 https://github.com/plaid/plaid-ruby
 https://github.com/plaid/react-native-plaid-link-sdk
 https://github.com/plaid/react-plaid-link
+https://github.com/roundcube/roundcubemail
 https://github.com/ruby/ruby
 https://github.com/slackhq/nebula
 https://github.com/smartcontractkit/chainlink
@@ -7386,6 +7402,8 @@ irmg.nl
 isa-cf.*.aws.indriverapp.com
 ispdesign.ui.com
 issuer.idpay-uat.unico.io
+it.niedermann.owncloud.notes
+it.twsweb.Nextcloud
 it.xvservice.net
 itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itv7.itv.com
@@ -7428,6 +7446,7 @@ kit.snapchat.com
 kmeet.infomaniak.com
 knowage.developer.monespacesante.fr
 knowage.monespacesante.fr
+knowledge.nextcloud.com
 knox.beta.blendlabs.com
 konfigurator.bmw-motorrad.de
 konghq.com
@@ -7472,6 +7491,7 @@ liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
+lists.nextcloud.com
 lists.wordpress.org
 live-backstage.tiktok.com
 live-service.whatnot.com
@@ -7515,11 +7535,13 @@ logitechg.com.cn
 logitechgchallenge.com
 logout.id.posti.fi
 logs-partners.tw.coupang.com
+logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
 lol.onevone
 longisland-dev.gleague.nba.com
 longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
+lookup.nextcloud.com
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7812,11 +7834,72 @@ news.remitly.com
 newsletter-feedback.iciparisxl.nl
 newsletter.iciparisxl.nl
 newsletter.infomaniak.com
+newsletter.nextcloud.com
 newsos.com
 newsroom.images.hyatt.com
 nexotrack-p.exodus.io
 nexotrack.exodus.io
 next.airbnb.com
+nextcloud.com
+nextcloud/3rdparty
+nextcloud/activity
+nextcloud/approval
+nextcloud/bruteforcesettings
+nextcloud/calendar
+nextcloud/calendar_resource_management
+nextcloud/circles
+nextcloud/contacts
+nextcloud/data_request
+nextcloud/deck
+nextcloud/end_to_end_encryption
+nextcloud/external
+nextcloud/files_accesscontrol
+nextcloud/files_antivirus
+nextcloud/files_automatedtagging
+nextcloud/files_fulltextsearch
+nextcloud/files_fulltextsearch_tesseract
+nextcloud/files_lock
+nextcloud/files_pdfviewer
+nextcloud/files_retention
+nextcloud/files_rightclick
+nextcloud/files_texteditor
+nextcloud/firstrunwizard
+nextcloud/flow_notifications
+nextcloud/fulltextsearch
+nextcloud/fulltextsearch_elasticsearch
+nextcloud/globalsiteselector
+nextcloud/groupfolders
+nextcloud/guests
+nextcloud/logreader
+nextcloud/mail
+nextcloud/nextcloud_announcements
+nextcloud/notes
+nextcloud/notifications
+nextcloud/notify_push
+nextcloud/password_policy
+nextcloud/photos
+nextcloud/preferred_providers
+nextcloud/privacy
+nextcloud/recommendations
+nextcloud/related_resources
+nextcloud/richdocuments
+nextcloud/server
+nextcloud/serverinfo
+nextcloud/sharepoint
+nextcloud/socialsharing
+nextcloud/spreed
+nextcloud/survey_client
+nextcloud/suspicious_login
+nextcloud/terms_of_service
+nextcloud/text
+nextcloud/twofactor_totp
+nextcloud/twofactor_webauthn
+nextcloud/updater
+nextcloud/user_migration
+nextcloud/user_oidc
+nextcloud/user_saml
+nextcloud/viewer
+nextcloud/workflow_script
 nextshipping.posti.fi
 nft.io
 nha-cf.*.aws.indriverapp.com
@@ -8015,6 +8098,7 @@ portal.enterprise.uphold.com
 portal.gofoodmerchant.co.id
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
+portal.nextcloud.com
 portal.polygon.technology
 portal.taxi.booking.com
 portalinmobiliario.cl
@@ -8070,6 +8154,7 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
+projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
 proxy-production.lime.bike
@@ -8079,7 +8164,9 @@ psychobunny.me
 public.hyatt.com
 publicsafety.ring.com
 pubtools.private.8x8cloud.net
+push-notifications.nextcloud.com
 push.opera.com
+pushfeed.nextcloud.com
 pwapi.ex2b.com
 py.pl
 qa.stats.nba.com
@@ -8247,6 +8334,7 @@ santacruz.gleague.nba.com
 sap.api-xperience.com
 sc-cf.*.aws.indriverapp.com
 scan.clearme.com
+scan.nextcloud.com
 scan.snapchat.com
 scapegoat.hyatt.com
 scp.watsons.com.tr
@@ -8413,6 +8501,7 @@ staging.magisto.com
 staking-api.polygon.technology
 staking.polygon.technology
 static*.twilio.com
+static.apps.nextcloud.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.gleague.nba.com
@@ -8429,6 +8518,7 @@ stats-trafficcop-qa.nba.com
 stats-trafficcop-uat.nba.com
 stats.gleague.nba.com
 stats.nba.com
+stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
 status.delen.be 
@@ -8488,6 +8578,7 @@ support.logi.com
 support.malwarebytes.com
 support.monespacesante.fr
 support.mozilla.org
+support.nextcloud.com
 support.rockstargames.com
 support.steampowered.com
 support.varonis.com
@@ -8495,6 +8586,7 @@ supportal.netlify.app
 sur-cf.*.aws.indriverapp.com
 survey.vinci.com
 survey.visa.com
+surveyserver.nextcloud.com
 sustentabilidadmercadolibre.com/
 svn.notebleue.pro
 swiftcapital.com
@@ -8589,6 +8681,7 @@ unified.cloudways.com
 university.marriott.com
 unreal-agents.8x8pilot.com
 updates.forescout.com
+updates.nextcloud.com
 upld.krisp.ai
 upload.box.com
 upload.deezer.com
@@ -8601,6 +8694,7 @@ usa.visa.com
 user-authentication-api.truelayer[-sandbox].com
 user-profile-staging.8x8.com
 user-profile.8x8.com
+usercontent.apps.nextcloud.com
 usercontent.koho.ca
 users-api.truelayer.com
 uwa.mobilevikings.be

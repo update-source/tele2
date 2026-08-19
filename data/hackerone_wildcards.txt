@@ -191,6 +191,7 @@ wlr-cf.*.aws.indriverapp.com
 *.hilton.io
 *.hiltonbusinessonline.com
 *.hiltonlocalbiz.com
+Hilton Third Party Applications - *.hilton.com
 *.advisor-connection.com
 *.mworld.com
 *.wellsfargo.com
