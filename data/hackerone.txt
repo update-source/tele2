@@ -3400,6 +3400,7 @@ https://mcp-server.zomato.com/mcp
 winecellar.zomato.com
 Tor
 Tor Browser
+https://gitlab.torproject.org/tpo/core/arti
 api.deriv.com
 app.deriv.com
 cashier.deriv.com
