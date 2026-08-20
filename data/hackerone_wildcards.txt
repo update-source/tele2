@@ -770,7 +770,6 @@ munin-*.wordpress.org
 *.gitlap.com
 *.grok.com
 *.twimg.com
-*.twitter.biz
 *.twitter.com
 *.vine.co
 *.x.ai

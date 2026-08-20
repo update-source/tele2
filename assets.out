@@ -1053,7 +1053,6 @@
 *.tweakimg.net
 *.twimg.com
 *.twinmotion.com
-*.twitter.biz
 *.twitter.com
 *.tyo-masters.co.jp
 *.uat.unico.app
@@ -2696,6 +2695,7 @@ Workers KV
 Workstation MFA (WMFA)
 Wrapped
 Wyze Cam V3
+X Pixel Helper (Chrome Extension)
 XD
 Yahoo Calendar
 Yahoo Finance
@@ -2760,6 +2760,7 @@ accounts.reddit.com
 accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
+accounts.x.ai
 accountsettings.connect.identity.stagaws.visma.com
 accountshomolog.acesso.io
 aces-dev.wnba.com
@@ -3877,6 +3878,8 @@ console.ort-one-pingone.com
 console.posti.com
 console.tink.com
 console.truelayer[-sandbox].com
+console.x.ai
+console.x.com
 contact-dev.nba.com
 contact-qa.nba.com
 contact.nba.com
@@ -4330,7 +4333,6 @@ globalstores-qa.nba.com
 globalstores.nba.com
 gms-prev.nba.com
 gms.nba.com
-gnip.com
 gnocchi-www.buffalo-ggn.net
 go-cms.tw.coupang.com
 go.capital.com
@@ -4354,7 +4356,7 @@ green.nba.com
 greensboro-dev.gleague.nba.com
 greensboro-qa.gleague.nba.com
 greensboro.gleague.nba.com
-grok-build-cli
+grok-build
 grok.com
 grokipedia.com
 gs://faraday-secret
@@ -8259,6 +8261,7 @@ promo.tw.coupang.com
 prow.k8s.io
 proxy-production.lime.bike
 ps5.np.playstation.net
+pscp.tv
 psp.marriott.com
 psychobunny.me
 public.hyatt.com
@@ -9372,6 +9375,7 @@ www10.watsons.com.sg
 www10.watsons.com.tw
 www10.watsons.vn
 www20.watsons.co.th
+x.ai
 x.com
 x.razorpay.com
 xadsacademy.com

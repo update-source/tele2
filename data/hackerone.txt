@@ -3897,17 +3897,22 @@ https://gitlab.com/gitlab-org/gitlab-runner
 https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
 registry.gitlab.com
+X Pixel Helper (Chrome Extension)
+accounts.x.ai
 ai.x.GrokApp
 ai.x.grok
 chat.x.com
 com.atebits.Tweetie2
 com.twitter.android
-gnip.com
-grok-build-cli
+console.x.ai
+console.x.com
+grok-build
 grok.com
 grokipedia.com
 money.x.com
+pscp.tv
 t.co
+x.ai
 x.com
 xadsacademy.com
 1.1.1.1 Resolver
