@@ -1077,6 +1077,8 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
+*.voi.com
+*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -2595,6 +2597,8 @@ Vercel sandbox
 Video Conferencing Products
 Video Doorbell
 Virtual Office Desktop
+Voi – e-scooter & e-bike hire
+Voi – e-scooters & e-bikes
 Vox Cinemas Android
 Vox Cinemas iOS
 WARP Mobile Apps
@@ -2817,6 +2821,8 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
+api-wallet-sandbox.venly.io
+api-wallet.venly.io
 api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
@@ -2825,6 +2831,7 @@ api.airbnb.com
 api.alasco.de
 api.amazonalexa.com/*
 api.anthropic.com
+api.arkane.network
 api.atg.se
 api.au.frontegg.com
 api.binance.com
@@ -3802,10 +3809,12 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
+connect.arkane.network 
 connect.deezer.com
 connect.identity.stagaws.visma.com
 connect.posti.fi
 connect.secure.wellsfargo.com
+connect.venly.io
 console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
@@ -4185,6 +4194,7 @@ flourish-user-preview.com
 flourish-user-templates.com
 flyiin.com
 fm.anchor.android
+fm.voiapp.io
 folder.iciparisxl.nl
 folder.kruidvat.be
 folder.kruidvat.nl
@@ -4556,6 +4566,7 @@ https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
+https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.x.immutable.com/
@@ -6655,6 +6666,7 @@ https://redash-staging.getmoneytree.com/
 https://refinedsites.refinedwiki.com
 https://regatta.aiven.io/
 https://rentals.tripadvisor.com
+https://repair.voiweb.net
 https://res.cloudinary.com
 https://research.monash.edu/
 https://researchmgt.monash.edu/
@@ -7516,6 +7528,7 @@ login-dev.nba.com
 login-qa.nba.com
 login-sandbox.nba.com
 login-uat.nba.com
+login.arkane.network
 login.cm.com
 login.delen.be 
 login.delen.ch 
@@ -7532,6 +7545,7 @@ login.rei.com
 login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
+login.venly.io
 login.www.vaxvacationaccess.com
 logiq.logitech.io
 logistica.redelcom.cl
@@ -7626,6 +7640,7 @@ mcp.8x8.com
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
+mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
@@ -8253,6 +8268,7 @@ reno-dev.gleague.nba.com
 reno.gleague.nba.com
 repo.magento.com
 report-html-sight.stg.inspectorio.com
+report.voi.com
 res.blueskytours.globalbookingsolutions.com
 res.funjet.com
 res.hyattinclusivecollection.com
@@ -8734,6 +8750,7 @@ visasgic.api-xperience.com
 vm-gw-cf.*.aws.indriverapp.com
 voapi.8x8.com
 vod.infomaniak.com
+voi.com
 voices.nba.com
 volans.tech
 vote.nba.com
@@ -8753,6 +8770,7 @@ w1.uzleuven.be
 w1.uzleuven.be/random
 wallet-sandbox.uphold.com
 wallet.tg
+wallet.venly.io
 wallet.web3auth.io
 walletbot.me
 wallets.api.playstation.com

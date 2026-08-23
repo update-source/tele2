@@ -684,6 +684,14 @@ Brand Sites
 myaccount.vtm.be
 vtm.be/vtmgo
 vtmgo.be
+api-wallet.venly.io
+api.arkane.network
+connect.arkane.network 
+connect.venly.io
+login.arkane.network
+login.venly.io
+wallet.venly.io
+api-wallet-sandbox.venly.io
 564141518
 accountsettings.connect.identity.stagaws.visma.com
 admin.stage.vismaonline.com
@@ -704,6 +712,14 @@ ai-testing.maventa.com
 ax-stage.maventa.com
 autointerface.stag.visma.net
 testing.maventa.com
+Voi – e-scooters & e-bikes
+Voi – e-scooter & e-bike hire
+https://api.voiapp.io/
+mds.voiapp.io
+fm.voiapp.io
+https://repair.voiweb.net
+report.voi.com
+voi.com
 https://app.getflywheel.com
 https://getflywheel.com
 https://my.wpengine.com
