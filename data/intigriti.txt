@@ -704,14 +704,6 @@ ai-testing.maventa.com
 ax-stage.maventa.com
 autointerface.stag.visma.net
 testing.maventa.com
-Voi – e-scooters & e-bikes
-Voi – e-scooter & e-bike hire
-https://api.voiapp.io/
-mds.voiapp.io
-fm.voiapp.io
-https://repair.voiweb.net
-report.voi.com
-voi.com
 https://app.getflywheel.com
 https://getflywheel.com
 https://my.wpengine.com
