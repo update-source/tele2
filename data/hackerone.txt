@@ -981,6 +981,7 @@ https://solutions.visaacceptance.com/subscription
 https://usa.visa.com/gateway/api
 https://www.myvisacardportal.com/enbd/en_ae/landing/
 https://www.visa.com.az/az_az/account/registration
+https://www.visa.com.ua/
 images.demand.cybersource.com
 infinite.visa.fr
 info.authorize.net
@@ -1019,7 +1020,6 @@ www.authorize.net
 www.cardinalcommerce.com
 www.currencycloud.com
 www.cybersource.com
-www.fraedom.com
 www.mz.visa.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
@@ -1065,7 +1065,6 @@ www.visa.com.ru
 www.visa.com.sg
 www.visa.com.tr
 www.visa.com.tw
-www.visa.com.ua
 www.visa.com.vn
 www.visa.cz
 www.visa.de
