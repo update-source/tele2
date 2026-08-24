@@ -199,6 +199,7 @@ Hilton Third Party Applications - *.hilton.com
 *.wf.com
 *.payoneer.com
 *.hypermint.com
+*.iron.xyz
 *.moonpay.com
 *.moonpaycloud.com
 *.capitalone.ca

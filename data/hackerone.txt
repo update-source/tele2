@@ -1481,6 +1481,19 @@ connect.secure.wellsfargo.com
 homeloans.wellsfargo.com
 http://wellsfargo.com
 http://wf.com
+Wickr Me Android
+Wickr Me Linux
+Wickr Me OS X
+Wickr Me Windows
+Wickr Me iOS
+Wickr Pro Android
+Wickr Pro Linux
+Wickr Pro OS X
+Wickr Pro Windows
+Wickr Pro iOS
+Wickr Pro/Wickr Me (all related technical components) (up to)
+admin.wickr.com
+www.wickr.com
 http://greenchannel.payoneer.com.cn/gcportal
 myaccount-cn.payoneer.com
 myaccount.payoneer.com
@@ -3450,8 +3463,6 @@ npmjs.com
 npmjs.org
 com.wealthsimple
 com.wealthsimple.wealthsimple
-https://hackerone-m1rtuq8orz.hbstaging.website/
-https://signin-hackerone.hbstaging.website/
 434613896
 6670203019
 6670536058
