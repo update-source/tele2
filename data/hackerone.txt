@@ -911,6 +911,7 @@ Other related e-commerce services
 Recruitment services
 e-Commerce
 admin-portal.api-xperience.com
+africa.visa.com
 api.prod.innovexperiments.com
 app.demand.cybersource.com
 askpeopleteam.visa.com
@@ -919,7 +920,9 @@ bb.visa.com
 bd.visa.com
 bm.visa.com
 bq.visa.com
+by.visa.com
 capability.prod.innovexperiments.com
+cis.visa.com
 codeofconduct.visa.com
 console.tink.com
 cw.visa.com
@@ -976,12 +979,14 @@ https://ebctest.cybersource.com/ums
 https://ebctest.cybersource.com/vdm
 https://ebctest.cybersource.com/vts
 https://solutions.visaacceptance.com/subscription
+https://usa.visa.com/gateway/api
 https://www.myvisacardportal.com/enbd/en_ae/landing/
 https://www.visa.com.az/az_az/account/registration
 images.demand.cybersource.com
 infinite.visa.fr
 info.authorize.net
 info.cybersource.com
+kino.visa.pl
 merchantsignage.visa.com
 merchantsignageap.visa.com
 merchantsignageca.visa.com
@@ -989,11 +994,14 @@ merchantsignageeu.visa.com
 merchantsignageglobal.visa.com
 merchantsignagejp.visa.com
 my.visa.fr
+myanmar.visa.com
 myvu.visauniversity.com
 releasor.payworks.com/
+rs.visa.com
 sandbox.authorize.net
 sandbox.secure.checkout.visa.com
 sap.api-xperience.com
+sr.visa.com
 survey.visa.com
 test.payworks.io
 testbank.xs2a.com
@@ -1004,7 +1012,9 @@ vgov.catalogue.digitalcontrolroom.com
 visa.co.za
 visa.com.au
 visa.com.jm
+visa.com.mx
 visa.com.ru
+visa.in
 visainnovationprogram.com
 visaonchainanalytics.com
 visasgic.api-xperience.com
@@ -1014,11 +1024,16 @@ www.cardinalcommerce.com
 www.currencycloud.com
 www.cybersource.com
 www.fraedom.com
+www.mz.visa.com
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
 www.practicalmoneyskills.org
 www.tink.com
 www.trialpay.com
+www.visa.be
+www.visa.ca
+www.visa.cl
+www.visa.cn
 www.visa.co.ao
 www.visa.co.cr
 www.visa.co.id
@@ -1031,6 +1046,7 @@ www.visa.co.nz
 www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
+www.visa.com
 www.visa.com.az
 www.visa.com.bo
 www.visa.com.br
@@ -1038,7 +1054,9 @@ www.visa.com.cn
 www.visa.com.cy
 www.visa.com.ge
 www.visa.com.hk
+www.visa.com.hn
 www.visa.com.hr
+www.visa.com.jm
 www.visa.com.kh
 www.visa.com.kz
 www.visa.com.lc
@@ -1054,9 +1072,39 @@ www.visa.com.tr
 www.visa.com.tw
 www.visa.com.ua
 www.visa.com.vn
+www.visa.cz
+www.visa.de
+www.visa.dk
+www.visa.dm
+www.visa.ee
+www.visa.es
+www.visa.fi
 www.visa.fr
+www.visa.gr
+www.visa.hu
+www.visa.ie
+www.visa.is
+www.visa.lt
+www.visa.lv
+www.visa.mn
+www.visa.nl
+www.visa.no
+www.visa.pl
+www.visa.pt
+www.visa.ro
+www.visa.se
+www.visa.sk
+www.visabg.com
+www.visaeurope.at
+www.visaeurope.ch
+www.visaeurope.es
+www.visaeurope.lu
+www.visaeurope.si
 www.visainfinite.ca
+www.visaitalia.com
+www.visakorea.com
 www.visamiddleeast.com
+www.visasoutheasteurope.com
 www.yellowpepper.com
 Primary Assets
 Secondary Assets
@@ -2686,7 +2734,6 @@ com.Hyatt
 confluence.hyattdev.com
 ebsext.oft.hyatt.com
 hyatt.com
-jira.hyattdev.com
 login.www.vaxvacationaccess.com
 meetings.hyatt.com
 mobileapp.hyatt.com
@@ -3274,6 +3321,11 @@ workflows.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
+https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Extension (BApps)

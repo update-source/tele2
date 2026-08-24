@@ -1817,6 +1817,8 @@ Bot Management
 Box Drive
 Braintree SDK
 Brand Sites
+Brave Browser Desktop
+Brave websites
 Bridge
 Broken Link
 Browser Isolation
@@ -2800,6 +2802,7 @@ aebddc74953f248bc8455665b0f7d47b-78af959a11e5d0c1.elb.us-east-1.amazonaws.com
 aff.capital.com
 affiliate-id.tokopedia.com
 affiliate.meesho.com
+africa.visa.com
 agents.hostinger.com
 agents.tasheer.com
 aguacaliente-dev.gleague.nba.com
@@ -3324,6 +3327,7 @@ businesshelp.snapchat.com
 buy.faraday.ai
 buy.logitech.com
 buy.moonpay.com
+by.visa.com
 bykea.com
 ca.account.sony.com
 ca.koho
@@ -3441,6 +3445,7 @@ cht-gw-cf.*.aws.indriverapp.com
 ci-propertyconversionportal.marriott.com
 circle.logi.com
 circolocorecords.com/
+cis.visa.com
 cl-qa.nba.com
 cl.nba.com
 classroom.github.com
@@ -3564,6 +3569,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -5261,6 +5268,7 @@ https://github.com/backstage/backstage
 https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
+https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -6943,6 +6951,7 @@ https://us.eufy.com/products/t8410121
 https://us.eufy.com/products/t88511d1
 https://us.eufy.com/products/t88711w1
 https://us.identity.konghq.com/*
+https://usa.visa.com/gateway/api
 https://usdstandard.com/
 https://utv.usaa.com
 https://v.utv.usaa.com
@@ -7490,7 +7499,6 @@ j.root-servers.net (DNS service; DNS related)
 jakelu.posti.fi
 jeux-concours.marionnaud.fr
 jimmobile.be
-jira.hyattdev.com
 jira.logitech.com
 job.ryadom.kz
 jobs.kiwi.com
@@ -7520,6 +7528,7 @@ kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kidswebservices.com
+kino.visa.pl
 kit.snapchat.com
 kmeet.infomaniak.com
 knowage.developer.monespacesante.fr
@@ -7867,6 +7876,7 @@ myaccount.payoneer.com
 myaccount.trouw.nl
 myaccount.volkskrant.nl
 myaccount.vtm.be
+myanmar.visa.com
 myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
@@ -8388,6 +8398,7 @@ rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
 rs-cf.*.aws.indriverapp.com
 rs-open-api.tw.coupang.com
+rs.visa.com
 rsm-cf.*.aws.indriverapp.com
 rt.playcanvas.com
 ryadom.kz
@@ -8567,6 +8578,7 @@ speelgoedfolder.kruidvat.nl
 splunk-phantom-nlb.marriott.com
 sporza.be
 sr-staging-1.com
+sr.visa.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
@@ -8823,7 +8835,9 @@ vinci-groupe.profils.org
 visa.co.za
 visa.com.au
 visa.com.jm
+visa.com.mx
 visa.com.ru
+visa.in
 visainnovationprogram.com
 visaonchainanalytics.com
 visasgic.api-xperience.com
@@ -9168,6 +9182,7 @@ www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
+www.mz.visa.com
 www.nba.com
 www.netflix.com
 www.onsexprime.fr
@@ -9273,6 +9288,10 @@ www.vfsvisaonline.com
 www.vimeo.com
 www.vinci-vie.fr
 www.vinci.com
+www.visa.be
+www.visa.ca
+www.visa.cl
+www.visa.cn
 www.visa.co.ao
 www.visa.co.cr
 www.visa.co.id
@@ -9285,6 +9304,7 @@ www.visa.co.nz
 www.visa.co.th
 www.visa.co.uk
 www.visa.co.ve
+www.visa.com
 www.visa.com.az
 www.visa.com.bo
 www.visa.com.br
@@ -9292,7 +9312,9 @@ www.visa.com.cn
 www.visa.com.cy
 www.visa.com.ge
 www.visa.com.hk
+www.visa.com.hn
 www.visa.com.hr
+www.visa.com.jm
 www.visa.com.kh
 www.visa.com.kz
 www.visa.com.lc
@@ -9308,9 +9330,39 @@ www.visa.com.tr
 www.visa.com.tw
 www.visa.com.ua
 www.visa.com.vn
+www.visa.cz
+www.visa.de
+www.visa.dk
+www.visa.dm
+www.visa.ee
+www.visa.es
+www.visa.fi
 www.visa.fr
+www.visa.gr
+www.visa.hu
+www.visa.ie
+www.visa.is
+www.visa.lt
+www.visa.lv
+www.visa.mn
+www.visa.nl
+www.visa.no
+www.visa.pl
+www.visa.pt
+www.visa.ro
+www.visa.se
+www.visa.sk
+www.visabg.com
+www.visaeurope.at
+www.visaeurope.ch
+www.visaeurope.es
+www.visaeurope.lu
+www.visaeurope.si
 www.visainfinite.ca
+www.visaitalia.com
+www.visakorea.com
 www.visamiddleeast.com
+www.visasoutheasteurope.com
 www.vivre-avec-la-chaleur.fr
 www.vladcazino.ro
 www.vodafone.om
