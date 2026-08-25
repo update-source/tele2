@@ -4,10 +4,8 @@ https://marketplace.atlassian.com/apps/1236750?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1218225?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira
-https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?tab=overview&hosting=datacenter
-https://marketplace.atlassian.com/apps/1228703/intelligent-user-manager-ium-for-confluence?hosting=datacenter&tab=overview
-https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1235944/intelligent-user-manager-ium-for-confluence-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?hosting=cloud&tab=overview
 https://acorns.com/
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://graphql.acorns.com
