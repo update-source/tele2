@@ -325,8 +325,6 @@ https://trello.com/power-ups/586be36326cc4c7e9f70beb3/jira
 Third Party Marketplace Apps
 https://app.aurory.io
 https://store.epicgames.com/en-US/p/amiko-legends-a5986d
-https://play.google.com/store/apps/details?id=io.aurory.seekersoftokane&hl=en_CA
-https://testflight.apple.com/join/FuaxsScP
 config.cic-bug-bounty.auth0app.com
 https://manage.cic-bug-bounty.auth0app.com/
 https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
