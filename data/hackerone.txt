@@ -1825,6 +1825,7 @@ https://github.com/jitsi
 https://webrtc.8x8.com/
 https://www.npmjs.com/package/@8x8/pui-partner-comm
 maestro.8x8.cloud
+map.8x8.com
 mcp.8x8.com
 org.vom8x8.sipua
 pay.8x8.com
