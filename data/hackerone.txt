@@ -931,7 +931,6 @@ dwy.visa.com
 ebctest.cybersource.com
 experience.prod.innovexperiments.com
 forms.cybersource.com
-garp.visa.com
 http://myvisainfinite.com/suntrust/en_us/home.html
 https://ebctest.cybersource.com/CGK2
 https://ebctest.cybersource.com/bin
