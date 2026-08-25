@@ -2577,7 +2577,6 @@ Tier 3 Assets
 Tier 3 OSS
 Tier A - Core Assets
 Tier B - Non Core (Bitmoji, Playcanvas)
-Tor
 Tor Browser
 Trello Desktop Client
 Trello Mobile App for Android
@@ -4428,7 +4427,6 @@ http://api.insightly.com/v3.1/
 http://api.koho.ca/1.0
 http://api.koho.ca/partner
 http://api.na1.insightly.com/v3.1/
-http://app-qa.chime.com/users/sign_in
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
 http://arcanitegames.ca/
@@ -4519,7 +4517,6 @@ https://8x8.vc/xmpp-websocket
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
 https://a.klaviyo.com/api/*
-https://a.simplemdm.com/
 https://access-sit.uat.proptrack.com
 https://account-registration.monash.edu/
 https://account.bitpanda.com
@@ -4644,6 +4641,7 @@ https://apigw.prod.quintoandar.com.br/rental-guarantee-api/*
 https://apigw.prod.quintoandar.com.br/sales-flow-api/*
 https://apis.indeed.com/graphql
 https://apis.onecloud.harman.com
+https://app-qa.chime.com/login
 https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.asana.com
@@ -4666,7 +4664,6 @@ https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
-https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4888,7 +4885,6 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
-https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -5462,7 +5458,6 @@ https://gitlab.com/gitlab-org/gitlab-runner
 https://gitlab.com/gitlab-org/gitlab-shell
 https://gitlab.com/gitlab-org/gitlab-vscode-extension
 https://gitlab.isc.org/isc-projects/bind9
-https://gitlab.torproject.org/tpo/core/arti
 https://glow.imoulife.com
 https://go.elementor.com/
 https://gomastercard.com.au
@@ -5591,7 +5586,6 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
-https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -6569,7 +6563,6 @@ https://portal.clearpay.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
-https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -8676,7 +8669,6 @@ vasdemos.visa.com
 vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
-vdam.visa.com
 vector.prd.iat.it.xvservice.net
 verified.clearme.com
 verified.clearme.com/v1/verification_sessions
@@ -9194,7 +9186,6 @@ www.visa.com.vn
 www.visa.cz
 www.visa.de
 www.visa.dk
-www.visa.dm
 www.visa.ee
 www.visa.es
 www.visa.fi

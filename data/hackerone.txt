@@ -998,7 +998,6 @@ test.payworks.io
 testbank.xs2a.com
 usa.visa.com
 vasdemos.visa.com
-vdam.visa.com
 vgov.catalogue.digitalcontrolroom.com
 visa.co.za
 visa.com.au
@@ -1058,7 +1057,6 @@ www.visa.com.vn
 www.visa.cz
 www.visa.de
 www.visa.dk
-www.visa.dm
 www.visa.ee
 www.visa.es
 www.visa.fi
@@ -3516,9 +3514,7 @@ com.blinkit.bistro
 com.grofers.customerapp
 https://mcp-server.zomato.com/mcp
 winecellar.zomato.com
-Tor
 Tor Browser
-https://gitlab.torproject.org/tpo/core/arti
 api.deriv.com
 app.deriv.com
 cashier.deriv.com
