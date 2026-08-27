@@ -1,5 +1,6 @@
 http://data-api.coindesk.com/
 https://tools-api.cryptocompare.com/
+https://marketplace.atlassian.com/apps/1218391/dependency-map-for-jira-link-viewer?hosting=cloud
 https://marketplace.atlassian.com/apps/1236750?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1218225?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud&tab=overview
@@ -445,6 +446,12 @@ https://apps.apple.com/ee/app/bolt-food/id1451492388
 https://play.google.com/store/apps/details?id=com.bolt.deliveryclient
 https://taxify.eu/
 https://bolt.eu/
+https://marketplace.atlassian.com/apps/1217938/company-calendar-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1213545/work-time-tracking-calendar-for-jira?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1217938/company-calendar-planner-for-jira?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1213545/work-time-tracking-calendar-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1222150/gantt-suite-for-jira?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1222150/gantt-suite-for-jira?tab=overview&hosting=datacenter
 https://marketplace.atlassian.com/apps/1215768/agile-velocity-chart-gadget?hosting=cloud
 https://marketplace.atlassian.com/apps/1212120/agile-reports-and-gadgets?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1214373/subcomponents-for-jira-cloud?hosting=cloud&tab=overview
@@ -469,6 +476,19 @@ https://bullish.com/
 https://investor.bullish.com/
 https://simnext.bullish-test.com
 https://api.simnext.bullish-test.com
+https://marketplace.atlassian.com/apps/1221754/translator-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1222649/macrosuite-easy-html-button-hide-content-divider-tabs?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1223472/trophies-for-jira-gamification?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1224103/cards-panels?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1224724/todo-checklist-with-forge?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1223471/trophies-for-confluence-gamification?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225290/moscow-agile-prioritization-with-forge?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225145/image-editor-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1230540/cosmos-intranet-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1227112/eisenhower-task-management-todo-priority-matrix-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1231591/shoppie-assets-integrated-shop-for-jsm?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225724/email-confluence-page?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1230161/linksy-advanced-issue-linking?hosting=cloud&tab=overview
 https://www.canva.com
 https://www.canva.com/developers/
 Apps SDK Sandboxing
@@ -1305,6 +1325,13 @@ https://github.com/mattermost/mattermost-plugin-mscalendar
 https://github.com/mattermost/mattermost-plugin-msteams-meetings
 https://github.com/mattermost/mattermost-plugin-confluence
 https://github.com/mattermost/mattermost-plugin-msteams
+https://marketplace.atlassian.com/apps/4977/email-this-issue?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1219628/glass-project-documentation-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1224984/glass-project-information-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/4909/content-exporter-word-pdf-html?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1218865/advanced-children-display-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1229346/marketplace-integration-for-jira?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/3762467523/myra-csat-nps-ces-feedback-hub-for-jsm?hosting=cloud&tab=overview
 https://mgm.mo
 https://mgm.mo
 https://booking.mgm.mo/
@@ -1409,6 +1436,7 @@ https://marketplace.atlassian.com/apps/1236139/capybara-github-azure-devops-for-
 https://market.android.com/details?id=com.myfitnesspal.android&rdid=com.myfitnesspal.android
 https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718
 https://app.navan.com
+https://marketplace.atlassian.com/apps/1222843/aio-tests-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219230/advanced-portal-reports-for-service-desk?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1238203/self-service-portal-report?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1234378/modify-my-request?hosting=cloud&tab=overview
