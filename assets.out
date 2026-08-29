@@ -1178,11 +1178,9 @@
 *dev*.arlo.com
 *dev.uzleuven.be
 *developer.cloud.com
-*ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
 *inf.fndlsb.net
-*omega*.yahoo.com
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
@@ -1581,7 +1579,6 @@
 6740879082
 6741442288
 674258465
-7 News
 719525810
 737216887
 740514933
@@ -1793,8 +1790,6 @@ Bot Management
 Box Drive
 Braintree SDK
 Brand Sites
-Brave Browser Desktop
-Brave websites
 Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -2014,7 +2009,6 @@ GS Select iOS app
 GameMaker Studio 2
 Gardener
 Gateway
-Gemini
 GenAI Apps under *.amazon.*
 Git Repositories (b2-sdk-java & B2 Command Line Tool)
 GitHub Actions in our Public Repositories 
@@ -2081,7 +2075,6 @@ ICI Paris XL iOS
 IT Infrastructure
 Ibotta App Data & Memory
 Id1406825640
-Identity Services
 Images
 In Scope - Points only
 Indoor Cam
@@ -2174,7 +2167,6 @@ Logitech Sync
 Logstash
 LookAtMe Philippines Android
 LookAtMe Philippines iOS
-Low Cost Access
 Low Level Properties and Test environment
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
@@ -2297,7 +2289,6 @@ OpenAI API Keys
 Opsgenie (Android)
 Opsgenie (IoS)
 Other
-Other (Misc)
 Other - (all other Atlassian targets)
 Other APK Assets
 Other Acronis Domains
@@ -2417,7 +2408,6 @@ Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
 Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
 Smokescreen Open Source Project
 Snaps
-Social Media Accounts
 Sockets
 Software
 Software Supply Chain
@@ -2485,12 +2475,6 @@ Superhuman Mail Desktop App
 System Specification
 T&P Servers
 TF-PSA-Crypto
-TW Media: Front Page
-TW Media: News
-TW Media: Stock
-TW eCommerce: Auctions
-TW eCommerce: Shopping
-TW eCommerce: Used Car
 Tablets
 Tap to Pay (Android)
 Tap to Pay (iOS)
@@ -2641,24 +2625,6 @@ Workstation MFA (WMFA)
 Wrapped
 Wyze Cam V3
 X Pixel Helper (Chrome Extension)
-Yahoo Calendar
-Yahoo Finance
-Yahoo HK News
-Yahoo Mail
-Yahoo News
-Yahoo Open Source Projects
-Yahoo Search
-Yahoo Sports: Best Ball
-Yahoo Sports: Daily Fantasy
-Yahoo Sports: Editorial
-Yahoo Sports: Fantasy Games
-Yahoo Sports: Fantasy Slate/PicknWin
-Yahoo Sports: Fantasy Sports
-Yahoo Sports: Fantasy Wallet
-Yahoo Sports: Mobile
-Yahoo Video
-Yahoo Weather
-Yahoo! (Misc)
 Your Own GitLab Instance
 Zendesk AI
 Zendesk Front End
@@ -2999,7 +2965,6 @@ api.yoti.com
 api2.frontapp.com
 api2.grofers.com
 apigw.foliofn.com
-apis.mail.yahoo.com
 apix.vodafone.om
 app*.hubspot.com
 app-*.easy4ipcloud.com
@@ -3490,8 +3455,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -3913,7 +3876,6 @@ dashboard.pluralonline.com
 dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
-data.mail.yahoo.com
 data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
@@ -5170,7 +5132,6 @@ https://github.com/backstage/backstage
 https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
-https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -7830,7 +7791,6 @@ onboarding.greenhouse.io
 one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
 one.dash.cloudflare.com
-onepush.query.yahoo.com
 oneview.threatdown.com
 online.s-pankki.fi
 onlinedoctor.superdrug.com
@@ -8017,7 +7977,6 @@ prod-*.nubank.com.br
 prod-mipaasiaasservices.marriott.com
 prod.meeshoapi.com
 prod.ros.rockstargames.com
-proddata.xobni.yahoo.com
 production.plaid.com
 professionnels.vaccination-info-service.fr
 profiel.vrt.be
@@ -9169,7 +9128,6 @@ xlence.iciparisxl.nl
 xtramile.grabpay.com
 yelptop100.com
 yhteystietoni.posti.fi
-yimg.com
 you.23andme.com
 your-assigned-subdomain.files.com
 your-store.myshopify.com
