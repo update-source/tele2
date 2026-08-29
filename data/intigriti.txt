@@ -638,37 +638,6 @@ shop.trouw.nl
 webwinkel.trouw.nl
 www.trouw.nl
 www.trouw.nl/abonnementen
-api.truelayer[-sandbox].com
-api.mtls.truelayer[-sandbox].com
-auth.truelayer[-sandbox].com
-auth.mtls.truelayer[-sandbox].com
-app.truelayer[-sandbox].com
-login-api.truelayer[-sandbox].com
-login.truelayer[-sandbox].com
-onboarding-api.truelayer.com
-pay-api.truelayer[-sandbox].com
-pay.truelayer[-sandbox].com
-paydirect.truelayer[-sandbox].com
-payment.truelayer[-sandbox].com
-payments-experience-api.truelayer[-sandbox].com
-user-authentication-api.truelayer[-sandbox].com
-users-api.truelayer.com
-C# SDK
-console-backend.truelayer[-sandbox].com
-console.truelayer[-sandbox].com
-sftp.reports.truelayer.com
-Java SDK
-PHP SDK
-TrueLayer for Magento (Magento plugin)
-TrueLayer for WooCommerce (WordPress plugin)
-shopify-admin.truelayer.com
-shop-pay-app-api.truelayer.com
-truelayer-signing
-webhooks.truelayer[-sandbox].com
-iOS SDK
-React Native SDK
-Web SDK
-Rust SDK
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
 TF-PSA-Crypto
@@ -769,16 +738,6 @@ fm.voiapp.io
 https://repair.voiweb.net
 report.voi.com
 voi.com
-https://app.getflywheel.com
-https://getflywheel.com
-https://my.wpengine.com
-https://payments.wpengine.com
-https://wpengine.com
-WP Engine-developed WordPress Plugins and Themes
-https://makeshift.film
-https://studiopress.blog
-https://torquemag.io
-https://velocitize.com
 https://desktop.water-link.be/
 https://pit.water-link.be/
 https://www.water-link-jaarverslag.be
