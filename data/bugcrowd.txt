@@ -2177,7 +2177,7 @@ https://simplisafe.com
 https://simplisafe.co.uk
 api.prd.commerce.simplisafe.com
 https://www.skroutz.gr
-All internet facing Sky UK/ROI assets
+All internet facing Sky Italy assets 
 All internet facing Sky Italy assets 
 All internet facing Sky DACH assets
 Skyscanner iOS App
