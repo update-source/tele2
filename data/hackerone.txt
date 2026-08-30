@@ -1772,7 +1772,6 @@ www.xvideos.red
 8x8 Communication APIs
 8x8 Partner Portal
 8x8-work
-8x8.cloud
 8x8.my.site.com
 ASN: AS10976
 ASN: AS133144
@@ -1798,6 +1797,7 @@ admin-resolve.8x8.com
 admin.8x8.com
 api.8x8.com
 apps.8x8.com
+bridge.8x8.com
 callroute.com
 callroute.io
 cloud8.8x8.com

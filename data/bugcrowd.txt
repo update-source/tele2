@@ -887,6 +887,20 @@ https://play.google.com/store/apps/details?id=com.indeed.resume
 https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 Any host/web property/mobile app verified to be owned by Indeed
+https://indeed.com
+https://apis.indeed.com/graphql
+https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
+https://apps.apple.com/us/app/indeed-job-search/id309735670
+https://play.google.com/store/apps/details?id=com.syftapp.android
+https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
+Career Scout
+https://resume.com
+https://wowjobs.ca
+https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%82%A4%E3%83%B3%E3%83%87%E3%82%A3%E3%83%BC%E3%83%89/id1484451230
+https://play.google.com/store/apps/details?id=com.indeed.resume
+https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
+https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
+Any host/web property/mobile app verified to be owned by Indeed
 https://marketplace.atlassian.com/apps/1218151/capacity-tracker?hosting=cloud&tab=overview
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://api.intercom.com
@@ -2034,15 +2048,6 @@ https://marketplace.atlassian.com/apps/1223487/gadgets-for-release-management-ro
 https://marketplace.atlassian.com/apps/1223877/advanced-agile-boards?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222474/work-status-time-tracking-calendar-for-jira?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1228657/easy-peasy-roadmap-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1214094/requirement-yogi-for-jira?hosting=cloud
-https://app.requirementyogi.com
-https://api.requirementyogi.com
-https://auth.requirementyogi.com
-https://confluence.requirementyogi.com
-https://jira.requirementyogi.com
-https://marketplace.atlassian.com/apps/1212523/requirements-yogi?hosting=cloud
-https://ww1.requirementyogi.cloud
-https://ww2.requirementyogi.cloud
 https://marketplace.atlassian.com/apps/1218305/out-of-office-assistant-for-jira-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1219932/language-translation-jira-service-desk?hosting=cloud
 https://marketplace.atlassian.com/apps/1212130/saml-single-sign-on-sso-jira-saml-sso?hosting=datacenter&tab=overview

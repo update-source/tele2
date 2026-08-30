@@ -252,8 +252,10 @@ Hilton Third Party Applications - *.hilton.com
 *.grindr.mobi
 *.citrixworkspacesapi.net
 onboarding-*.cloud.com
+*.8x8.cloud
 *.8x8.co.uk
 *.8x8.com
+*.8x8.engineering
 *.8x8.id
 *.8x8.studio
 *.8x8.uk
@@ -277,6 +279,9 @@ onboarding-*.cloud.com
 *.jit.si
 *.jitsi.net
 *.labs.8x8.com
+*.mavenlab.com
+*.moobicast.com
+*.moobidesk.com
 *.ociadmin.cloud.8x8.com
 *.p8t.us
 *.packet8-pilot.net
