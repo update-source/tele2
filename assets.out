@@ -681,6 +681,7 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
+*.monzo.com
 *.moobicast.com
 *.moobidesk.com
 *.moonpay.com
@@ -823,6 +824,7 @@
 *.prijsmepper.nl
 *.primarycareondemand.mayoclinic.org
 *.privateinternetaccess.com
+*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -1208,6 +1210,7 @@
 1023499075
 103.83.120.0/22
 1032480595
+1052238659
 1057338687
 107.167.96.0/19
 1080074001
@@ -1799,6 +1802,8 @@ Bot Management
 Box Drive
 Braintree SDK
 Brand Sites
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -3403,6 +3408,7 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
+co.uk.getmondo
 coaching.supernovas.indrive.com
 coalition-dev.nba.com
 coalition-qa.nba.com
@@ -3489,6 +3495,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -3909,6 +3917,7 @@ dashboard.pluralonline.com
 dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
+data-test.nba.com
 data.mail.yahoo.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
@@ -4033,6 +4042,7 @@ dream-qa2.wnba.com
 dream.wnba.com
 drive.wolt.com
 dropbox.com/paper
+dwhreports.nba.com
 dwy.visa.com
 e-Commerce
 eaccounting.stage.vismaonline.com
@@ -4235,6 +4245,7 @@ github.com/kubernetes-csi
 github.com/kubernetes-retired
 github.com/uphold/*
 gitlab.com
+gldatacenter.nba.com
 gleague-dev.nba.com
 gleague-qa.nba.com
 gleague.nba.com
@@ -4319,6 +4330,7 @@ home.deriv.com
 home.privy.io
 homeloans.wellsfargo.com
 homes-and-villas.marriott.com
+hoop.nba.com
 hoopsfortroops.nba.com
 horizonchase.com
 horizonchase.com.br
@@ -5167,6 +5179,7 @@ https://github.com/backstage/backstage
 https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
+https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -5399,7 +5412,6 @@ https://hug.personio.com
 https://hytale.com/
 https://hytale.dev/
 https://ibconnect.internetbrands.com
-https://icu.eu-west-2.outscale.com
 https://id.atlassian.com/login
 https://id.recordedfuture.com
 https://id.unity.com
@@ -5716,7 +5728,6 @@ https://marketplace.atlassian.com/apps/1218655/performance-objectives-charts-rep
 https://marketplace.atlassian.com/apps/1218757/insight-aws-integration?hosting=datacenter
 https://marketplace.atlassian.com/apps/1218781/bitbucket-cloud-for-slack-official?hosting=cloud
 https://marketplace.atlassian.com/apps/1218864/embedded-marketplace-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1218865/advanced-children-display-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218875/embedded-marketplace-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1218888/simple-custom-reports-charts-time-in-status-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218941/microsoft-teams-for-bitbucket-cloud?hosting=cloud
@@ -5753,7 +5764,6 @@ https://marketplace.atlassian.com/apps/1219516/microsoft-teams-for-confluence-cl
 https://marketplace.atlassian.com/apps/1219518/confluence-cloud-for-slack-official?hosting=cloud
 https://marketplace.atlassian.com/apps/1219561/insight-servicenow-integration?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219592/github-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1219628/glass-project-documentation-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219632/insight-device42-integration?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219647/my-requests-extension-for-jira-service-management?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219672/confluence-cloud-migration-assistant?hosting=datacenter
@@ -5898,7 +5908,6 @@ https://marketplace.atlassian.com/apps/1224766/portfolio-forecaster?hosting=clou
 https://marketplace.atlassian.com/apps/1224766/portfolio-forecaster?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1224799/scroll-content-quality-for-confluence
 https://marketplace.atlassian.com/apps/1224927/time-tracking-timesheet-cost-tracker-resource-management?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1224984/glass-project-information-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225123/jira-snapshots-time-stamped-baselines-into-confluence?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1225145/image-editor-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225264/?tab=overview&hosting=cloud
@@ -5956,7 +5965,6 @@ https://marketplace.atlassian.com/apps/1229162/issue-templates-agent-for-jira?ho
 https://marketplace.atlassian.com/apps/1229183/add-watchers-at-issue-creation?hosting=cloud
 https://marketplace.atlassian.com/apps/1229317/?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1229343/developer-assistant-for-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1229346/marketplace-integration-for-jira?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1229376/security-for-jira-enhanced-secret-scanner-by-soteri?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1229376/security-for-jira-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1229405/cost-tracker-for-jira-cloud?hosting=cloud&tab=overview
@@ -6101,7 +6109,6 @@ https://marketplace.atlassian.com/apps/3443905353?hosting=cloud&tab=overviewPart
 https://marketplace.atlassian.com/apps/3684126567/laya-workflowos-ai-automation-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/3709319691/monte-carlo-simulations-for-scrum-kanban-agile-gadgets?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/3747688267/simple-gantt-roadmap-timeline-dashboard-gadget-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/3762467523/myra-csat-nps-ces-feedback-hub-for-jsm?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/37658/column-order-gadget-plugin?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/3780102417/sprintpoker-free-planning-poker-async-estimation?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4076194710/laya-export-studio-for-jira-and-confluence?hosting=cloud&tab=overview
@@ -6109,8 +6116,6 @@ https://marketplace.atlassian.com/apps/420604/scroll-html-exporter-for-confluenc
 https://marketplace.atlassian.com/apps/420604/scroll-html-exporter-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-cloud-jemhc-and-dc?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/4832/enterprise-mail-handler-for-jira-jemh?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/4909/content-exporter-word-pdf-html?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/4977/email-this-issue?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/5043/switch-user-su-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/5142/toolkit-plugin-for-jira?hosting=datacenter
 https://marketplace.atlassian.com/apps/5161/balsamiq-wireframes-for-jira?hosting=datacenter&tab=overview
@@ -7251,7 +7256,6 @@ indrive.com
 inference.do-ai.run
 influencers.tw.coupang.com
 info.authorize.net
-info.cybersource.com
 infomaniak.events
 ingest.clairvoyance.indrive.tech
 innersloth.kidswebservices.com
@@ -7627,6 +7631,7 @@ money.x.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
+monzo.com
 moonpay.com
 motorcity.gleague.nba.com
 movie.indrive.com
@@ -7699,6 +7704,10 @@ nbaholidaycard-qa.nba.com
 nbaholidaycard.nba.com
 nbaintl.nba.com
 nbameeting.nba.com
+nbatickets-dev.nba.com
+nbatickets-qa.nba.com
+nbatickets.nba.com
+nbavideo.nba.com
 neoket.net
 net.bitstamp.app
 net.supertreat.solitaire
@@ -7819,6 +7828,9 @@ obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
 odoo14.notebleue.pro
 odul.watsons.com.tr
+official-dev.nba.com
+official-qa.nba.com
+official.nba.com
 og.com
 oklahomacity-dev.gleague.nba.com
 oklahomacity-qa.gleague.nba.com
@@ -7930,6 +7942,7 @@ pcrstudioruzb.uzleuven.be
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
+peopleanalyticsportal.nba.com
 phabricator.allizom.org
 phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
@@ -7955,6 +7968,7 @@ player-login.unity.com
 player-radio.infomaniak.com
 player.vimeo.com
 player.vrt.be
+playerhealthvideo.nba.com
 playwonderbox.com
 playwonderbox.com.br
 pm-cf.*.aws.indriverapp.com
@@ -7984,7 +7998,10 @@ postikuori.posti.fi
 pot-cf.*.aws.indriverapp.com
 pot-gw-cf.*.aws.indriverapp.com
 pr*.indriverapp.com
+pr-dev.nba.com
 pr-gw-cf.*.aws.indriverapp.com
+pr-qa.nba.com
+pr.nba.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8033,6 +8050,7 @@ ps5.np.playstation.net
 pscp.tv
 psp.marriott.com
 psychobunny.me
+ptiw.nba.com
 public.hyatt.com
 publicsafety.ring.com
 pubtools.private.8x8cloud.net
@@ -8231,6 +8249,7 @@ sell.moonpay.com
 seller-id.tokopedia.com
 seller.temu.com
 sellerportal.newegg.com
+sems.nba.com
 sendgrid.com
 sensei.pixiv.net
 service.fing.com
@@ -8395,6 +8414,9 @@ status.delen.be
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
+stockton-dev.gleague.nba.com
+stockton-qa.gleague.nba.com
+stockton.gleague.nba.com
 storage*.infomaniak.com
 store-display.tw.coupang.com
 store.23andme.org
@@ -8472,15 +8494,20 @@ t.co
 t.swapcard.com
 t.umblr.com
 tableau.fareharbor.engineering
+taiwan.nba.com
 tax.audible.com
 tax.crypto.com
 taxi.booking.com
 taxis.booking.com
 team.swapcard.com
+teamapps.nba.com
 teamdirectory.nba.com
+teaminquiry.nba.com
 teammate.indriver.io
+teamofficelist.nba.com
 teamportal.nba.com
 teams.krisp.ai
+teamvideo.nba.com
 technik.autobild.de
 technik.beta.autobild.de
 telenor.se
@@ -8498,6 +8525,9 @@ testapp.redoxengine.com
 testbank.xs2a.com
 testing.maventa.com
 teststs.uzleuven.be
+texas-dev.gleague.nba.com
+texas-qa.gleague.nba.com
+texas.gleague.nba.com
 thebrowser.company
 thisiswhyweplay.nba.com
 tickets.crypto.com
@@ -8510,6 +8540,8 @@ todentaminen.posti.fi
 todo.notebleue.pro
 tomoe.bykea.net
 toolsforhumanity.com
+townhall.nba.com
+tpp.nba.com
 tr-cf.*.aws.indriverapp.com
 tr-gw-cf.*.aws.indriverapp.com
 trade.ripio.com
@@ -8523,6 +8555,7 @@ traveler.marriott.com
 trello.com
 trendyol.com
 trm.pinepaymentsolutions.com
+trs.nba.com
 truck-api.eu-east-1.indriverapp.com
 trust.23andme.com
 try.discourse.org
@@ -8628,6 +8661,7 @@ vrt.be/vrtnws
 vth.nba.com
 vtm.be/vtmgo
 vtmgo.be
+vttp.nba.com
 vwcm.visa.com
 vœux.vinci.com
 w1.uzleuven.be
@@ -8678,6 +8712,9 @@ welcome.infomaniak.com
 wellbeing.deezer.com
 wellbeing.dzcdn.net
 welt.de
+westchester-dev.gleague.nba.com
+westchester-qa.gleague.nba.com
+westchester.gleague.nba.com
 wga.volans.tech
 whyisend.com
 widget.rentalcars.com
@@ -8691,6 +8728,9 @@ wiki.portofantwerp.com
 wiki.portofantwerpbruges.com
 wiki.teamfortress.com
 wiki.ui.com
+windycity-dev.gleague.nba.com
+windycity-qa.gleague.nba.com
+windycity.gleague.nba.com
 winecellar.zomato.com
 wings-dev.wnba.com
 wings-qa.wnba.com
@@ -8699,7 +8739,11 @@ wings.wnba.com
 winkels.torfs.be
 winter.tomorrowland.com
 winterpackages.tomorrowland.com
+wisconsin-dev.gleague.nba.com
+wisconsin-qa.gleague.nba.com
+wisconsin.gleague.nba.com
 wlr-cf.*.aws.indriverapp.com
+wnbabroadcastmanuals.nba.com
 wolt.com
 wonderboxapi.com
 wonderboxdev.com
@@ -8945,6 +8989,7 @@ www.mini.de
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
+www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
