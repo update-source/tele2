@@ -2969,7 +2969,6 @@ app.Reclaim.ai
 app.aikido.dev
 app.alasco.de
 app.basecamp.com
-app.blueskytravelvietnam.com
 app.box.com
 app.circle.com
 app.demand.cybersource.com
@@ -5266,6 +5265,7 @@ https://github.com/nextcloud/tables
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
+https://github.com/okx/go-wallet-sdk
 https://github.com/pinterest/
 https://github.com/plaid/plaid-link-android
 https://github.com/plaid/plaid-link-ios
