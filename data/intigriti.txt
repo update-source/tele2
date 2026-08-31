@@ -95,6 +95,25 @@ shop.volkskrant.nl
 webwinkel.volkskrant.nl
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
+api.digital.delen.be 
+api.digital.delen.lu 
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
+auth.digital.delen.be 
+auth.digital.delen.lu 
+be.delen.digital
+delen/id1064839588
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
+login.oyens.com
+status.delen.be 
+sts.delen.be 
+www.cadelam.be 
+www.cadelux.lu/en 
+www.delen.bank
+www.delen.be/en 
 169.254.169.254
 api.digitalocean.com
 cloud.digitalocean.com
@@ -361,10 +380,6 @@ vikingco.be
 vikingdeals.be
 vikinglab.be
 forms.mobilevikings.be
-1052238659
-co.uk.getmondo
-www.monzo.com
-monzo.com
  new CDI-based architecture
 All Other NVIDIA Container Toolkit Assets
 libNVVM API
@@ -534,6 +549,8 @@ SimScale API
 SimScale Platform
 SimScale Forum
 SimScale Website
+https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
+cz.skodaauto.myskoda
 910898851
 app.nl.socialdeal
 http://socialdeal.nl/inspirations/bluemonday/
@@ -705,6 +722,16 @@ fm.voiapp.io
 https://repair.voiweb.net
 report.voi.com
 voi.com
+https://app.getflywheel.com
+https://getflywheel.com
+https://my.wpengine.com
+https://payments.wpengine.com
+https://wpengine.com
+WP Engine-developed WordPress Plugins and Themes
+https://makeshift.film
+https://studiopress.blog
+https://torquemag.io
+https://velocitize.com
 https://desktop.water-link.be/
 https://pit.water-link.be/
 https://www.water-link-jaarverslag.be
@@ -816,6 +843,41 @@ www.moneyback.com.hk
 Moneyback Android
 Moneyback iOS
 mapi.moneyback.com.hk
+7 News
+apis.mail.yahoo.com
+data.mail.yahoo.com
+Gemini
+Low Cost Access
+Identity Services
+onepush.query.yahoo.com
+Other (Misc)
+proddata.xobni.yahoo.com
+Social Media Accounts
+TW eCommerce: Auctions
+TW eCommerce: Shopping
+TW eCommerce: Used Car
+TW Media: Front Page
+TW Media: News
+TW Media: Stock
+Yahoo Calendar
+Yahoo Finance
+Yahoo HK News
+Yahoo Mail
+Yahoo News
+Yahoo Open Source Projects
+Yahoo Search
+Yahoo Sports: Best Ball
+Yahoo Sports: Daily Fantasy
+Yahoo Sports: Editorial
+Yahoo Sports: Fantasy Games
+Yahoo Sports: Fantasy Slate/PicknWin
+Yahoo Sports: Fantasy Sports
+Yahoo Sports: Fantasy Wallet
+Yahoo Sports: Mobile
+Yahoo Video
+Yahoo Weather
+Yahoo! (Misc)
+yimg.com
 hub.vznkul.be/* 
 hub.vznkul.be/services/interhub/InterHubService
 hub.vznkul.be/services/intrahub/IntraHubService

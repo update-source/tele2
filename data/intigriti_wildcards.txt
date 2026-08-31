@@ -117,8 +117,6 @@ Leaked/compromised employee accounts *.here.com
 *.acc.mobilevikings.be
 *.dev-pub.mobilevikings.be
 *.dev.mobilevikings.be
-*.monzo.com
-*.prod-ffs.io
 *.nexuzhealth.*
 *.app.personio-dev.com
 *.app.personio.com
@@ -157,6 +155,14 @@ Leaked/compromised employee accounts *.here.com
 *.vtmgo.be
 *.voi.com
 *.voiscooters.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
 *.water-link.be/
 *.mijnwater-link.be
 *.watsons.com.hk
@@ -175,5 +181,7 @@ Leaked/compromised employee accounts *.here.com
 *.drogas.lt
 *.drogas.lv
 *.moneyback.com.hk
+*ensemble*.yahoo.com
+*omega*.yahoo.com
 *.pwn.intigriti.rocks
 *.intigriti.me

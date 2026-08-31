@@ -18,6 +18,8 @@
 *-eu.truecaller.com
 *-noneu.truecaller.com
 *-vpn.8x8.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -268,6 +270,7 @@
 *.dash.ai
 *.dcfgateway.marriott.com
 *.de.jbl.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -580,6 +583,7 @@
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -677,7 +681,6 @@
 *.moneyback.com.hk
 *.mongodb.com/*
 *.monopoly-poker.com
-*.monzo.com
 *.moobicast.com
 *.moobidesk.com
 *.moonpay.com
@@ -715,6 +718,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -819,7 +823,6 @@
 *.prijsmepper.nl
 *.primarycareondemand.mayoclinic.org
 *.privateinternetaccess.com
-*.prod-ffs.io
 *.prod.cloud.8x8.com
 *.prod.cloud.netflix.com
 *.prod.dradis.netflix.com
@@ -976,6 +979,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.superbet.com
@@ -1144,6 +1148,8 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
@@ -1180,9 +1186,11 @@
 *dev*.arlo.com
 *dev.uzleuven.be
 *developer.cloud.com
+*ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
 *inf.fndlsb.net
+*omega*.yahoo.com
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
@@ -1200,7 +1208,6 @@
 1023499075
 103.83.120.0/22
 1032480595
-1052238659
 1057338687
 107.167.96.0/19
 1080074001
@@ -1581,6 +1588,7 @@
 6740879082
 6741442288
 674258465
+7 News
 719525810
 737216887
 740514933
@@ -2010,6 +2018,7 @@ GS Select iOS app
 GameMaker Studio 2
 Gardener
 Gateway
+Gemini
 GenAI Apps under *.amazon.*
 Git Repositories (b2-sdk-java & B2 Command Line Tool)
 GitHub Actions in our Public Repositories 
@@ -2076,6 +2085,7 @@ ICI Paris XL iOS
 IT Infrastructure
 Ibotta App Data & Memory
 Id1406825640
+Identity Services
 Images
 In Scope - Points only
 Indoor Cam
@@ -2168,6 +2178,7 @@ Logitech Sync
 Logstash
 LookAtMe Philippines Android
 LookAtMe Philippines iOS
+Low Cost Access
 Low Level Properties and Test environment
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
@@ -2290,6 +2301,7 @@ OpenAI API Keys
 Opsgenie (Android)
 Opsgenie (IoS)
 Other
+Other (Misc)
 Other - (all other Atlassian targets)
 Other APK Assets
 Other Acronis Domains
@@ -2409,6 +2421,7 @@ Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
 Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
 Smokescreen Open Source Project
 Snaps
+Social Media Accounts
 Sockets
 Software
 Software Supply Chain
@@ -2476,6 +2489,12 @@ Superhuman Mail Desktop App
 System Specification
 T&P Servers
 TF-PSA-Crypto
+TW Media: Front Page
+TW Media: News
+TW Media: Stock
+TW eCommerce: Auctions
+TW eCommerce: Shopping
+TW eCommerce: Used Car
 Tablets
 Tap to Pay (Android)
 Tap to Pay (iOS)
@@ -2577,6 +2596,7 @@ WGP Slot Games
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
 WP Cloud
+WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons Hong Kong Android
@@ -2626,6 +2646,24 @@ Workstation MFA (WMFA)
 Wrapped
 Wyze Cam V3
 X Pixel Helper (Chrome Extension)
+Yahoo Calendar
+Yahoo Finance
+Yahoo HK News
+Yahoo Mail
+Yahoo News
+Yahoo Open Source Projects
+Yahoo Search
+Yahoo Sports: Best Ball
+Yahoo Sports: Daily Fantasy
+Yahoo Sports: Editorial
+Yahoo Sports: Fantasy Games
+Yahoo Sports: Fantasy Slate/PicknWin
+Yahoo Sports: Fantasy Sports
+Yahoo Sports: Fantasy Wallet
+Yahoo Sports: Mobile
+Yahoo Video
+Yahoo Weather
+Yahoo! (Misc)
 Your Own GitLab Instance
 Zendesk AI
 Zendesk Front End
@@ -2808,6 +2846,8 @@ api.deezer.com
 api.deriv.com
 api.developer.monespacesante.fr
 api.dicey.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.dmp.gouv.fr
@@ -2961,6 +3001,7 @@ api.yoti.com
 api2.frontapp.com
 api2.grofers.com
 apigw.foliofn.com
+apis.mail.yahoo.com
 apix.vodafone.om
 app*.hubspot.com
 app-*.easy4ipcloud.com
@@ -2971,6 +3012,9 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
@@ -3077,6 +3121,8 @@ auth-identity-uat.nba.com
 auth-identity.nba.com
 auth-service.posti.fi
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.dmp.gouv.fr
 auth.magic.link
 auth.monespacesante.fr
@@ -3124,6 +3170,7 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
 be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -3356,7 +3403,6 @@ co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
-co.uk.getmondo
 coaching.supernovas.indrive.com
 coalition-dev.nba.com
 coalition-qa.nba.com
@@ -3851,6 +3897,7 @@ cweb-slot6-ott-dev.nba.com
 cweb-slot6-preview-ott-dev.nba.com
 cyberghost.app
 cyberghost.com
+cz.skodaauto.myskoda
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
@@ -3862,6 +3909,7 @@ dashboard.pluralonline.com
 dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
+data.mail.yahoo.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -3887,6 +3935,7 @@ defi.ripio.com
 delaware-dev.gleague.nba.com
 delaware-qa.gleague.nba.com
 delaware.gleague.nba.com
+delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.fareharbor.com
@@ -3922,6 +3971,7 @@ developer.infomaniak.com
 developer.konghq.com
 developer.mozilla.org
 developer.playcanvas.com
+developer.plus.authorize.net
 developer.posti.com
 developer.swapcard.com/event-admin/graphql
 developer.valvesoftware.com
@@ -4512,6 +4562,7 @@ https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/
 https://app.fin.ai/
+https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
@@ -4566,6 +4617,7 @@ https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
 https://apps.apple.com/ch/app/die-post/id378676700
 https://apps.apple.com/ch/app/media-markt-schweiz/id1169043480
+https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
 https://apps.apple.com/de/app/mediamarkt-deutschland/id386304604
 https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644
 https://apps.apple.com/de/app/saturn-deutschland/id557562682
@@ -5074,6 +5126,7 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
+https://getflywheel.com
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -5471,6 +5524,7 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://maf-properties-prod.apigee.net
+https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -6122,6 +6176,7 @@ https://my.smartposti.lt
 https://my.smartposti.lv
 https://my.sogexia.com
 https://my.ultramobile.com
+https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -6224,6 +6279,7 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
+https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
@@ -6597,6 +6653,7 @@ https://stp.wien.gv.at
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
+https://studiopress.blog
 https://suggestions.opera-api.com
 https://superbet.pl
 https://superbet.ro
@@ -6633,6 +6690,7 @@ https://tidal.com/
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
+https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -6703,6 +6761,7 @@ https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
+https://velocitize.com
 https://vendor.riskrecon.com
 https://vendor.riskrecon.eu
 https://vendors.paddle.com
@@ -6744,6 +6803,7 @@ https://wmaudience.com
 https://world.planethoster.net
 https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
 https://wowjobs.ca
+https://wpengine.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wsloja.ifood.com.br
@@ -7082,6 +7142,7 @@ https://www.wyze.com/products/wyze-cam
 https://www.xvideos.net/app/
 https://www.yeswehack.com
 https://www.ynab.com/
+https://www.zabbix.com/download_sources
 https://www.zoop.com.br
 https://www.zoop.ws
 https://wwws-staging.moneytree.jp/link/
@@ -7338,12 +7399,16 @@ login-sandbox.nba.com
 login-uat.nba.com
 login.arkane.network
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.exodus.com
 login.infomaniak.com
 login.insightly.com
 login.koho.ca
 login.lansweeper.com
 login.nba.com
+login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.remitly.com
@@ -7562,7 +7627,6 @@ money.x.com
 moneybird.com
 moneybirdstorage.com
 monitor.mozilla.org
-monzo.com
 moonpay.com
 motorcity.gleague.nba.com
 movie.indrive.com
@@ -7766,6 +7830,7 @@ onboarding.greenhouse.io
 one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
 one.dash.cloudflare.com
+onepush.query.yahoo.com
 oneview.threatdown.com
 online.s-pankki.fi
 onlinedoctor.superdrug.com
@@ -7952,6 +8017,7 @@ prod-*.nubank.com.br
 prod-mipaasiaasservices.marriott.com
 prod.meeshoapi.com
 prod.ros.rockstargames.com
+proddata.xobni.yahoo.com
 production.plaid.com
 professionnels.vaccination-info-service.fr
 profiel.vrt.be
@@ -8132,6 +8198,7 @@ sandbox-royal.securegateway.com
 sandbox.affirm.com
 sandbox.authorize.net
 sandbox.braintreegateway.com
+sandbox.developer.plus.authorize.net
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
 santacruz-dev.gleague.nba.com
@@ -8324,6 +8391,7 @@ stats.nba.com
 stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -8350,6 +8418,7 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
+sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8691,6 +8760,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.carrentals.com
 www.cart.starbucks.co.jp/
 www.casinohuone.com
@@ -8715,6 +8786,8 @@ www.currencycloud.com
 www.cybersource.com
 www.ddfcontent.com
 www.deezer.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
@@ -8872,7 +8945,6 @@ www.mini.de
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
-www.monzo.com
 www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
@@ -9097,6 +9169,7 @@ xlence.iciparisxl.nl
 xtramile.grabpay.com
 yelptop100.com
 yhteystietoni.posti.fi
+yimg.com
 you.23andme.com
 your-assigned-subdomain.files.com
 your-store.myshopify.com
