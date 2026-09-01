@@ -3536,6 +3536,8 @@ npm CLI
 npmjs.com
 npmjs.org
 com.wealthsimple
+com.wealthsimple.predict
+com.wealthsimple.predict
 com.wealthsimple.wealthsimple
 434613896
 6670203019
