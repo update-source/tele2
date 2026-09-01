@@ -1,3 +1,5 @@
+*.acrobat.adobe.com
+*.lightroom.adobe.com
 *.ad.nl
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl

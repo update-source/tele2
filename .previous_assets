@@ -1395,6 +1395,7 @@
 *dev*.arlo.com
 *dev.uzleuven.be
 *developer.cloud.com
+*elvetino.ch
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
@@ -1408,11 +1409,13 @@
 *ripiotrade.co
 *sandbox*.vinted.com
 *sandbox*.vintedgo.com
+*sbbcargo.com
 *signalservice.comcast.net
 *stag*.uzleuven.be
 *test*.bykea.net
 *test-escalations.vintedgo.com
 *tidalhi.fi
+*transsicura.ch
 *uat.marriott.com
 *ubereats.com
 *vc.logitech.com
@@ -1954,6 +1957,8 @@ Acrobat Create Podcast
 Acrobat Create Presentations
 Acrobat PDF Spaces
 Acrobat Reader
+Acrobat Reader Mobile App (Android)
+Acrobat Reader Mobile App (iOS)
 Acronis Agent
 Acronis Cloud Manager
 Acronis Cyber Files
@@ -1966,7 +1971,16 @@ Actively Supported, Bounty Eligible Dell Products
 Actively Supported, Non-Reward Eligible Dell Products
 Additional Loyalty scope included under resources tab
 Adobe Acrobat Reader DC
+Adobe ColdFusion without ColdFusion Administrator
+Adobe Commerce, Adobe Commerce B2B and Magento Open Source
 Adobe Commerce, Commerce B2B and Commerce Open Source
+Adobe Express AI Assistant
+Adobe Firefly AI Features
+Adobe Fresco (iOS)
+Adobe Photoshop Express Mobile App (iOS)
+Adobe Scan Mobile App (Android)
+Adobe Scan Mobile App (iOS)
+Adobe Stock AI Studio
 AdwCleaner
 Affiliates or entities such as recently acquired companies
 After Effects
@@ -2210,6 +2224,7 @@ CoinMarketCap Android app
 CoinMarketCap iOS app
 Coinbase WaaS (Wallet as a Service)
 ColdFusion
+ColdFusion Administrator
 ColorOS
 CometBFT
 Community Management & Communications
@@ -2381,6 +2396,7 @@ FortniteLauncher.exe
 Fortress Hong Kong Android
 Fortress Hong Kong iOS
 Fortress.HongKong.Android
+Frame.io iOS Application
 Framemaker
 FranceConnect (see program description for github link)
 FranceConnect+ (see program description for github link)
@@ -2623,7 +2639,9 @@ Liferay DXP 2025.Q4
 Liferay DXP 2026.Q1
 Lightroom "Edit suggestions" Tech Preview
 Lightroom AI Edits
+Lightroom AI Features
 Lightroom Classic
+Lightroom Video & Photo Editor (Android)
 Livestream software (Producer, Studio)
 Load Balancing
 Localized airbnb sites listed at the link below:
@@ -5151,6 +5169,7 @@ fe-gw-cf.*.aws.indriverapp.com
 federalist-docs.18f.gov
 federalist-proxy.app.cloud.gov
 federalist.18f.gov
+federatedid-na1.services.adobe.com
 federation.data.gov
 feed-web.tw.coupang.com
 feedback.logitech.com
@@ -8173,6 +8192,7 @@ https://play.google.com/store/apps/details?id=ch.mediamarkt
 https://play.google.com/store/apps/details?id=ch.post.it.pcc&hl=en
 https://play.google.com/store/apps/details?id=com.AgainstGravity.RecRoom
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.adobe.lrmobile&hl=en_GB
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.anytask.mobile&hl=en_US
@@ -9428,6 +9448,7 @@ images.demand.cybersource.com
 img.swapcard.com
 img.zivver.com
 imove.bpost.cloud
+ims-na1.adobelogin.com
 imx.community
 in-cf.*.aws.indriverapp.com
 in-gw-cf.*.aws.indriverapp.com

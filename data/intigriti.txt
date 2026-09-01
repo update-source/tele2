@@ -1,6 +1,44 @@
+Acrobat PDF Spaces
+Acrobat Create Presentations
+Acrobat Create Podcast
+Acrobat AI Assistant
+Adobe Express AI Assistant
+Lightroom AI Features
+Adobe Firefly AI Features
+Photoshop AI Assistant
+Adobe Stock AI Studio
+Frame.io iOS Application
+Adobe Fresco (iOS)
+Adobe Photoshop Express Mobile App (iOS)
+https://play.google.com/store/apps/details?id=com.adobe.lrmobile&hl=en_GB
+Lightroom Video & Photo Editor (Android)
+Adobe Scan Mobile App (iOS)
+Adobe Scan Mobile App (Android)
+Acrobat Reader Mobile App (iOS)
+Acrobat Reader Mobile App (Android)
+stock.adobe.com
+firefly.adobe.com
+Adobe ColdFusion without ColdFusion Administrator
+ColdFusion Administrator
+photoshop.adobe.com
+Adobe Commerce, Adobe Commerce B2B and Magento Open Source
+account.magento.com
+commercemarketplace.adobe.com
+repo.magento.com
+magento.com
+learningmanagerstage4.adobe.com
+ColdFusion Administrator
+net.s2stagehance.com
+new.express.adobe.com
+portfolio.ccpsx.com
+fonts.adobe.com
+account.adobe.com
+auth.services.adobe.com
+adobeid-na1.services.adobe.com
+ims-na1.adobelogin.com
+federatedid-na1.services.adobe.com
 app.aikido.dev
 myaccount.ad.nl
-webwinkel.ad.nl
 www.ad.nl
 www.ad.nl/abonnementen
 Firmware
@@ -87,12 +125,9 @@ www.cloudways.com
 css-tricks.com
 Any related DPG media domain
 myaccount.demorgen.be
-shop.demorgen.be
 www.demorgen.be
 www.demorgen.be/abonnementen
 myaccount.volkskrant.nl
-shop.volkskrant.nl
-webwinkel.volkskrant.nl
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
 api.digital.delen.be 
@@ -291,13 +326,11 @@ ecom-data.trekpleister.nl
 service.trekpleister.nl
 folder.trekpleister.nl
 www.prijsmepper.nl
-Lansweeper Discovery
 app.lansweeper.com
 fb.lansweeper.com
 edge.lansweeper.com
 api.lansweeper.com
 backoffice.lansweeper.com
-https://lsagentrelay.lansweeper.com/
 app.lansweeper.com/trial
 autoupdateapi.lansweeper.com
 docs.lansweeper.com
@@ -545,8 +578,11 @@ rivian.com
 www.sbb.ch
 Mobile Apps
 www.elvetino.ch
+*elvetino.ch
 www.sbbcargo.com
+*sbbcargo.com
 www.transsicura.ch
+*transsicura.ch
 All other Web and mobile APPs owned by SBB 
 All other SBB owned IT assets
 SimScale API

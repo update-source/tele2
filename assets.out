@@ -48,6 +48,7 @@
 *.account.here.com
 *.account.roon.app
 *.accounts.realestate.com.au
+*.acrobat.adobe.com
 *.acronis.com
 *.acronis.work
 *.ad.nl
@@ -577,6 +578,7 @@
 *.latitudepay.com.au
 *.lemonsqueezy.com
 *.libelle.nl
+*.lightroom.adobe.com
 *.link.co
 *.linktree-extensions.com
 *.livestream.com
@@ -1180,6 +1182,7 @@
 *dev*.arlo.com
 *dev.uzleuven.be
 *developer.cloud.com
+*elvetino.ch
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
@@ -1188,9 +1191,11 @@
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
+*sbbcargo.com
 *stag*.uzleuven.be
 *test*.bykea.net
 *tidalhi.fi
+*transsicura.ch
 *uat.marriott.com
 *ubereats.com
 *vc.logitech.com
@@ -1663,6 +1668,12 @@ ASN: AS62876
 AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 AXIS OS
+Acrobat AI Assistant
+Acrobat Create Podcast
+Acrobat Create Presentations
+Acrobat PDF Spaces
+Acrobat Reader Mobile App (Android)
+Acrobat Reader Mobile App (iOS)
 Acronis Agent
 Acronis Cloud Manager
 Acronis Cyber Infrastructure
@@ -1671,6 +1682,15 @@ Acronis DeviceLock DLP
 Acronis Snap Deploy
 Acronis True Image (formerly Acronis Cyber Protect Home Office)
 Additional Loyalty scope included under resources tab
+Adobe ColdFusion without ColdFusion Administrator
+Adobe Commerce, Adobe Commerce B2B and Magento Open Source
+Adobe Express AI Assistant
+Adobe Firefly AI Features
+Adobe Fresco (iOS)
+Adobe Photoshop Express Mobile App (iOS)
+Adobe Scan Mobile App (Android)
+Adobe Scan Mobile App (iOS)
+Adobe Stock AI Studio
 AdwCleaner
 Affiliates or entities such as recently acquired companies
 Agent SDKs
@@ -1861,6 +1881,7 @@ Coda Chrome Extension
 Codex Desktop
 CoinMarketCap Android app
 CoinMarketCap iOS app
+ColdFusion Administrator
 ColorOS
 Community Management & Communications
 Compass
@@ -2000,6 +2021,7 @@ FortniteLauncher-Win64-Shipping_EAC.exe
 FortniteLauncher.exe
 Fortress Hong Kong Android
 Fortress Hong Kong iOS
+Frame.io iOS Application
 Freshcaller-iOS-App
 Freshchat-iOS-App
 Freshdesk-iOS-App
@@ -2153,7 +2175,6 @@ Kruidvat BE Android
 Kruidvat BE iOS
 Kruidvat NL Android
 Kruidvat NL iOS
-Lansweeper Discovery
 LaunchDarkly Open Source SDKs
 Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
@@ -2162,6 +2183,8 @@ Leaked Employee API Keys
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Lens Studio
+Lightroom AI Features
+Lightroom Video & Photo Editor (Android)
 Livestream software (Producer, Studio)
 Load Balancing
 Localized airbnb sites listed at the link below:
@@ -2328,6 +2351,7 @@ Password Sync for macOS
 PayPal SDK
 Peephole Cam
 Penny
+Photoshop AI Assistant
 PlayStation 4
 PlayStation 5
 Podsights
@@ -2685,10 +2709,12 @@ access.ripe.net
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
+account.adobe.com
 account.booking.com
 account.box.com
 account.deezer.com
 account.krisp.ai
+account.magento.com
 account.ui.com
 accountoffers.wellsfargo.com
 accounts.cloud.com
@@ -2732,6 +2758,7 @@ admincms.monespacesante.fr
 adminstore.developer.monespacesante.fr
 adminstore.monespacesante.fr
 admintool.lime.bike
+adobeid-na1.services.adobe.com
 ads-partners.tw.coupang.com
 ads.reddit.com
 ads.snapchat.com
@@ -3128,6 +3155,7 @@ auth.ort-one-pingone.com
 auth.preprod.monespacesante.fr
 auth.privy.io
 auth.remitly.com
+auth.services.adobe.com
 auth.skypicker.com
 auth0.com	
 auth0.gocardless.com
@@ -3400,7 +3428,6 @@ co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
 co.mona.android
 co.uk.getmondo
-coaching.supernovas.indrive.com
 coalition-dev.nba.com
 coalition-qa.nba.com
 coban.pixiv.net
@@ -3765,6 +3792,7 @@ com.zhiliaoapp.musically
 com.zzkko
 comic-indies.pixiv.net
 comic.pixiv.net
+commercemarketplace.adobe.com
 community.8x8.com
 community.forescout.com
 community.logitech.com
@@ -4133,6 +4161,7 @@ fb.lansweeper.com
 fch-cf.*.aws.indriverapp.com
 fe-cf.*.aws.indriverapp.com
 fe-gw-cf.*.aws.indriverapp.com
+federatedid-na1.services.adobe.com
 feed-web.tw.coupang.com
 feedback.logitech.com
 fetlife.com
@@ -4163,6 +4192,7 @@ fintech-aml-kyc-tw.coupang.com
 fire-dev.wnba.com
 fire-qa.wnba.com
 fire.wnba.com
+firefly.adobe.com
 firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 fit.nba.com
@@ -4178,6 +4208,7 @@ folder.kruidvat.be
 folder.kruidvat.nl
 folder.trekpleister.nl
 folders.iciparisxl.nl
+fonts.adobe.com
 forms.cybersource.com
 forms.mobilevikings.be
 fortnite.com
@@ -5519,7 +5550,6 @@ https://login.paddle.com
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
-https://lsagentrelay.lansweeper.com/
 https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.thefork.com
@@ -6327,6 +6357,7 @@ https://play.google.com/store/apps/details?id=br.com.movilepay.banking.applicati
 https://play.google.com/store/apps/details?id=ch.mediamarkt
 https://play.google.com/store/apps/details?id=ch.post.it.pcc&hl=en
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.adobe.lrmobile&hl=en_GB
 https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
 https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
@@ -7232,6 +7263,7 @@ ik.watsons.com.tr
 images.demand.cybersource.com
 img.swapcard.com
 imove.bpost.cloud
+ims-na1.adobelogin.com
 in-cf.*.aws.indriverapp.com
 in-gw-cf.*.aws.indriverapp.com
 in.amazon.mShop.android.business.shopping
@@ -7356,6 +7388,7 @@ larksuite.com
 launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
+learningmanagerstage4.adobe.com
 lego.me
 leonard.vinci.com
 libNVVM API
@@ -7443,6 +7476,7 @@ m.tw.coupang.com
 mUSD Stablecoin
 maestro.8x8.cloud
 magazine.kruidvat.be
+magento.com
 magisto.com,www.magisto.com
 mail-builder.infomaniak.com/
 mail.hostinger.com/v2
@@ -7701,6 +7735,7 @@ nbatickets.nba.com
 nbavideo.nba.com
 neoket.net
 net.bitstamp.app
+net.s2stagehance.com
 net.supertreat.solitaire
 net.wooga.junes_journey_hidden_object_mystery_game
 net.wooga.switchcraft.googleplay
@@ -7710,6 +7745,7 @@ netlify-rum.netlify.app
 netposti.fi
 networkguard.com
 new-order.eu-east-1.indriverapp.com
+new.express.adobe.com
 new.reddit.com
 new.www.vaxvacationaccess.com
 news.remitly.com
@@ -7940,6 +7976,7 @@ phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photo.kruidvat.be
 photoservice.stage.vismaonline.com
+photoshop.adobe.com
 picc.posti.fi
 pigeon.swiftfinancial.com
 pipe.deezer.com
@@ -7980,6 +8017,7 @@ portal.polygon.technology
 portal.taxi.booking.com
 portalinmobiliario.cl
 portalinmobiliario.com
+portfolio.ccpsx.com
 portland-dev.wnba.com
 portland-qa.wnba.com
 portland.wnba.com
@@ -8137,6 +8175,7 @@ remitlywallet.com
 remitresearch.com
 reno-dev.gleague.nba.com
 reno.gleague.nba.com
+repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
 res.blueskytours.globalbookingsolutions.com
@@ -8274,7 +8313,6 @@ share.portofantwerpbruges.com
 share.portswigger.net
 shop-id.tokopedia.com
 shop.app
-shop.demorgen.be
 shop.dyson.co.za
 shop.dyson.tw
 shop.humo.be
@@ -8284,7 +8322,6 @@ shop.parool.nl
 shop.tiktok.com
 shop.trouw.nl
 shop.tw.coupang.com
-shop.volkskrant.nl
 shop.whoop.com
 shop.wyndhamvacationownership.trisept.travel
 shopify.plus
@@ -8405,6 +8442,7 @@ status.delen.be
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
+stock.adobe.com
 stockton-dev.gleague.nba.com
 stockton-qa.gleague.nba.com
 stockton.gleague.nba.com
@@ -8694,10 +8732,8 @@ webapps.portofantwerpbruges.com
 webauthn.me	
 webhooks.booking.com
 webtoolbox.notebleue.pro
-webwinkel.ad.nl
 webwinkel.parool.nl
 webwinkel.trouw.nl
-webwinkel.volkskrant.nl
 wechat.api.marriott.com
 welcome.infomaniak.com
 wellbeing.deezer.com
@@ -9040,7 +9076,6 @@ www.storspiller.com
 www.stripe.partners
 www.superdrug.com
 www.superdrugmobile.com
-www.supernovas.indrive.com
 www.swiftcapital.com
 www.swiftfinancial.com
 www.swisstransfer.com
