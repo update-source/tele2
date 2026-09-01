@@ -10,6 +10,8 @@ merchant.wolt.com
 ops.wolt.com
 restaurant-api.wolt.com
 wolt.com
+https://www.agoda.com/account/agodacash
+https://www.agoda.com/account/cashback
 https://www.agoda.com/book/
 SUPERAPP (AOS)
 SUPERAPP (IOS)
