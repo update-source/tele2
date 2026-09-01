@@ -2077,6 +2077,7 @@ com.evernote
 www.evernote.com
 Android Box Mobile App
 Box Drive
+Box Tools
 account.box.com
 api.box.com
 app.box.com

@@ -2136,6 +2136,7 @@ Body Comp scale
 Body Scan scale
 Bot Management
 Box Drive
+Box Tools
 Braintree SDK
 Brand Sites
 Brave Browser Desktop
@@ -2172,6 +2173,7 @@ Canva Desktop (macOS / Windows)
 Capital One Shopping Browser Extension
 Capture the Flag
 Career Scout
+Cellular Network Auth Bypass via Web App/T-Life (404-200-7239)
 Cellular Network Auth Bypass via Web/Mobile App
 Character Animator
 Chime
@@ -2848,6 +2850,7 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source tools from Cloudflare
 OpenAI API Keys
 OpenPGP Cert Directory Specification
+OpenSea Solana Marketplace Program
 Opsgenie (Android)
 Opsgenie (IoS)
 Orbi 
@@ -2997,6 +3000,7 @@ Secondary Assets
 Security Vulnerability in OpenPGP.js's high-level API
 Security Vulnerability in the OpenPGP Standard
 Self Register Account on T-Mobile Microsoft Entra ID
+Self-Register Account on T-Mobile Microsoft Entra ID
 Sequoia git Specification
 Services
 Shared OpenPGP Certificate Directory
@@ -3083,6 +3087,7 @@ Stripe Terminal
 Stripe Treasury
 Stripe fiat-to-crypto onramp
 Stripe for Visual Studio Code
+Subdomain Takeover
 Subdomain Takeover (SDTO)
 Subdomain Takeover - konghq.com
 Subdomain takeover
