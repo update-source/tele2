@@ -3394,8 +3394,6 @@ api.wordpress.org
 bbPress Core
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 doaction.org
-irclogs.wordpress.org
-lists.wordpress.org
 mercantile.wordpress.org
 planet.wordpress.org
 wordpressfoundation.org

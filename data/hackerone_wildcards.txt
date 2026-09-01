@@ -687,7 +687,6 @@ www.paypal-*.com
 *.wordcamp.org
 *.wordpress.net
 *.wordpress.org
-munin-*.wordpress.org
 *.rockstargames.com
 *.github.net
 *.githubapp.com

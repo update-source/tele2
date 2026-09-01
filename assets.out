@@ -334,18 +334,10 @@
 *.elasticsearch.org
 *.elasticsearch.wtf
 *.elstc.co
-*.emakina.at
-*.emakina.ch
-*.emakina.com
-*.emakina.fr
-*.emakina.group
-*.emakina.nl 
-*.emakina.us
 *.employer.seek.com
 *.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
-*.epam.com
 *.epicgames.com
 *.epicgames.dev
 *.estccdn.com
@@ -2105,7 +2097,6 @@ Ibotta App Data & Memory
 Id1406825640
 Identity Services
 Images
-In Scope - Points only
 Indoor Cam
 Infrastructure & Internal Apps/Services
 Insomnia CLI (inso)
@@ -2314,7 +2305,6 @@ Open Scope
 Open Source - Atlas
 Open Source - Spectator
 Open Source - Zuul
-Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 Open source tools from Cloudflare
 OpenAI API Keys
 OpenSea Solana Marketplace Program
@@ -2452,6 +2442,7 @@ Sonantic
 Sophos Firewall (XG/XGS, SFOS) - Pre-auth RCE
 Sophos IT Infrastructure (all other Sophos domains)
 Source Code
+SpaceX and Starlink assets (target information and rewards detailed above on the brief)
 Special scenarios (see description)
 Spectrum
 Spotify SDKs
@@ -5492,7 +5483,6 @@ https://kucoin.com
 https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://kyc.ripio.com/
 https://l.usaa.com/
-https://lab.epam.com
 https://landrover.here.com
 https://lapi.yellowblocks.me
 https://lastpass.com
@@ -6265,7 +6255,6 @@ https://openapitest.pulsepoint.com
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opensea.io/
-https://opensource.epam.com
 https://operaneon.com
 https://ops-sso.adsrvr.org/
 https://optimizely-edge.com
@@ -6545,7 +6534,6 @@ https://production-dynam-creative.vistarmedia.com
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
 https://profreg.medscape.com
-https://projects.epam.com
 https://property.com.au
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
@@ -6909,7 +6897,6 @@ https://www.developersites.com.au/testing-2505-lms/
 https://www.dmp.fr
 https://www.dmp.gouv.fr
 https://www.enjoyselfish.com
-https://www.epam.com/
 https://www.etsy.com
 https://www.etsy.com/developers/documentation/getting_started/api_basics
 https://www.etsy.com/mobile
@@ -7305,7 +7292,6 @@ ir.bookingholdings.com
 ir.clearme.com
 ir.remitly.com
 ir.ui.com
-irclogs.wordpress.org
 iris-testing-us-east-1-nlb-4df4bbde6f6e2bbb.elb.us-east-1.amazonaws.com
 irmg.nl
 isa-cf.*.aws.indriverapp.com
@@ -7400,7 +7386,6 @@ liquidfilestest.uzleuven.be
 lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
-lists.wordpress.org
 live-backstage.tiktok.com
 live-service.whatnot.com
 ljc-test.tw.coupang.com
@@ -7658,7 +7643,6 @@ msg-cf.*.aws.indriverapp.com
 msg-gw-cf.*.aws.indriverapp.com
 msg.playcanvas.com
 mta-sts.wearehackerone.com
-munin-*.wordpress.org
 mus1.badoo.com
 mx1.uzleuven.be
 mx2.uzleuven.be
@@ -7869,7 +7853,6 @@ onlinepharmacy.superdrug.com
 ontario.gleague.nba.com
 onum-labs.com
 onum.com
-open redirect at *.epam.com
 open-api.capital.com
 open.airbnb.com
 open.larksuite.com
