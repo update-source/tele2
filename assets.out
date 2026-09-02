@@ -526,7 +526,6 @@
 *.instacart.com
 *.instacart.tools
 *.int.remitly.com
-*.intercomassets.com / *.intercomcdn.com
 *.intergamma-test.nl
 *.intergamma.cloud
 *.intergamma.nl/*
@@ -683,7 +682,6 @@
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
-*.mobile-messenger.intercom.com
 *.mobilevikings.be
 *.mobilitygraph.hereapi.com
 *.mona.co
@@ -4440,7 +4438,6 @@ http://itunes.apple.com/us/app/ibotta/id559887125
 http://logstash-props.devicecloud.production.forescoutcloud.net/api/v1/properties
 http://market.android.com/details?id=com.ibotta.android
 http://marlo.ext.tripadvisor.com
-http://mcp.intercom.com
 http://mcp.klaviyo.com/
 http://media.itsfogo.com/media/upload/mobile/android/apk/partycasino_com.apk
 http://member-qa.chime.com/enroll
@@ -4529,7 +4526,6 @@ https://api-a.usaa.com
 https://api-app.datadome.co/
 https://api-businessportal.origin.com.au
 https://api-core.deriv.com
-https://api-iam.intercom.io
 https://api-js.datadome.co
 https://api-next.flatmates.com.au
 https://api-portal.originzero.com.au
@@ -4563,7 +4559,6 @@ https://api.ibotta.com
 https://api.immutable.com
 https://api.int.ibops.net
 https://api.int.ibops.net/customer-loyalty-service
-https://api.intercom.com
 https://api.justeat-int.com
 https://api.jwks.kape.com
 https://api.mafshoppingmalls.com
@@ -4627,12 +4622,9 @@ https://app.chime.com
 https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/
-https://app.fin.ai/
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
-https://app.intercom.com
-https://app.intercom.io/
 https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
@@ -5035,8 +5027,6 @@ https://developer.newrelic.com/
 https://developer.paddle.com
 https://developers.afterpay.com
 https://developers.elementor.com/
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
 https://developers.oppomobile.com/
 https://developers.retail.lightspeed.app
 https://development.wmaudience.com
@@ -5157,7 +5147,6 @@ https://externalconnect.usaa.com/
 https://fcu.eu-west-2.outscale.com
 https://features.opera-api.com
 https://fileshare.ze.monash.edu
-https://fin.ai/
 https://finance.quintoandar.com.br/*
 https://financeiro.hostgator.com.br
 https://financialforce.com
@@ -5213,8 +5202,6 @@ https://github.com/RIPE-NCC/rpki-ta-0
 https://github.com/RIPE-NCC/rsyncit
 https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
-https://github.com/afterpay/sdk-android
-https://github.com/afterpay/sdk-ios
 https://github.com/auth0/Auth0.Net
 https://github.com/auth0/auth0-java
 https://github.com/auth0/auth0-php
@@ -5228,10 +5215,6 @@ https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/writebook
 https://github.com/brave/*, https://github.com/brave-intl/*
-https://github.com/cashapp/cash-app-pay-android-sdk
-https://github.com/cashapp/cash-app-pay-ios-sdk
-https://github.com/cashapp/hermit
-https://github.com/cashapp/misk
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -5394,7 +5377,6 @@ https://github.com/smartcontractkit/chainlink-evm/tree/develop/contracts
 https://github.com/smartcontractkit/chainlink-solana/tree/develop/contracts
 https://github.com/smartcontractkit/external-adapters-js/
 https://github.com/smartcontractkit/staking-v0.1/tree/master/contracts
-https://github.com/square/wire
 https://github.com/sveltejs/svelte
 https://github.com/tempus-ex
 https://github.com/transferwise/*
@@ -6974,7 +6956,6 @@ https://www.hostgator.com/
 https://www.ifood.com.br
 https://www.illamasqua.com/
 https://www.imou.com
-https://www.intercom.com/
 https://www.internetbrands.com
 https://www.irobot.at/
 https://www.irobot.be/
@@ -9349,8 +9330,10 @@ zooplus.net
 ███████████████████████████
 ████████████████████████████
 █████████████████████████████
+██████████████████████████████
 ███████████████████████████████
 ████████████████████████████████
+█████████████████████████████████
 ██████████████████████████████████
 ███████████████████████████████████
 ████████████████████████████████████

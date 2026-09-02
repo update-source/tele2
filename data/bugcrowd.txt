@@ -423,13 +423,13 @@ https://apps.apple.com/us/app/blockchain-com-buy-btc-sol/id493253309
 https://play.google.com/store/apps/details?id=piuk.blockchain.android
 api.blockchain.info
 ws.blockchain.info
-https://github.com/afterpay/sdk-ios
-https://github.com/afterpay/sdk-android
-https://github.com/cashapp/cash-app-pay-ios-sdk
-https://github.com/cashapp/cash-app-pay-android-sdk
-https://github.com/cashapp/hermit
-https://github.com/cashapp/misk
-https://github.com/square/wire
+███████████████████████████████████
+███████████████████████████████████████
+███████████████████████████████████████████████
+███████████████████████████████████████████████████
+█████████████████████████████████
+███████████████████████████████
+██████████████████████████████
 https://blofin.com
 https://apps.apple.com/tt/app/blofin/id1616804346
 https://play.google.com/store/apps/details?id=com.blofin.android
@@ -751,6 +751,7 @@ https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
 https://sandbox-api.fireblocks.io
 https://github.com/fireblocks/mpc-lib
+https://github.com/fireblocks/mpc-lib
 Any FIS asset is in scope
 https://fivetran.com/login
 https://fivetran.com/login
@@ -888,16 +889,6 @@ https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 Any host/web property/mobile app verified to be owned by Indeed
 https://marketplace.atlassian.com/apps/1218151/capacity-tracker?hosting=cloud&tab=overview
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
-https://api.intercom.com
-https://app.intercom.com
-https://app.intercom.io/
-https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
-https://www.intercom.com/
-http://mcp.intercom.com
-https://api-iam.intercom.io
-https://fin.ai/
-https://app.fin.ai/
 https://www.carsdirect.com
 https://pets.webmd.com
 https://member.webmd.com
