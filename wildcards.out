@@ -318,10 +318,18 @@
 *.elasticsearch.org
 *.elasticsearch.wtf
 *.elstc.co
+*.emakina.at
+*.emakina.ch
+*.emakina.com
+*.emakina.fr
+*.emakina.group
+*.emakina.nl 
+*.emakina.us
 *.employer.seek.com
 *.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
+*.epam.com
 *.epicgames.com
 *.epicgames.dev
 *.estccdn.com
@@ -1167,6 +1175,7 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 GenAI Apps under *.amazon.*
 Hilton Third Party Applications - *.hilton.com
 Leaked/compromised employee accounts *.here.com
+Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 ab-api-cf.*.aws.indriverapp.com
 analytics-*.8x8.com
 api*.hubapi.com
@@ -1227,6 +1236,7 @@ nha-gw-cf.*.aws.indriverapp.com
 no-cf.*.aws.indriverapp.com
 no-gw-cf.*.aws.indriverapp.com
 onboarding-*.cloud.com
+open redirect at *.epam.com
 pa-cf.*.aws.indriverapp.com
 pa-gw-cf.*.aws.indriverapp.com
 pay*.indriverapp.com

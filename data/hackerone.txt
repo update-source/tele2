@@ -1,4 +1,3 @@
-Vercel sandbox
 1477299281
 943905271
 authentication.wolt.com
