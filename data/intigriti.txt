@@ -48,6 +48,24 @@ Software
 Non Altera Products
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 Software: Mali GPU Kernel Driver
+emarketer.com
+newsos.com
+politico.eu
+adtechnology.axelspringer.com
+bild.de
+welt.de
+epaper.welt.de
+cancellation.prod.ps.welt.de
+digital.welt.de
+signin.auth.welt.de
+m.bild.de
+go.welt.de
+meinkonto.bild.de
+18.184.198.198, 18.185.214.59, 18.194.109.179, 3.121.117.72, 3.121.138.10, 3.121.138.128, 3.121.138.134, 3.121.138.170, 3.121.138.33, 3.121.138.43, 3.124.248.208, 35.156.137.39
+dealer.prod.ps.axelspringer.de/purchases/*
+editorial.one
+technik.autobild.de
+technik.beta.autobild.de
 www.bmw-motorrad.de
 www.bmw.de
 www.mini.de
@@ -106,6 +124,20 @@ unified.cloudways.com
 www.cloudways.com
 css-tricks.com
 Any related DPG media domain
+profiles-api.datacamp.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
+campus.datacamp.com
+com.datacamp
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
+practice.datacamp.com
+projects.datacamp.com
+www.datacamp.com
+www.datacamp.com/datalab
 myaccount.demorgen.be
 www.demorgen.be
 www.demorgen.be/abonnementen
@@ -263,6 +295,47 @@ gammacademy.be
 karwei-promotiepunt.nl
 gammalokaal.nl
 nl.gamma.verf
+booking.mjrtheatres.com
+extras.landmarkcinemas.com
+identityserver.landmarkcinemas.com
+kinepolis.megatix.be
+luxfilmfestfilms.megatix.be
+luxfilmfestproducts.megatix.be
+luxfilmfesttickets.megatix.be
+movieapi.kinepolis.megatix.be
+tickets.kinepolis.be
+tickets.kinepolis.ch
+tickets.kinepolis.es
+tickets.kinepolis.fr
+tickets.kinepolis.lu
+tickets.kinepolis.nl
+userprofile-ui.landmarkcinemas.com
+www.kinepolis.be 
+www.kinepolis.ch 
+www.kinepolis.com 
+www.kinepolis.es 
+www.kinepolis.fr 
+www.kinepolis.lu 
+www.kinepolis.nl 
+www.landmarkcinemas.com
+www.mjrtheatres.com
+business.kinepolis.be
+business.kinepolis.lu
+business.kinepolis.nl
+com.inthepocket.kinepolis
+extras-acc.landmarkcinemas.com
+https://movieclub-int.kinepolis.com
+https://movienow-int.kinepolis.be/admin
+https://shop-acc.kinepolis.be/
+identityserver-acc.landmarkcinemas.com
+kinepolis-studio.be
+kinepolis/id368204284
+nz.co.vista.android.movie.mjrtheatres
+stage.landmarkcinemas.com
+userprofile-acc.landmarkcinemas.com
+www.kinepolis.biz
+522089287
+egaming.kinepolis.es
 www.kruidvat.nl
 www.kruidvat.be
 Kruidvat BE iOS
@@ -320,6 +393,9 @@ login.lansweeper.com
 www.lansweeper.com
 www.libelle.nl
 actie.libelle.nl
+Liferay DXP 2026.Q1
+Liferay DXP 2025.Q1
+Liferay DXP 2024.Q1
 www.marionnaud.fr
 Marionnaud France Android
 Marionnaud France iOS
