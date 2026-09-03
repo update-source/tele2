@@ -10,7 +10,7 @@ Adobe Stock AI Studio
 Frame.io iOS Application
 Adobe Fresco (iOS)
 Adobe Photoshop Express Mobile App (iOS)
-https://play.google.com/store/apps/details?id=com.adobe.lrmobile&hl=en_GB
+Lightroom Video & Photo Editor (IOS)
 Lightroom Video & Photo Editor (Android)
 Adobe Scan Mobile App (iOS)
 Adobe Scan Mobile App (Android)
@@ -18,8 +18,6 @@ Acrobat Reader Mobile App (iOS)
 Acrobat Reader Mobile App (Android)
 stock.adobe.com
 firefly.adobe.com
-Adobe ColdFusion without ColdFusion Administrator
-ColdFusion Administrator
 photoshop.adobe.com
 Adobe Commerce, Adobe Commerce B2B and Magento Open Source
 account.magento.com
@@ -124,6 +122,20 @@ unified.cloudways.com
 www.cloudways.com
 css-tricks.com
 Any related DPG media domain
+profiles-api.datacamp.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
+campus.datacamp.com
+com.datacamp
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
+practice.datacamp.com
+projects.datacamp.com
+www.datacamp.com
+www.datacamp.com/datalab
 myaccount.demorgen.be
 www.demorgen.be
 www.demorgen.be/abonnementen
@@ -806,6 +818,16 @@ fm.voiapp.io
 https://repair.voiweb.net
 report.voi.com
 voi.com
+https://app.getflywheel.com
+https://getflywheel.com
+https://my.wpengine.com
+https://payments.wpengine.com
+https://wpengine.com
+WP Engine-developed WordPress Plugins and Themes
+https://makeshift.film
+https://studiopress.blog
+https://torquemag.io
+https://velocitize.com
 https://desktop.water-link.be/
 https://pit.water-link.be/
 https://www.water-link-jaarverslag.be

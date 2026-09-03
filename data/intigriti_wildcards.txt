@@ -43,6 +43,7 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -169,6 +170,14 @@ Leaked/compromised employee accounts *.here.com
 *.vtmgo.be
 *.voi.com
 *.voiscooters.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
 *.water-link.be/
 *.mijnwater-link.be
 *.watsons.com.hk
