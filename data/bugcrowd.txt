@@ -64,6 +64,21 @@ https://github.com/Aiven-Open
 https://github.com/Aiven
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/
 Third-party dependency versions
+https://marketplace.atlassian.com/apps/1214613/multiple-filters-chart-gadget?hosting=cloud
+https://marketplace.atlassian.com/apps/1211976/gauge-gadget?hosting=cloud
+https://marketplace.atlassian.com/apps/1211314/three-dimensional-date-gadgets?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225375/site-statistics-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1223780/tissue-table-of-linked-issues?hosting=cloud
+https://marketplace.atlassian.com/apps/1229447/site-statistics-for-confluence-cloud?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1211116/countdown-timer?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1217056/canned-search-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1217224/countdown-gadget?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1215764/calendar-heatmap-gadget?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1214394/menu-gadget?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1224848/banners-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1237524/dashboard-assistant-for-jira-cloud?hosting=cloud
+https://marketplace.atlassian.com/apps/1238098/project-access-review-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1238069/file-type-checker-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219112/easy-templates-for-jira-issues?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236389/easy-progress-hill-charts-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236512/easy-action-items-checklist-templates-and-automation?hosting=cloud&tab=overview
@@ -717,6 +732,7 @@ https://projects.epam.com
 https://lab.epam.com
 https://opensource.epam.com
 In Scope - Points only
+https://marketplace.atlassian.com/apps/1213091/esu-sum-up-kpi-budget-reporting-project-epic-overview?hosting=cloud&tab=overview
 https://io.getdelta.ios
 https://io.getdelta.android
 https://etoropartners.com
@@ -750,7 +766,6 @@ https://financialforce.com
 https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
 https://sandbox-api.fireblocks.io
-https://github.com/fireblocks/mpc-lib
 https://github.com/fireblocks/mpc-lib
 Any FIS asset is in scope
 https://fivetran.com/login
@@ -889,6 +904,16 @@ https://apps.apple.com/us/app/indeed-connect-for-employers/id6443822731
 https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcmnfgpnmkkhmkllnlflef
 Any host/web property/mobile app verified to be owned by Indeed
 https://marketplace.atlassian.com/apps/1218151/capacity-tracker?hosting=cloud&tab=overview
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
+https://api.intercom.com
+https://app.intercom.com
+https://app.intercom.io/
+https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
+https://www.intercom.com/
+http://mcp.intercom.com
+https://api-iam.intercom.io
+https://fin.ai/
+https://app.fin.ai/
 https://www.carsdirect.com
 https://pets.webmd.com
 https://member.webmd.com
@@ -1480,6 +1505,7 @@ https://octopus.com/downloads
 https://octopus.com/downloads
 https://github.com/OctopusDeploy
 https://octopus.com
+https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free?hosting=cloud
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
@@ -2152,6 +2178,8 @@ https://play.google.com/store/apps/details?id=com.certsy.app
 ████████████████████████████
 █████████████████████
 █████████████████████
+https://marketplace.atlassian.com/apps/1221271/easy-heading-macro-floating-table-of-contents?hosting=datacenter
+https://marketplace.atlassian.com/apps/1221271/easy-heading-macro-floating-table-of-contents?hosting=cloud&tab=overview
 https://bb1.simplisafe.com
 https://bb2.simplisafe.com
 https://cb.simplisafe.com
@@ -2674,6 +2702,7 @@ https://www.wyze.com/products/wyze-cam
 █████████████████████████
 █████████████████████
 █████████████████
+https://marketplace.atlassian.com/apps/1228719/gitprotect-io-for-jira-backup-restore-dr-data-management?hosting=cloud
 staging-app.bany.dev
 https://staging-api.bany.dev/
 https://www.ynab.com/
