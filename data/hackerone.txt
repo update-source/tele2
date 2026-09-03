@@ -1328,8 +1328,6 @@ vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
 www.vodafone.om
-api.au.frontegg.com
-portal.au.frontegg.com
 ab-platform-api.eu-east-1.indriverapp.com
 alternativa.film
 api.ryadom.kz

@@ -43,7 +43,6 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -93,16 +92,6 @@ Leaked/compromised employee accounts *.here.com
 *.werkenbijgamma.be
 *.werkenbijkarwei.nl
 *.karweioutletstore.nl
-*.klubcinema.fr
-*.megatix.be  
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
-*.landmarkcinemas.com
-*.mjrtheatres.com
 *.kruidvatkids.nl
 *.kruidvat.nl
 *.kruidvat.be
@@ -170,14 +159,6 @@ Leaked/compromised employee accounts *.here.com
 *.vtmgo.be
 *.voi.com
 *.voiscooters.com
-*. advancedcustomfields.com
-*. bettersearchreplace.com
-*.deliciousbrains.com
-*.localwp.com
-*.nitropack.io
-*.studiopress.com
-*.wpengine.io
-*.wpesvc.net
 *.water-link.be/
 *.mijnwater-link.be
 *.watsons.com.hk
