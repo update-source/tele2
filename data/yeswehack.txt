@@ -459,8 +459,6 @@ https://service.post.ch/ekp-web/
 https://service.post.ch/zopa/app/
 https://play.google.com/store/apps/details?id=com.nth.swisspost&hl=de_CH&gl=US
 https://apps.apple.com/ch/app/die-post/id378676700
-https://itunes.apple.com/ch/app/postcard-creator/id820354055?mt=8
-https://play.google.com/store/apps/details?id=ch.post.it.pcc&hl=en
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://service.post.ch/ele-klp/ele/
 Source Code

@@ -253,6 +253,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -541,9 +542,6 @@
 *.kibana.wtf
 *.kiln.it
 *.kiwi.com
-*.klarna.com
-*.klarna.net
-*.klarnacdn.net
 *.klaviyo-dev.com/*
 *.klaviyomsv.com/*
 *.korta.is
@@ -806,7 +804,6 @@
 *.preemptsecurity.com
 *.prelert.com
 *.preview.8x8.vc
-*.pricerunner.com
 *.prijsmepper.nl
 *.primarycareondemand.mayoclinic.org
 *.privateinternetaccess.com

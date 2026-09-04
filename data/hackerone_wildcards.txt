@@ -29,10 +29,6 @@ app*.hubspot.com
 *.verilyme.com/
 *.varonis.com
 *.varonis.io
-*.klarna.com
-*.klarna.net
-*.klarnacdn.net
-*.pricerunner.com
 *.uat.unico.app
 *.nflxext.com
 *.nflximg.net
