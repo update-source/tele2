@@ -176,8 +176,6 @@ wlr-cf.*.aws.indriverapp.com
 *.otherside.xyz
 *.yuga.com
 *.yugalabs.io
-*.api.cx.metamask.io
-*.metamask.io
 *.eu.floqast.app
 *.floqast.app
 *.floqast.engineering

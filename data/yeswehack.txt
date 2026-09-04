@@ -74,21 +74,6 @@ https://api.datadome.co
 https://api-js.datadome.co
 https://auth.datadome.co
 https://datadome.co
-www.deezer.com
-connect.deezer.com
-api.deezer.com
-payment.deezer.com
-https://play.google.com/store/apps/details?id=deezer.android.app
-https://apps.apple.com/fr/app/deezer-musique-podcast/id292738169
-zen.deezer.com
-wellbeing.deezer.com
-wellbeing.dzcdn.net
-https://play.google.com/store/apps/details?id=com.deezer.zen
-https://apps.apple.com/be/app/zen-by-deezer-m%C3%A9ditation/id1597326355
-account.deezer.com
-pipe.deezer.com
-ws.deezer.com
-upload.deezer.com
 www.doctolib.(fr|de|it)
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
 Special scenarios (see description)
@@ -424,12 +409,6 @@ https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
 Applications/Extensions under https://www.privateinternetaccess.com/download
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
-www.qwant.com
-api.qwant.com
-s.qwant.com
-s1.qwant.com
-s2.qwant.com
-qwantjunior.com
 www.onsexprime.fr
 www.1000-premiers-jours.fr
 mangerbouger.fr
