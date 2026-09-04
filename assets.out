@@ -1940,6 +1940,7 @@ Device: JBL Flip 7
 Device: JBL Live Beam 3
 Device: JBL PartyBox Encore 2
 Device: JBL Tour One M3
+Devices
 Dia Assistant
 Dia Browser
 Direct Contracts
@@ -2432,6 +2433,7 @@ Scope Questions: Items not explicitly listed here
 Secondary Assets
 Self-Register Account on T-Mobile Microsoft Entra ID
 Services
+Services/Mobile/GenAI
 Shopify Developed Apps
 Shopify Mobile Applications
 Shopify Third Party Apps
@@ -2701,7 +2703,6 @@ Zendesk Public Repositories
 Zendesk Suite
 [Unico] Liveness Bypass
 a.root-servers.net (DNS service; DNS related)
-a4k.amazon.com
 a5s.hackerone-ext-content.com
 ab-api-cf.*.aws.indriverapp.com
 ab-platform-api.eu-east-1.indriverapp.com
@@ -2802,8 +2803,6 @@ ak-static.cms-qa.nba.com
 ak-static.cms.nba.com
 akismet.com
 alert.logitech.com
-alexa.amazon.com
-alexaanswers.amazon.com
 alfred-uat-31.nonprod.syfe.com
 alfred.syfe.com
 alipayhk.com
@@ -2814,7 +2813,6 @@ am.developer.monespacesante.fr
 am.editeur.preprod.monespacesante.fr
 am.monespacesante.fr
 am.preprod.monespacesante.fr
-amazon.com/hz/mycd/*
 amazon.speech.sim
 amazonpayinsurance.in
 amd.digitalocean.com
@@ -2856,7 +2854,6 @@ api.8x8.com
 api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
-api.amazonalexa.com/*
 api.anthropic.com
 api.arkane.network
 api.atg.se
@@ -3243,7 +3240,6 @@ blog.watsons.com.tr
 blox.link
 bluecoats-qa.gleague.nba.com
 bluecoats.gleague.nba.com
-blueprints.amazon.com
 blueskytours.globalbookingsolutions.com
 bma.badoo.com
 bma.bumble.com
@@ -3891,7 +3887,6 @@ crash-reports.allizom.org
 crash-stats.allizom.org
 create.fortnite.com
 create.snapchat.com
-creator.amazon.com
 creatormarketplace.tiktok.com
 crm.na1.insightly.com
 crm.nextcloud.com
@@ -3995,8 +3990,6 @@ developer*.earlywarning.com
 developer-api.crypto.com
 developer-platform-api.crypto.com
 developer.8x8.com
-developer.amazon.com/alexa/*
-developer.amazon.com/apps-and-games/*
 developer.authorize.net
 developer.crypto.com
 developer.currencycloud.com
@@ -5549,7 +5542,6 @@ https://login.paddle.com
 https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
-https://luna.amazon.com/*
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
@@ -6863,7 +6855,6 @@ https://www.agoda.com/account/cashback
 https://www.agoda.com/book/
 https://www.akhwien.at
 https://www.allsaints.me/
-https://www.amazon.com/luna/*
 https://www.amazonpay.in/*
 https://www.arlo.com
 https://www.arrowfilms.com
@@ -8121,7 +8112,6 @@ rates.rewire.com
 rc-gw-cf.*.aws.indriverapp.com
 rea-group.com
 reach.hostinger.com
-read.amazon.com
 readonly.fareharbor.com
 realme 15 5G
 realme 15 Pro 5G
@@ -8357,7 +8347,6 @@ sipsynergy.co.uk
 site.rewire.com
 sites.fareharbor.com
 sketch.pixiv.net
-skills-store.amazon.com
 sks-*.exo.io
 sky-dev.wnba.com
 sky-qa.wnba.com
@@ -8826,7 +8815,6 @@ www.ad.nl/abonnementen
 www.airbnb.com
 www.am.monespacesante.fr
 www.amazon.*
-www.amazon.com/photos/*
 www.analvids.com
 www.applevacations.com
 www.arkoselabs.com
