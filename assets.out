@@ -634,6 +634,7 @@
 *.mercadolibre.com.mx
 *.mercadolibre.com.pe
 *.mercadolibre.com.uy
+*.mercadolibre.com.ve
 *.mercadolivre.com.br
 *.mercadopago.cl
 *.mercadopago.com
@@ -1039,6 +1040,7 @@
 *.trouw.nl
 *.tstaging.com
 *.tstaging.tools
+*.tucarro.com.ve
 *.tumblr.com
 *.tvg.com
 *.tweakblogs.net
@@ -1551,7 +1553,6 @@
 545519333
 545599256
 547702041
-564141518
 566635048
 586634331
 594802437
@@ -2727,7 +2728,6 @@ accounts.shopify.com
 accounts.snapchat.com
 accounts.stage.evernote.com
 accounts.x.ai
-accountsettings.connect.identity.stagaws.visma.com
 accountshomolog.acesso.io
 aces-dev.wnba.com
 aces-qa.wnba.com
@@ -2747,7 +2747,6 @@ admin.booking.com
 admin.instacart.com
 admin.meeshosupply.com
 admin.shopify.com
-admin.stage.vismaonline.com
 admin.wickr.com
 admin2.infomaniak.com
 admincms.developer.monespacesante.fr
@@ -2773,12 +2772,10 @@ agents.tasheer.com
 aguacaliente-dev.gleague.nba.com
 aguacaliente-qa.gleague.nba.com
 aguacaliente.gleague.nba.com
-ai-testing.maventa.com
 ai-tools.infomaniak.com
 ai.portswigger.net
 ai.x.GrokApp
 ai.x.grok
-aiassistant.stage.vismaonline.com
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
 air.com.playtika.slotomania
@@ -3009,7 +3006,6 @@ api.watsons.vn
 api.whatnot.com
 api.wisdomtreeprimeapp.com
 api.wordpress.org
-api.workbox.dk
 api.yoti.com
 api2.frontapp.com
 api2.grofers.com
@@ -3087,7 +3083,6 @@ app.taxjar.com
 app.theperfumeshop.com
 app.watsons.com.tr
 app.whoop.com
-app.workbox.dk
 app3.rewire.to
 applause1.magisto.com
 appmiral.com
@@ -3152,12 +3147,9 @@ auth0.gocardless.com
 auth0.net
 authentication.clearme.com
 authentication.wolt.com
-authz.workbox.dk
 autocomplete.booking.com
 autodiscover.uzleuven.be
-autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
-ax-stage.maventa.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
 backoffice.lansweeper.com
@@ -3742,7 +3734,6 @@ com.venmo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
-com.visma.blue
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.predict
@@ -3804,7 +3795,6 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network 
-connect.identity.stagaws.visma.com
 connect.posti.fi
 connect.secure.wellsfargo.com
 connect.venly.io
@@ -4048,8 +4038,6 @@ dropbox.com/paper
 dwhreports.nba.com
 dwy.visa.com
 e-Commerce
-eaccounting.stage.vismaonline.com
-eaccountingprinting.stage.vismaonline.com
 eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
@@ -7235,7 +7223,6 @@ identity-server.nba.com
 identity-uat.nba.com
 identity.clearme.com
 identity.nba.com
-identity.stage.vismaonline.com
 identity.yoti.com
 identityhomolog.acesso.io
 idp-cf.*.aws.indriverapp.com
@@ -7687,8 +7674,6 @@ myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
 myself.tw.coupang.com
-myservices-api.stage.vismaonline.com
-myservices.stage.vismaonline.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
 mystics-qa2.wnba.com
@@ -7828,7 +7813,6 @@ nycbasketball.nba.com
 oasisprod.marriott.com
 oauth-sandbox.gocardless.com
 oauth.deriv.com
-oauth.developers.stagaws.visma.com
 ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
@@ -7954,7 +7938,6 @@ phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photo.kruidvat.be
-photoservice.stage.vismaonline.com
 photoshop.adobe.com
 picc.posti.fi
 pigeon.swiftfinancial.com
@@ -8523,7 +8506,6 @@ test.payworks.io
 testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
-testing.maventa.com
 teststs.uzleuven.be
 texas-dev.gleague.nba.com
 texas-qa.gleague.nba.com
@@ -8926,6 +8908,7 @@ www.iciparisxl.nl
 www.infomaniak.com
 www.instacart.com
 www.intigriti.com
+www.ipbooster.com
 www.jaybirdsport.com
 www.karwei.nl/*
 www.kayak.com

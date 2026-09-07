@@ -81,10 +81,10 @@ storage*.infomaniak.com
 *.api.vimla.se
 *.foretagsportalen.telenor.se
 *.mittforetag.telenor.se
-*.stream.telenor.se
 *.play.ownit.se
 *.inpli.se
 *.telenorinpli.se
+*.stream.telenor.se
 *.telenor.se
 *.vimla.work
 *.vimla.se

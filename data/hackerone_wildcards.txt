@@ -428,6 +428,7 @@ support*.earlywarning.com
 *.mercadolibre.com.mx
 *.mercadolibre.com.pe
 *.mercadolibre.com.uy
+*.mercadolibre.com.ve
 *.mercadolivre.com.br
 *.mercadopago.cl
 *.mercadopago.com
@@ -438,6 +439,7 @@ support*.earlywarning.com
 *.mercadopago.com.pe
 *.mercadopago.com.uy
 *.mlstatic.com
+*.tucarro.com.ve
 *.dev.remitly.com
 *.int.remitly.com
 *.flickr.com
