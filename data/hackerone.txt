@@ -2059,8 +2059,6 @@ dl.boxcloud.com
 iOS Box Mobile App
 m.box.com
 notes.services.box.com
-signrequest.com
-sr-staging-1.com
 upload.box.com
 Exodus Desktop Wallet
 Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd

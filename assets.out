@@ -2663,7 +2663,6 @@ WordPress VIP
 Workers
 Workers AI
 Workers KV
-Workstation MFA (WMFA)
 Wrapped
 Wyze Cam V3
 X Pixel Helper (Chrome Extension)
@@ -4436,7 +4435,6 @@ https://account.t-mobile.com
 https://account.teamviewer.com
 https://accounts.cmp.optimizely.com/
 https://accounts.hytale.com/login
-https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.webmd.com
 https://accounts.welcomesoftware.com/
@@ -4445,7 +4443,6 @@ https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://admin-roundups.moneyboxapp.org
 https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-guard
-https://admin.lastpass.com
 https://admin.moneyboxapp.org
 https://admin.ring.com/*
 https://admintool.lime.bike
@@ -4713,8 +4710,6 @@ https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
-https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
-https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/loom-screen-recorder/id1474480829
 https://apps.apple.com/us/app/mattermost/id1257222717
 https://apps.apple.com/us/app/mint-mobile/id1295303441
@@ -4779,7 +4774,6 @@ https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
-https://auth.lastpass.com
 https://auth.myopenpass.com
 https://auth.opera.com
 https://auth.requirementyogi.com
@@ -4814,7 +4808,6 @@ https://blockexplorer.electroneum.com
 https://blofin.com
 https://blog.bitpanda.com/en
 https://blog.etsy.com
-https://blog.lastpass.com
 https://blog.thefork.com/
 https://blog.verisign.com
 https://bluetooth-events.onecloud.harman.com
@@ -5454,8 +5447,6 @@ https://l.usaa.com/
 https://lab.epam.com
 https://landrover.here.com
 https://lapi.yellowblocks.me
-https://lastpass.com
-https://lastpass.com/misc_download2.php
 https://latitudeinfinity.com.au
 https://launchdarkly.com/docs
 https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/0dfwUn870OFm3aebVTKv0xz1viKKyXlL
@@ -6231,6 +6222,7 @@ https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
 https://oma.posti.fi/
 https://onboard.neogov.com
+https://onchain.cc/
 https://one-sit.uat.proptrack.com/
 https://one.newrelic.com
 https://oneview.threatdownstage.com
@@ -6387,8 +6379,6 @@ https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&g
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
 https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
 https://play.google.com/store/apps/details?id=com.lafourchette.tfm3
-https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
 https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.loom.android&hl=en_US&pli=1
@@ -6659,7 +6649,6 @@ https://supplier-connect.otto.de
 https://supplier.underarmour.com/
 https://supplier.viator.com/
 https://support.atlassian.com/rovo/docs/use-rovo-dev-cli/
-https://support.lastpass.com
 https://support.moovitapp.com/hc/en-us/articles/11389054527122-WayFinder-Augmented-Reality-helper-to-find-your-stop-iPhone-only
 https://support.newrelic.com/
 https://support.okta.com
@@ -6944,7 +6933,6 @@ https://www.kuleuven.be/sapredir/huisvesting
 https://www.ladbrokes.com
 https://www.ladbrokes.com/en/games
 https://www.lascana.de/
-https://www.lastpass.com
 https://www.letspaylater.ph
 https://www.li.me/
 https://www.logitech.com/blog
@@ -8281,7 +8269,6 @@ shoppers.instacart.com
 sign.dropbox.com
 signature-insights.api.cx.metamask.io
 signin.auth.welt.de
-signrequest.com
 signup.sendgrid.com
 simperium.com
 simplenote.com
@@ -8352,7 +8339,6 @@ speelgoedfolder.kruidvat.be
 speelgoedfolder.kruidvat.nl
 splunk-phantom-nlb.marriott.com
 sporza.be
-sr-staging-1.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
