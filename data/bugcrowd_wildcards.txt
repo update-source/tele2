@@ -134,8 +134,8 @@ prod-*.nu.com.co
 *.api.originenergy.com.au
 *.download.originenergy.com.au
 *.pinterest.com Web Apps
-*.pinterest.com Web Apps
 *.points.com
+*.quizlet.com
 *.rapyd.net
 *.korta.is
 *.rapyd.com
@@ -171,11 +171,11 @@ prod-*.nu.com.co
 *.prd.cam.simplisafe.com (App Endpoints)
 *.skyscanner.net
 3rd party services hosted at *.sophos.com
+*.soundcloud.org
+*.s-cloud.net
+*.services.repostnetwork.com
+api-*.soundcloud.com
 *.statuspage.io
-*.uscc.net
-*.uscc.com
-*.uscellular.com
-*.assurancewireless.com
 *.uscc.net
 *.uscc.com
 *.uscellular.com

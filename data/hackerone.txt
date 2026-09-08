@@ -1224,12 +1224,9 @@ Anker
 Solarbank 2 E1600 Pro
 com.anker.AnkerMake
 com.anker.charging
-com.eufylife.EufyHome
 com.oceanwing.FDMPrint
 com.oceanwing.battery.cam
-com.oceanwing.care.cam
 com.security.BatteryCam
-com.security.care
 eufyMake E1
 eufyMake Studio(2D UV)
 https://us.eufy.com/products/e8213181
