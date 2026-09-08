@@ -196,6 +196,7 @@ Hilton Third Party Applications - *.hilton.com
 *.iron.xyz
 *.moonpay.com
 *.moonpaycloud.com
+*.swaps.xyz
 *.capitalone.ca
 *.capitalone.com
 *.capitalonegslbex.com
