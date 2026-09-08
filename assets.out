@@ -214,7 +214,6 @@
 *.capitaloneshopping.com
 *.captcha-delivery.com
 *.carrentals.com
-*.cashstaging.app
 *.cb.dev
 *.cbhq.net
 *.cceng.8x8.com
@@ -993,7 +992,6 @@
 *.swaps.xyz
 *.swiftype.com
 *.swisspass.ch
-*.tdl.sh
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
@@ -1011,7 +1009,6 @@
 *.threatdown.com
 *.ticketing.cm.com
 *.ticketnew.com
-*.tidalhifi.com
 *.tiktok.com
 *.tiktokcdn.com
 *.tiktokpublishers.com
@@ -1133,7 +1130,6 @@
 *.wien.at
 *.wien.gv.at
 *.wienkav.at
-*.wimpmusic.com
 *.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com
@@ -1199,7 +1195,6 @@
 *sbbcargo.com
 *stag*.uzleuven.be
 *test*.bykea.net
-*tidalhi.fi
 *transsicura.ch
 *uat.marriott.com
 *ubereats.com
@@ -1817,6 +1812,8 @@ Box Drive
 Box Tools
 Braintree SDK
 Brand Sites
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -2457,8 +2454,6 @@ Special scenarios (see description)
 Spectrum
 Spotify SDKs
 Spotify desktop application (Windows and Mac)
-Square Register
-Square Terminal
 Starbucks China Android
 Starbucks China iOS
 Starbucks Japan Android
@@ -2537,9 +2532,6 @@ ThreatDown Device Control
 ThreatDown Endpoint Detection & Response (EDR)
 ThreatDown Endpoint Protection
 ThreatDown Patch Management
-Tidal Client for Android
-Tidal Client for iOS
-Tidal Official Clients (e.g. Sonos integration, Tesla integration, etc.)
 Tier 1
 Tier 1 Assets
 Tier 1 OSS
@@ -2663,6 +2655,7 @@ WordPress VIP
 Workers
 Workers AI
 Workers KV
+Workstation MFA (WMFA)
 Wrapped
 Wyze Cam V3
 X Pixel Helper (Chrome Extension)
@@ -2985,7 +2978,6 @@ api.swiftfinancial.com
 api.syfe.com
 api.taxjar.com
 api.theperfumeshop.com
-api.tidal.com
 api.trello.com
 api.tumblr.com
 api.twilio.com
@@ -3494,6 +3486,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -4435,6 +4429,7 @@ https://account.t-mobile.com
 https://account.teamviewer.com
 https://accounts.cmp.optimizely.com/
 https://accounts.hytale.com/login
+https://accounts.lastpass.com
 https://accounts.opera.com
 https://accounts.webmd.com
 https://accounts.welcomesoftware.com/
@@ -4443,11 +4438,11 @@ https://addons.mozilla.org/en-US/firefox/addon/pinterest/
 https://admin-roundups.moneyboxapp.org
 https://admin.atlassian.com/
 https://admin.atlassian.com/atlassian-guard
+https://admin.lastpass.com
 https://admin.moneyboxapp.org
 https://admin.ring.com/*
 https://admintool.lime.bike
 https://aemdam.usaa360.com/
-https://afterpay.com
 https://agent-contact.realestate.com.au/lead-capture-page/campaign-id/8e50c3d0-0d2b-44d1-9df6-f4e02b9a690e
 https://agent.apps.monash.edu/
 https://aiven.io/
@@ -4480,7 +4475,6 @@ https://api.bugcrowd.com
 https://api.bykea.net
 https://api.canva.com
 https://api.classdojo.com
-https://api.clearpay.com
 https://api.cloudinary.com
 https://api.cyberghostvpn.com
 https://api.datadome.co
@@ -4601,7 +4595,6 @@ https://apps.apple.com/app/thefork-manager-neo/id1295795281
 https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
-https://apps.apple.com/au/app/afterpay-shop-now-pay-later/id1230286588
 https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -4636,7 +4629,6 @@ https://apps.apple.com/fr/app/louis-vuitton/id709101942
 https://apps.apple.com/fr/app/swapcard/id879488719
 https://apps.apple.com/gb/app/bwin-poker-and-casino-games/id410242773
 https://apps.apple.com/gb/app/bwin-sports-betting/id393760245
-https://apps.apple.com/gb/app/clearpay-buy-now-pay-later/id1474022186
 https://apps.apple.com/gb/app/indeed-flex-job-search/id1013812731
 https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239
 https://apps.apple.com/gb/app/partycasino-play-casino-games/id818432894
@@ -4710,6 +4702,8 @@ https://apps.apple.com/us/app/jira-server/id1405353949
 https://apps.apple.com/us/app/jora-jobs-job-search-app/id917565665	
 https://apps.apple.com/us/app/keeperchat/id1273303729?mt=12
 https://apps.apple.com/us/app/kucoin-buy-bitcoin-crypto/id1378956601?mt=8
+https://apps.apple.com/us/app/lastpass-authenticator/id1079110004
+https://apps.apple.com/us/app/lastpass-password-manager/id324613447
 https://apps.apple.com/us/app/loom-screen-recorder/id1474480829
 https://apps.apple.com/us/app/mattermost/id1257222717
 https://apps.apple.com/us/app/mint-mobile/id1295303441
@@ -4732,7 +4726,6 @@ https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/shuffles-by-pinterest/id1573869498
 https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051
 https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
-https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/tesla/id582007913
 https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795
@@ -4774,6 +4767,7 @@ https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
+https://auth.lastpass.com
 https://auth.myopenpass.com
 https://auth.opera.com
 https://auth.requirementyogi.com
@@ -4808,6 +4802,7 @@ https://blockexplorer.electroneum.com
 https://blofin.com
 https://blog.bitpanda.com/en
 https://blog.etsy.com
+https://blog.lastpass.com
 https://blog.thefork.com/
 https://blog.verisign.com
 https://bluetooth-events.onecloud.harman.com
@@ -4846,7 +4841,6 @@ https://carecredit.com.au
 https://careers.etsy.com
 https://careers.thetradedesk.com
 https://cas-cf.euce1.indriverapp.com/api/passkey
-https://cash.app
 https://cashback.opera.com/
 https://casino.bwin.com
 https://casino.partycasino.com
@@ -4871,8 +4865,6 @@ https://chromewebstore.google.com/detail/indeed-recruiter-extensio/kiodpphbmnmcm
 https://chromewebstore.google.com/detail/loom-%E2%80%93-screen-recorder-sc/liecbddmkiiihnedobmlmillhodjkdmb?hl=en-US&pli=1
 https://cicforms.mioot.com/
 https://citycentredeira.com/
-https://clearpay.co.uk
-https://clearpay.com
 https://clickhou.se/bugcrowd
 https://clients.adstruc.com
 https://clients.multiplayer.classdojo.com/launcher/prod/latest
@@ -4960,7 +4952,6 @@ https://developer.ifood.com.br
 https://developer.mastercard.com
 https://developer.newrelic.com/
 https://developer.paddle.com
-https://developers.afterpay.com
 https://developers.elementor.com/
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-android
 https://developers.intercom.com/installing-intercom/docs/about-the-sdk-ios
@@ -5154,6 +5145,7 @@ https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
+https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -5414,7 +5406,6 @@ https://itunes.apple.com/app/carrefour-uae/id626805470
 https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8
 https://itunes.apple.com/gb/app/unibet-casino-slots-games/id905382680
 https://itunes.apple.com/gb/app/unibet-live-sports-betting/id463335337
-https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
 https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
 https://jaguar.here.com
@@ -5447,6 +5438,8 @@ https://l.usaa.com/
 https://lab.epam.com
 https://landrover.here.com
 https://lapi.yellowblocks.me
+https://lastpass.com
+https://lastpass.com/misc_download2.php
 https://latitudeinfinity.com.au
 https://launchdarkly.com/docs
 https://lazzx4o5mh.execute-api.eu-west-1.amazonaws.com/production/landing/client/0dfwUn870OFm3aebVTKv0xz1viKKyXlL
@@ -6149,8 +6142,6 @@ https://mmp.otto.de
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
 https://mobile.usaa.com
-https://mobileapi.afterpay.com
-https://mobileapi.clearpay.com
 https://mobileapi.staging.luno.com/
 https://mobileapp.opsgenie.com
 https://mobileapps.usaa.com/
@@ -6217,7 +6208,6 @@ https://odesli.co
 https://odesli.com
 https://oes.optusnet.com.au/
 https://ofa.adx.opera.com
-https://offer.tidal.com/download
 https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
 https://oma.posti.fi/
@@ -6325,8 +6315,6 @@ https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
 https://play.google.com/store/apps/details?id=br.com.movilepay.banking.application&hl=pt_BR
 https://play.google.com/store/apps/details?id=ch.mediamarkt
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.afterpaymobile.uk
-https://play.google.com/store/apps/details?id=com.afterpaymobile.us&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.asana.app&hl=en
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.core&hl=en_US&gl=US
@@ -6379,6 +6367,8 @@ https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&g
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
 https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
 https://play.google.com/store/apps/details?id=com.lafourchette.tfm3
+https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
 https://play.google.com/store/apps/details?id=com.limebike
 https://play.google.com/store/apps/details?id=com.loom.android&hl=en_US&pli=1
@@ -6418,8 +6408,6 @@ https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
 https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
-https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
 https://play.google.com/store/apps/details?id=com.syftapp.android
 https://play.google.com/store/apps/details?id=com.tcx.sipphone14
@@ -6481,18 +6469,13 @@ https://pluralcheckout.pinepg.in
 https://pods.link
 https://portal-api.anz.kinergysolutions.com
 https://portal.3cx.com
-https://portal.afterpay.com
 https://portal.anz.kinergysolutions.com
-https://portal.clearpay.co.uk
-https://portal.clearpay.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
-https://portalapi.eu.clearpay.co.uk
-https://portalapi.us.afterpay.com
 https://portalv2.lh360.com
 https://portfolio-manager-sit.uat.proptrack.com/
 https://powerdms.com/
@@ -6609,8 +6592,6 @@ https://soundcloud.com
 https://soundcloud.org
 https://speeddials.opera.com
 https://sprint.com
-https://square.online
-https://squareup.com/
 https://src.mastercard.com/*
 https://src.mastercard.com/profile/enroll
 https://ssu.staging.myconnect.com.au/get-connected
@@ -6649,6 +6630,7 @@ https://supplier-connect.otto.de
 https://supplier.underarmour.com/
 https://supplier.viator.com/
 https://support.atlassian.com/rovo/docs/use-rovo-dev-cli/
+https://support.lastpass.com
 https://support.moovitapp.com/hc/en-us/articles/11389054527122-WayFinder-Augmented-Reality-helper-to-find-your-stop-iPhone-only
 https://support.newrelic.com/
 https://support.okta.com
@@ -6672,7 +6654,6 @@ https://thatconceptstore.com
 https://thinkglobalhealth.org
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
-https://tidal.com/
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
@@ -6933,6 +6914,7 @@ https://www.kuleuven.be/sapredir/huisvesting
 https://www.ladbrokes.com
 https://www.ladbrokes.com/en/games
 https://www.lascana.de/
+https://www.lastpass.com
 https://www.letspaylater.ph
 https://www.li.me/
 https://www.logitech.com/blog
@@ -7119,7 +7101,6 @@ https://www.water-link.be
 https://www.waterstoring.be/
 https://www.webmd.com
 https://www.webproteus.com/lpro-web/login
-https://www.weebly.com/
 https://www.whosampled.com/
 https://www.wien.gv.at
 https://www.winconnect.com.au/get-connected/
@@ -9202,6 +9183,7 @@ zooplus.net
 ███████
 ████████
 █████████
+██████████
 ███████████
 ████████████
 █████████████
@@ -9247,6 +9229,7 @@ zooplus.net
 ███████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████████████████████████████████████████
