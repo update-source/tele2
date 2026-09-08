@@ -554,7 +554,6 @@
 *.khealth-test.com
 *.khealth.com
 *.kibana.wtf
-*.kiln.it
 *.kiwi.com
 *.klaviyo-dev.com/*
 *.klaviyomsv.com/*
@@ -4165,8 +4164,6 @@ firefox-ci-tc.services.mozilla.com
 firefox.settings.services.mozilla.com
 fit.nba.com
 flights.booking.com
-flourish-user-preview.com
-flourish-user-templates.com
 flyiin.com
 fm.anchor.android
 fm.voiapp.io
@@ -5096,8 +5093,6 @@ https://financeiro.hostgator.com.br
 https://financialforce.com
 https://fivetran.com/login
 https://flags.expeng.optimizely.com
-https://flo.uri.sh
-https://flourish.studio/
 https://flow.opera.com
 https://fn-commerce-live.eeef.live.use1a.on.epicgames.com/api/fn-commerce/
 https://fngw-svc-ds-livefn.ol.epicgames.net/api/magpie
@@ -7146,7 +7141,6 @@ https://wwws-staging.moneytree.jp/link/
 https://wwws-staging.moneytree.jp/link/mobile/
 https://wwws-staging.moneytree.jp/link/mobile/#/signup?client_id=38d99a6e8e9fc87c866f5aa82bdc2569c464b2323a55e0b28f658efa678e9623&redirect_uri=https://wwws-staging.moneytree.jp/link/mobile/callback&response_type=token&scope=guest_read+accounts_read+transactions_read+request_refresh
 https://xv-cp.apis-staging.xvtest.net/
-https://xyzbmojn.net/
 https://yeswehack.com
 https://yeswehack.staging.komoju.com
 https://youcouldbe.com
