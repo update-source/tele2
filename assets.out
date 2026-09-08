@@ -836,7 +836,6 @@
 *.qaglobal-liquidity.gs.com
 *.quip.com
 *.quixel.com
-*.quizlet.com
 *.quora.com
 *.ra.roblox.com
 *.rapyd.com
@@ -876,7 +875,6 @@
 *.router.hereapi.com
 *.rtbscale.com
 *.runnr.in
-*.s-cloud.net
 *.saltlabs.com
 *.sandbox.*.lfscnp.com
 *.savers.co.uk
@@ -910,7 +908,6 @@
 *.services-prod.nsvcs.net
 *.services.klaviyo.com
 *.services.netlify.com
-*.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
 *.shopify.com
@@ -949,7 +946,6 @@
 *.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
-*.soundcloud.org
 *.soundon.global
 *.soyoustart.com
 *.spiketrap.io
@@ -1489,7 +1485,6 @@
 284971959
 288429040
 297606951
-3.0 API
 3.133.230.28
 3.19.172.158
 3.223.149.182
@@ -2817,7 +2812,6 @@ apcgateway.marriott.com
 api*.hubapi.com
 api*.hubspot.com
 api*.netflix.com
-api-*.soundcloud.com
 api-accpt.portofantwerp.com
 api-accpt.portofantwerpbruges.com
 api-eu.floqast.app
@@ -4344,7 +4338,6 @@ http://api.na1.insightly.com/v3.1/
 http://app.scaleft.com/
 http://apps.connect.monash.edu/
 http://arcanitegames.ca/
-http://artists.soundcloud.com/
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
@@ -4738,7 +4731,6 @@ https://apps.apple.com/us/app/save-to-pinterest/id6473649042
 https://apps.apple.com/us/app/share-rewards/id1465450657
 https://apps.apple.com/us/app/shuffles-by-pinterest/id1573869498
 https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051
-https://apps.apple.com/us/app/soundcloud-music-audio/id336353151
 https://apps.apple.com/us/app/square-point-of-sale-pos/id335393788
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/tesla/id582007913
@@ -4907,7 +4899,6 @@ https://confluence.atlassian.com/doc/install-atlassian-companion-992678880.html
 https://confluence.requirementyogi.com
 https://connect.monash.edu
 https://connect.paymaya.com/
-https://connect.soundcloud.com
 https://consensus2026.sandbox.events.coindesk.com/
 https://console-stage.neon.build/
 https://console.aiven.io/login
@@ -5424,7 +5415,6 @@ https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt
 https://itunes.apple.com/gb/app/unibet-casino-slots-games/id905382680
 https://itunes.apple.com/gb/app/unibet-live-sports-betting/id463335337
 https://itunes.apple.com/us/app/cash-app/id711923939?mt=8
-https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
 https://jaguar.here.com
 https://jenkins-github.gcp.blis.com
@@ -6422,14 +6412,12 @@ https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.pinterest.shuffles
 https://play.google.com/store/apps/details?id=com.pinterest.twa&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.privateinternetaccess.android&hl=en
-https://play.google.com/store/apps/details?id=com.quizlet.quizletandroid
 https://play.google.com/store/apps/details?id=com.recordedfuture.mobile&hl=en_US
 https://play.google.com/store/apps/details?id=com.saltlabs.app
 https://play.google.com/store/apps/details?id=com.scu.bsafe
 https://play.google.com/store/apps/details?id=com.siilo.android&hl=en
 https://play.google.com/store/apps/details?id=com.sixgroup.debixplus
 https://play.google.com/store/apps/details?id=com.sixgroup.id&hl=en_US&pli=1
-https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=en&gl=US
 https://play.google.com/store/apps/details?id=com.squareup&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.squareup.cash
 https://play.google.com/store/apps/details?id=com.swapcard.apps.android&hl=fr
@@ -6617,8 +6605,6 @@ https://snctest-s.underarmour.com/
 https://solutions.visaacceptance.com/subscription
 https://song.link
 https://songlink.io
-https://soundcloud.com
-https://soundcloud.org
 https://speeddials.opera.com
 https://sprint.com
 https://square.online
