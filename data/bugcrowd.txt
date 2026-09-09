@@ -1206,6 +1206,8 @@ https://playlist.link
 https://mylink.page
 https://marketplace.atlassian.com/apps/1230303/project-templates-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1235430/space-templates-for-confluence?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1230303/project-templates-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1235430/space-templates-for-confluence?tab=overview&hosting=cloud
 ██████████████████
 ███████████████
 ██████████████████████████
@@ -2472,13 +2474,6 @@ https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045
 http://marlo.ext.tripadvisor.com
 chainabuse-staging.com
 api.chainabuse-staging.com
-https://www.20min.ch
-https://coral.20min.ch/
-https://api.20min.ch/
-https://videoplayer.20min.ch
-https://partner-feeds.20min.ch
-https://screenplayer.20min.ch
-https://audio.20min.ch/
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 http://my.mintmobile.com/

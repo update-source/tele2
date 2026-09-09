@@ -55,6 +55,7 @@
 *.8x8testa.com
 *.8x8testb.com
 *.a.exodus.io
+*.abritel.fr
 *.acbpost.be
 *.acc-pub.mobilevikings.be
 *.acc.mobilevikings.be
@@ -205,6 +206,7 @@
 *.bokundemo.com
 *.bokuntest.com
 *.bonne-terre-data-layer.com
+*.bookabach.co.nz
 *.booking.com
 *.boozt.com
 *.booztlet.com
@@ -360,6 +362,7 @@
 *.dsanalytics.com
 *.duokan.com
 *.e2ro.com
+*.ean.com
 *.earlywarning.com
 *.easy.ac
 *.edition.in
@@ -412,7 +415,13 @@
 *.europolitan.se
 *.exodus.com
 *.exodus.io
+*.expedia-aarp.com
+*.expedia.com
+*.expediaagents.com
+*.expediacruises.com
+*.expediagroup.com
 *.expediapartnercentral.com
+*.expediapartnersolutions.com
 *.expressvpn.com
 *.eziot.com
 *.ezviz.com
@@ -426,10 +435,12 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
+*.fewo-direkt.de
 *.findaya.co.id
 *.findaya.com
 *.fitbook.de
 *.flickr.com
+*.flights.com
 *.flipkey.com
 *.floqast.app
 *.floqast.engineering
@@ -551,8 +562,11 @@
 *.honestdollar.com
 *.hongyuanib.com
 *.hostgator.com.br/
+*.hotels.com
 *.hoteltonight-test.com
 *.hoteltonight.com
+*.hotwire.com
+*.hotwirepartnercentral.com
 *.houseoffun.com
 *.housetrip.com
 *.hs-sites(-eu1)?.com
@@ -884,6 +898,7 @@
 *.opsgenie.com
 *.optimuscards.com
 *.optus.com.au
+*.orbitz.com
 *.origindigital-pac.com.au
 *.osite99.com
 *.oslo.io
@@ -1127,6 +1142,7 @@
 *.staging.cloud.8x8.com
 *.staging.travix.com
 *.statuspage.io
+*.stayz.com.au
 *.stbpost.be
 *.steamstatic.com
 *.stream.telenor.se
@@ -1181,6 +1197,7 @@
 *.tinder.com
 *.tinderops.net
 *.tinderwebstaging.com
+*.tiqets.com
 *.tktnew.com
 *.tomorrowland.com
 *.tools.thefork.tech
@@ -4377,6 +4394,7 @@ com.bumblebff.app
 com.bykea.pk
 com.bykea.pk.partner
 com.capital.trading
+com.carrentals
 com.cheaptickets
 com.clay.ios
 com.clearme.Clear
@@ -4493,6 +4511,7 @@ com.heytap.wearable.research
 com.heytap.wearable.themestore
 com.heytap.xgame
 com.hilton.android.hhonors
+com.homeaway.android
 com.hotornot.app
 com.hotwire.hotels
 com.hypr.one
@@ -11556,7 +11575,9 @@ www.etoro.com
 www.evernote.com
 www.expedia-aarp.com
 www.expedia.com
+www.expediacruises.com
 www.expediagroup.com
+www.expediapartnercentral.com
 www.expediataap.com
 www.ezviz.com
 www.fareharbor.com
@@ -11761,6 +11782,7 @@ www.temu.com
 www.tgoyemek.com
 www.theperfumeshop.com
 www.tink.com
+www.tiqets.com
 www.tomorrowland.com
 www.topperpay.com
 www.torfs.be

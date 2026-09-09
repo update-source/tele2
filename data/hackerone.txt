@@ -2356,11 +2356,13 @@ www.instacart.com
 566635048
 880759727
 987675995
+com.carrentals
 com.cheaptickets
 com.ebookers
 com.expedia.bookings
 com.expediapartnercentral
 com.hcom.android
+com.homeaway.android
 com.hotwire.hotels
 com.orbitz
 com.travelocity.android
@@ -2374,7 +2376,9 @@ www.ebookers.com
 www.ebookers.fi
 www.expedia-aarp.com
 www.expedia.com
+www.expediacruises.com
 www.expediagroup.com
+www.expediapartnercentral.com
 www.expediataap.com
 www.fewo-direkt.de
 www.flights.com
@@ -2386,6 +2390,7 @@ www.lastminute.com.au
 www.mrjet.se
 www.orbitz.com
 www.stayz.com.au
+www.tiqets.com
 www.travelocity.ca
 www.travelocity.com
 www.vrbo.com
