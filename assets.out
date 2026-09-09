@@ -4494,6 +4494,7 @@ https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
 https://api-ws.thefork.com
+https://api.20min.ch/
 https://api.aiven.io/login
 https://api.bitpanda.com
 https://api.blablalines.com
@@ -4789,6 +4790,7 @@ https://atlantis-ext.myopenpass.com
 https://atlassian.ost-consulting.be
 https://audience-builder.vistarmedia.com
 https://audiencelogos.blis.com
+https://audio.20min.ch/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
@@ -4933,6 +4935,7 @@ https://consumer.finicityreports.com
 https://contadigital.ifoodpago.com.br/
 https://content-server.ibotta.com/graphql
 https://content.usaa.com
+https://coral.20min.ch/
 https://core-prod.uidapi.com
 https://cp.expressapisv2.net
 https://create.gx.games
@@ -5580,6 +5583,7 @@ https://marketplace.atlassian.com/apps/1211923/k-sso-saml-sso-oauth-kerberos-use
 https://marketplace.atlassian.com/apps/1211976/gauge-gadget?hosting=cloud
 https://marketplace.atlassian.com/apps/1212078/easy-agile-user-story-maps-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1212120/agile-reports-and-gadgets?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212126/k-sso-saml-sso-oauth-kerberos-user-management-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1212129/saml-single-sign-on-sso-confluence?hosting=datacenter&tab=overview
@@ -6266,6 +6270,7 @@ https://paasportal.episerver.net/api/v1.0/
 https://packages.cortexpowered.com
 https://paddle.net
 https://parcelhubeurope.com
+https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partner.myopenpass.com
 https://partner.thetradedesk.com
@@ -6547,6 +6552,7 @@ https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
 https://schulenwien.onmicrosoft.com
 https://scoober.com
+https://screenplayer.20min.ch
 https://sdk-h1.unico.io/createprocess
 https://search-api.bookbeat.com
 https://sec-test-<intigriti handle>-<nn>.personio.de
@@ -6749,6 +6755,7 @@ https://vendorss.usaa.com
 https://vfs.mioot.com/
 https://vfseu.mioot.com/
 https://vfsforms.mioot.com/
+https://videoplayer.20min.ch
 https://vlagg.usaa.com
 https://vlapi.usaa.com
 https://vpe-us.underarmour.com/
@@ -6789,6 +6796,7 @@ https://wsloja.ifood.com.br
 https://wsmbr.usaa.com/
 https://ww1.requirementyogi.cloud
 https://ww2.requirementyogi.cloud
+https://www.20min.ch
 https://www.32red.com/
 https://www.adsrvr.org
 https://www.agoda.com/account/agodacash
