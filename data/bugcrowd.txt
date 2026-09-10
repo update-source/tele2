@@ -528,6 +528,14 @@ https://api-prod.retailsso.com
 ███████████████████████████████████████
 ██████████
 █████████████████
+https://marketplace.atlassian.com/apps/1215875/scrum-poker-estimates-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1218960/scrum-poker-estimates-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1218860/agile-retrospectives-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1218860/agile-retrospectives-for-jira?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1216054/agile-retrospectives-for-confluence?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1216054/agile-retrospectives-for-confluence?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1217825/standbot-slack-stand-up-bot-for-jira?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1227873/teampulse-health-checks-for-jira?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/37658/column-order-gadget-plugin?hosting=cloud&tab=overview
 ████████████████████
 █████████████████████████████
@@ -692,6 +700,9 @@ https://marketplace.atlassian.com/apps/1230085/agile-test-management-ad-hoc-test
 https://marketplace.atlassian.com/apps/1232398/roadmaps-timeline-gantt-chart-structure-for-confluence?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1236175/spreadsheet-structure-table-gantt-chart-on-forge-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/856555290/salesforge-crm-leads-deals-customers-management-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1221581/esign-electronic-signatures-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1224071/esign-electronic-signatures-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1228868/esign-document-management?hosting=cloud&tab=overview
 ████████████████████████
 ███████████████████████
 ████████████████████████████████████████████
