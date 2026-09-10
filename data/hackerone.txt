@@ -2182,6 +2182,7 @@ bankaccountdata.gocardless.com
 connect-sandbox.gocardless.com
 developer.gocardless.com
 http://sso-demo.gocardless-staging.io
+https://github.com/gocardless
 https://ob-sandbox.gocardless.io
 manage-sandbox.gocardless.com
 oauth-sandbox.gocardless.com
@@ -2381,10 +2382,8 @@ www.expediagroup.com
 www.expediapartnercentral.com
 www.expediataap.com
 www.fewo-direkt.de
-www.flights.com
 www.hotels.com
 www.hotwire.com
-www.hotwirepartnercentral.com
 www.lastminute.co.nz
 www.lastminute.com.au
 www.mrjet.se
