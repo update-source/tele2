@@ -518,6 +518,8 @@ Canva (Chrome Extension)
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
 3rd-Party Provider Vulnerability
+https://marketplace.atlassian.com/apps/1216988/timesheet-tracking-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1235502/chart-factory-for-jira?hosting=cloud&tab=overview
 https://itunes.apple.com/app/carrefour-uae/id626805470
 https://play.google.com/store/apps/details?id=com.aswat.carrefouruae
 https://www.carrefouruae.com/
@@ -527,9 +529,9 @@ https://api-prod.retailsso.com
 ██████████
 █████████████████
 https://marketplace.atlassian.com/apps/37658/column-order-gadget-plugin?hosting=cloud&tab=overview
-https://www.cfr.org/
-https://thinkglobalhealth.org
-https://education.cfr.org/
+████████████████████
+█████████████████████████████
+██████████████████████████
 All Chime Assets
 https://www.chime.com
 https://app.chime.com
@@ -604,6 +606,7 @@ https://dimensions.cloudinary.com
 ████████████████
 █████████████
 ███████████████████████████
+https://marketplace.atlassian.com/apps/1227136/issue-picker-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1212096/customfield-editor-for-jira?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=datacenter&tab=overview
@@ -643,6 +646,11 @@ https://consensus2026.sandbox.events.coindesk.com/
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?tab=overview&hosting=server
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?hosting=datacenter&tab=overview
+https://marketplace.atlassian.com/apps/1219677/smart-terms-for-confluence-glossary?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1216979/smart-courses-for-confluence-lms?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225000/smart-images-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1218080/smart-tables-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1234678/smart-terms-for-jira-glossary?hosting=cloud&tab=overview
 https://console.delltechnologies.com/nav/administration
 https://console.delltechnologies.com/nav/invoice
 https://console.delltechnologies.com/nav/billing
@@ -1973,6 +1981,10 @@ https://marketplace.atlassian.com/apps/1222932/speedy-pdf-sign-offs-for-jira-clo
 https://marketplace.atlassian.com/apps/1225123/jira-snapshots-time-stamped-baselines-into-confluence?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1229545/access-agent-for-jira-snapshots-for-confluence?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1228815?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1216451/smart-checklist-for-jira-enterprise?hosting=cloud
+https://marketplace.atlassian.com/apps/1215277/smart-checklist-for-jira-free?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1231143/smart-templates-issue-templates-for-jira?hosting=cloud&tab
+https://marketplace.atlassian.com/apps/1233681/smart-ai-release-notes-for-jira?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1214045/raley-email-notifications-for-jira-jsm?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223409/raley-purchase-orders?hosting=cloud&tab=overview
 api.rapyd.net
@@ -2155,6 +2167,9 @@ SAP AI Core
 SAP BusinessOne
 Gardener
 SAP Concur
+https://marketplace.atlassian.com/apps/1218251/s-notify-email-encryption-for-jira?hosting=datacenter
+https://marketplace.atlassian.com/apps/1218509/s-notify-email-encryption-for-confluence?hosting=datacenter
+https://marketplace.atlassian.com/apps/1226720/s-notify-email-encryption-for-bitbucket?hosting=datacenter
 https://marketplace.atlassian.com/apps/1226453/secureflag-knowledge-base?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1232491?tab=overview&hosting=cloud
 https://seekcdn.com
@@ -2598,6 +2613,14 @@ https://v.utv.usaa.com
 https://vendorss.usaa.com
 https://vlagg.usaa.com
 https://webmail.usaa.com
+https://marketplace.atlassian.com/apps/1212124/spectrum-formatting-macros?hosting=cloud
+https://marketplace.atlassian.com/apps/1211894/ideation?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1211855/faq-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1212012/discussion-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1217652/content-status-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1235238/morph-ai-powered-content-formatting-for-confluence?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1211800/glossary?hosting=cloud
+https://marketplace.atlassian.com/apps/1235579/comment-toolkit-for-jira?hosting=cloud&tab=overview
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
 a.root-servers.net (DNS service; DNS related)
 j.root-servers.net (DNS service; DNS related)
