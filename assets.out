@@ -269,6 +269,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -2013,11 +2014,10 @@ Figma Weave
 Figma for Microsoft Teams
 Figma iOS and Android apps
 Files.com Command Line Interface (CLI) App
-Files.com Desktop v4 App (previously known as Desktop App) 
 Files.com Desktop v6 App
 Files.com Mobile App
 Files.com On-Premise Agent
-Files.com SDK's
+Files.com SDKs and MCP
 FindN2
 FindN2Flip
 FindN3
@@ -2814,9 +2814,6 @@ airFiber
 airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
-ak-static.cms-dev.nba.com
-ak-static.cms-qa.nba.com
-ak-static.cms.nba.com
 akismet.com
 alert.logitech.com
 alfred-uat-31.nonprod.syfe.com
@@ -3049,6 +3046,9 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3133,6 +3133,9 @@ arrive-server.shopifycloud.com
 as-cf.*.aws.indriverapp.com
 as-gw-cf.*.aws.indriverapp.com
 askpeopleteam.visa.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3319,6 +3322,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3429,7 +3433,6 @@ cm.com/app/messagingtrial/
 cmapi.tw.coupang.com
 cmcom.atlassian.net
 cms.monespacesante.fr
-cms.nba.com
 co-cf.*.aws.indriverapp.com
 co-gw-cf.*.aws.indriverapp.com
 co-in-gw-cf.*.aws.indriverapp.com
@@ -3543,6 +3546,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -4612,6 +4616,7 @@ https://app.saltlabs.com/
 https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
+https://app.web.com
 https://app.welcomesoftware.com/
 https://app.wisdomtreeconnect.com
 https://app.wisdomtreeconnect.com/api/
@@ -4634,6 +4639,7 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -8025,6 +8031,7 @@ pr-dev.nba.com
 pr-gw-cf.*.aws.indriverapp.com
 pr-qa.nba.com
 pr.nba.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8065,6 +8072,8 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
+profiles-api.datacamp.com
+projects.datacamp.com
 projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -8831,6 +8840,8 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 

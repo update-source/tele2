@@ -359,9 +359,6 @@ aguacaliente-dev.gleague.nba.com
 aguacaliente-qa.gleague.nba.com
 aguacaliente.gleague.nba.com
 ak-static-dev.nba.com
-ak-static.cms-dev.nba.com
-ak-static.cms-qa.nba.com
-ak-static.cms.nba.com
 allstar-dev.nba.com
 amp-nba-dev.nba.com
 amp-nba-stage.nba.com
@@ -420,7 +417,6 @@ cdn.nba.com
 cl-qa.nba.com
 cl.nba.com
 cleveland.gleague.nba.com
-cms.nba.com
 coalition-dev.nba.com
 coalition-qa.nba.com
 com.nbaimd.gametime.nba2011
@@ -3325,11 +3321,10 @@ portswigger.net
 share.portswigger.net
 FIles.com REST API
 Files.com Command Line Interface (CLI) App
-Files.com Desktop v4 App (previously known as Desktop App) 
 Files.com Desktop v6 App
 Files.com Mobile App
 Files.com On-Premise Agent
-Files.com SDK's
+Files.com SDKs and MCP
 app.files.com
 www.files.com
 your-assigned-subdomain.files.com
