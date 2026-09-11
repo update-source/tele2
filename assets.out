@@ -7431,7 +7431,6 @@ login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
 login-dev.nba.com
 login-qa.nba.com
-login-sandbox.nba.com
 login-uat.nba.com
 login.cm.com
 login.delen.be 
@@ -8207,9 +8206,7 @@ router.geneva-staging.com
 row.pro
 rp-cf.*.aws.indriverapp.com
 rp-gw-cf.*.aws.indriverapp.com
-rpc.blockdaemon.testnet.arc.network
 rpc.drpc.testnet.arc.network
-rpc.quicknode.testnet.arc.network
 rpc.testnet.arc.network
 rs-cf.*.aws.indriverapp.com
 rs-open-api.tw.coupang.com
