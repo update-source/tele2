@@ -797,6 +797,7 @@ Watsons Indonesia Android
 Watsons Indonesia iOS
 api.watsons.co.id
 medias.watsons.co.id
+id-watsonsbesti.com
 www.watsons.vn
 www10.watsons.vn
 Watsons Vietnam iOS

@@ -998,6 +998,7 @@
 *.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
+*.super.xyz
 *.superbet.com
 *.superbet.gr
 *.superbet.pl
@@ -2031,7 +2032,6 @@ Finicity Decisioning
 Finicity- Data Services
 Finicity- Open Banking Payment History application
 FireTV
-Firefox Homepage Newtab
 Firmware
 Firmware: Mali Command Stream Frontend (CSF) Firmware
 Fleet Server
@@ -2300,7 +2300,6 @@ MongoDB Owned GitHub Repositories
 MongoDB Partner Integrations
 MongoDB Shell
 MongoDB Toolchain
-Mozilla Ad Routing Service
 Munkisrv Open Source Project
 NARZO 80 Lite 4G
 NARZO 80 Pro 5G
@@ -2397,7 +2396,6 @@ Presentation Remotes
 Primary Assets
 Privilege Escalation
 Product API
-Product Delivery
 Protocol of the Swiss Post Voting System
 Public API
 Public Others Target
@@ -2753,7 +2751,6 @@ accounts.cloud.com
 accounts.cloud.databricks.com
 accounts.creditkarma.com
 accounts.evernote.com
-accounts.firefox.com
 accounts.insightly.com
 accounts.logi.com
 accounts.pixiv.net
@@ -2772,7 +2769,6 @@ actionnaires.vinci.com
 activities.marriott.com
 adayevrak.watsons.com.tr
 adb.nba.com
-addons.allizom.org
 adm.cloud.com
 admin-portal.api-xperience.com
 admin-resolve.8x8.com
@@ -3146,7 +3142,6 @@ ath-cf.*.aws.indriverapp.com
 ath-gw-cf.*.aws.indriverapp.com
 auction-service.whatnot.com
 auroratechaward.com
-aus5.mozilla.org
 austin-dev.gleague.nba.com
 austin-qa.gleague.nba.com
 austin.gleague.nba.com
@@ -3277,7 +3272,6 @@ bugbounty-refined-test-<bugcrowd-name>.refined.site
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
-bugzilla.mozilla.org
 builder.hostinger.com
 building-blocks.com
 bulten.watsons.com.tr
@@ -3897,8 +3891,6 @@ cpp.marriott.com
 cpskyhawks-dev.gleague.nba.com
 cpskyhawks-qa.gleague.nba.com
 cpskyhawks.gleague.nba.com
-crash-reports.allizom.org
-crash-stats.allizom.org
 create.fortnite.com
 create.snapchat.com
 creatormarketplace.tiktok.com
@@ -4011,7 +4003,6 @@ developer.gocardless.com
 developer.gs.com
 developer.infomaniak.com
 developer.konghq.com
-developer.mozilla.org
 developer.playcanvas.com
 developer.plus.authorize.net
 developer.posti.com
@@ -4205,8 +4196,6 @@ fire-dev.wnba.com
 fire-qa.wnba.com
 fire.wnba.com
 firefly.adobe.com
-firefox-ci-tc.services.mozilla.com
-firefox.settings.services.mozilla.com
 fit.nba.com
 flights.booking.com
 flourish-user-preview.com
@@ -4348,7 +4337,6 @@ help.uisp.com
 helpcenter-tw.coupangcorp.com
 helpseller.tw.coupangcorp.com
 hey-mail
-hg.mozilla.org
 hilton.com
 hilton.io
 hiltonbusinessonline.com
@@ -5482,7 +5470,6 @@ https://klaviyo.com/*
 https://knowledge.newrelic.com/
 https://kontakti.posti.fi
 https://kucoin.com
-https://kw-bugcrowd-pub.bounty.kiteworks.dev/
 https://kyc.ripio.com/
 https://l.usaa.com/
 https://lab.epam.com
@@ -7240,6 +7227,7 @@ iat.it.xvservice.net
 ic3.*.indriverapp.com
 ichnaea.netflix.com
 icl-cf.*.aws.indriverapp.com
+id-watsonsbesti.com
 id.heytap.com
 id.logi.com
 id.nba.com
@@ -7408,7 +7396,6 @@ lakeland-dev.gleague.nba.com
 lakeland-qa.gleague.nba.com
 lakeland.gleague.nba.com
 landing.ryadom.kz
-lando.services.mozilla.com
 lark-frontier.byteoversea.com
 larksuite.com
 launch.playcanvas.com
@@ -7632,7 +7619,6 @@ mercury-dev.wnba.com
 mercury-qa.wnba.com
 mercury-qa2.wnba.com
 mercury.wnba.com
-merino.services.mozilla.com
 messenger.eu-east-1.indriverapp.com
 meta-api.reddit.com
 metahuman.unrealengine.com
@@ -7674,7 +7660,6 @@ moments.marriottbonvoy.com
 money.x.com
 moneybird.com
 moneybirdstorage.com
-monitor.mozilla.org
 monzo.com
 moonpay.com
 motorcity.gleague.nba.com
@@ -7984,7 +7969,6 @@ pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
 peopleanalyticsportal.nba.com
-phabricator.allizom.org
 phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
@@ -8015,7 +7999,6 @@ pm-cf.*.aws.indriverapp.com
 pm-gw-cf.*.aws.indriverapp.com
 pmtcards.newegg.com
 politico.eu
-pontoon.allizom.org
 portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
@@ -8144,7 +8127,6 @@ register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
 rei.com
-relay.firefox.com
 relay.playcanvas.com
 releasor.payworks.com/
 remilty.net
@@ -8500,7 +8482,6 @@ support.greenhouse.io
 support.logi.com
 support.malwarebytes.com
 support.monespacesante.fr
-support.mozilla.org
 support.nextcloud.com
 support.rockstargames.com
 support.steampowered.com
@@ -8518,7 +8499,6 @@ swiss-backup*.infomaniak.com
 swisstransfer.infomaniak.com
 sync.infomaniak.com
 sync.logitech.com
-sync.services.mozilla.com
 syndication-dev.nba.com
 syndication-qa.nba.com
 syndication.nba.com
@@ -8683,7 +8663,6 @@ voices.nba.com
 volans.tech
 vote.nba.com
 vpn.mobilevikings.be
-vpn.mozilla.org
 vpn01.syd.optusnet.com.au
 vroid.com
 vrt.be/interactie/121-chat/
@@ -8921,7 +8900,6 @@ www.fi.dyson.com
 www.figma.com
 www.files.com
 www.fing.com*
-www.firefox.com
 www.fondation-vinci.com
 www.forescout.com
 www.fortress.com.hk
@@ -9014,7 +8992,6 @@ www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
 www.monzo.com
-www.mozilla.org
 www.mrjet.se
 www.mundi.com.br
 www.nba.com
