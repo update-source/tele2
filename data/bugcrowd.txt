@@ -5,10 +5,6 @@ https://marketplace.atlassian.com/apps/1236750?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1218225?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira
-https://marketplace.atlassian.com/apps/1236750?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1218225?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/2974674253/assets-analytics-custom-dashboards-reporting-for-jira
 https://marketplace.atlassian.com/apps/1235944/intelligent-user-manager-ium-for-confluence-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?hosting=cloud&tab=overview
 https://acorns.com/
@@ -2069,6 +2065,14 @@ https://marketplace.atlassian.com/apps/1214056/sub-task-manager-for-jira?hosting
 https://marketplace.atlassian.com/apps/1213851/watch-it-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1211639/comment-history-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1211880/document-vault-secure-attachments-in-jira?tab=installation&hosting=cloud
+https://marketplace.atlassian.com/apps/1216056/refined-toolkit-for-confluence-cloud?hosting=cloud&tab=overview
+refined.site/admin
+https://refinedsites.refinedwiki.com
+https://marketplace.atlassian.com/apps/1221322/refined-for-confluence-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1218481/refined-for-jira-cloud?hosting=cloud&tab=overview
+bugbounty-refined-test-<bugcrowd-name>.refined.site	
+https://marketplace.atlassian.com/apps/1236998/refined-ui-toolkit-for-confluence-page-builder-navigation?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1211136/refined-macro-toolkit-content-formatting-macros?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1221946/release-management-roadmap-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223487/gadgets-for-release-management-roadmap?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223487/gadgets-for-release-management-roadmap?hosting=datacenter&tab=overview
