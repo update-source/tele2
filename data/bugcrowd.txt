@@ -791,6 +791,7 @@ https://sb-mobile-api.fireblocks.io
 https://sandbox-api.fireblocks.io
 https://github.com/fireblocks/mpc-lib
 Any FIS asset is in scope
+https://www.tdfitloan.com/#!/
 https://fivetran.com/login
 https://fivetran.com/login
 https://flo.uri.sh
