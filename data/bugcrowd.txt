@@ -2720,11 +2720,6 @@ https://my.wyze.com
 https://api.wyzecam.com
 Wyze Cam V3
 https://www.wyze.com/products/wyze-cam
-https://auth.wyze.com
-https://my.wyze.com
-https://api.wyzecam.com
-Wyze Cam V3
-https://www.wyze.com/products/wyze-cam
 ████████████████████████████
 ████████████████████
 ███████████████████████████
@@ -2751,6 +2746,7 @@ https://www.wyze.com/products/wyze-cam
 █████████████████████████
 █████████████████████
 █████████████████
+https://marketplace.atlassian.com/apps/1228719/gitprotect-io-for-jira-backup-restore-dr-data-management?hosting=cloud
 staging-app.bany.dev
 https://staging-api.bany.dev/
 https://www.ynab.com/
