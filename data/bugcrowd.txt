@@ -802,9 +802,6 @@ flourish-user-preview.com
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-workstation
 https://github.com/freedomofpress/securedrop-client
-https://github.com/freedomofpress/securedrop
-https://github.com/freedomofpress/securedrop-workstation
-https://github.com/freedomofpress/securedrop-client
 https://staging.gearset.com/
 https://staging.gearset.com/
 https://hipaa.staging.gearset.com/
@@ -2567,6 +2564,18 @@ player-login.unity.com
 https://unity3d.com/get-unity/download/archive
 https://services.unity.com
 https://unity.com/download
+https://www.upwork.com
+Upwork - Android Application
+Upwork - iOS Application
+Upwork Dash Messenger Desktop Version (www.upwork.com/downloads)
+www.upwork.com/api 
+Direct Contracts
+api.upwork.com/graphql
+Upwork - Marketplace Portal
+Upwork - Messages
+Upwork - Mobile Application IOS
+Upwork - Mobile Application Android
+Upwork - api.upwork.com/graphql
 https://api.usaa.com/
 https://api-a.usaa.com
 https://b2bapi-a.usaa.com
@@ -2706,6 +2715,16 @@ https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 https://github.com/transferwise/*
 https://wise-sandbox.com/
+https://auth.wyze.com
+https://my.wyze.com
+https://api.wyzecam.com
+Wyze Cam V3
+https://www.wyze.com/products/wyze-cam
+https://auth.wyze.com
+https://my.wyze.com
+https://api.wyzecam.com
+Wyze Cam V3
+https://www.wyze.com/products/wyze-cam
 ████████████████████████████
 ████████████████████
 ███████████████████████████
@@ -2732,8 +2751,6 @@ https://wise-sandbox.com/
 █████████████████████████
 █████████████████████
 █████████████████
-https://marketplace.atlassian.com/apps/1228719/gitprotect-io-for-jira-backup-restore-dr-data-management?hosting=cloud
-https://marketplace.atlassian.com/apps/1228719/gitprotect-io-for-jira-backup-restore-dr-data-management?hosting=cloud
 staging-app.bany.dev
 https://staging-api.bany.dev/
 https://www.ynab.com/
