@@ -179,6 +179,7 @@
 *.boardkingsgame.com
 *.bokundemo.com
 *.bokuntest.com
+*.boltable.eu
 *.bookabach.co.nz
 *.booking.com
 *.boozt.com
@@ -730,8 +731,10 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.ninjakiwi.me
 *.nitropack.io
 *.niumba.com
+*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -967,6 +970,7 @@
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.soundon.global
+*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.spinaway.com
@@ -1837,6 +1841,8 @@ Box Drive
 Box Tools
 Braintree SDK
 Brand Sites
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -2813,6 +2819,7 @@ airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
 akismet.com
 alert.logitech.com
+alerts.ninjakiwi.com
 alfred-uat-31.nonprod.syfe.com
 alfred.syfe.com
 alipayhk.com
@@ -2832,6 +2839,7 @@ amp-nba.nba.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
+analytics.ninjakiwi.com
 analytics.pinelabs.com
 anext.com.sg
 anfcorp.com
@@ -2965,6 +2973,7 @@ api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
 api.neon.opera.com/pub
 api.netlify.com
+api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
 api.paybox.sh
@@ -3002,6 +3011,7 @@ api.stage.evernote.com
 api.steampowered.com
 api.stg.inspectorio.com
 api.stripe.com
+api.super-id.net
 api.superdrug.com
 api.swapcard.com
 api.swiftfinancial.com
@@ -3189,6 +3199,7 @@ ballistic.com.br
 bankaccountdata.gocardless.com
 basecamp-setup.exe
 basecamp.rivian.com
+battles.tv
 bbPress Core
 bcny.com
 bd.visa.com
@@ -3252,6 +3263,7 @@ booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
 bookingholdings-coe.com
+boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpa2.marriott.com
@@ -3513,6 +3525,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -3891,6 +3905,7 @@ cruises.priceline.com
 cs.money
 css-tricks.com
 ct.deriv.com
+ct.ninjakiwi.com
 ctf.hacker101.com
 ctr.a.exodus.io
 customer-sessions.arkoselabs.com
@@ -3937,6 +3952,7 @@ dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data-test.nba.com
 data.mail.yahoo.com
+data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -4079,6 +4095,7 @@ ecom-data.theperfumeshop.com
 ecom-data.trekpleister.nl
 ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
+ecosystem-experience.super-id.net
 ecrf.uzleuven.be
 edge.bookbeat.com
 edge.lansweeper.com
@@ -4299,6 +4316,7 @@ gs://faraday-secret
 gs://fdy-production-sdk-uploads
 gt-cf.*.aws.indriverapp.com
 gt-gw-cf.*.aws.indriverapp.com
+guts.ninjakiwi.com
 gvt-cf.*.aws.indriverapp.com
 hackathon-photos-us-east-2.hackerone-user-content.com
 hackathon-photos.hackerone-user-content.com
@@ -4368,6 +4386,7 @@ http://artists.soundcloud.com/
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
+http://chatbot.super-id.net
 http://cloud.konghq.com
 http://collaboration.rei.com
 http://data-api.coindesk.com/
@@ -4666,6 +4685,7 @@ https://apps.apple.com/gb/app/partypoker-texas-holdem-poker/id687740281
 https://apps.apple.com/id/app/dana/id1437123008
 https://apps.apple.com/id/app/gojek/id944875099
 https://apps.apple.com/id/app/gopay-transfer-pulsa-bills/id6446321594
+https://apps.apple.com/id/app/superbank/id6444720285
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
 https://apps.apple.com/ie/app/new-relic/id594038638
 https://apps.apple.com/in/app/city-centres/id1448471823
@@ -5174,6 +5194,7 @@ https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
+https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -6497,6 +6518,7 @@ https://play.google.com/store/apps/details?id=ee.mtakso.client
 https://play.google.com/store/apps/details?id=es.grupobme.bmeconecta
 https://play.google.com/store/apps/details?id=es.mediamarkt.app
 https://play.google.com/store/apps/details?id=exodusmovement.exodus&hl=en_IN
+https://play.google.com/store/apps/details?id=id.co.bankfama.android&hl=en
 https://play.google.com/store/apps/details?id=id.dana&hl=en
 https://play.google.com/store/apps/details?id=io.gonative.android.xjndrq&hl=fr
 https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
@@ -6686,6 +6708,7 @@ https://student.monash
 https://studentplacements.monash.edu
 https://studiopress.blog
 https://suggestions.opera-api.com
+https://super.xyz
 https://superbet.pl
 https://superbet.ro
 https://superbet.rs
@@ -7593,8 +7616,7 @@ memphis-qa.gleague.nba.com
 memphis.gleague.nba.com
 mercadobackoffice.com
 mercadoenvios.com.ve
-mercadolibreexperience.cl
-mercadolivreexperience.com.br/
+mercadolibreexperience.com.*
 mercadopago.com.ve
 mercadoplay.co
 mercadoplay.com.pe
@@ -7700,6 +7722,8 @@ myanmar.visa.com
 myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
+mynk-dash.ninjakiwi.com
+mynk.ninjakiwi.com
 myself.tw.coupang.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
@@ -7815,6 +7839,8 @@ nft.io
 nha-cf.*.aws.indriverapp.com
 nha-gw-cf.*.aws.indriverapp.com
 niantic.kidswebservices.com
+ninja.kiwi
+ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -8455,6 +8481,7 @@ sun-qa.wnba.com
 sun-qa2.wnba.com
 sun.wnba.com
 super6.skysports.com
+superbank.id
 superbet.bet.br
 superhuman.com
 superstoreapp.meesho.com

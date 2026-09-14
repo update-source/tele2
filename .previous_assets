@@ -205,6 +205,7 @@
 *.boardkingsgame.com
 *.bokundemo.com
 *.bokuntest.com
+*.boltable.eu
 *.bonne-terre-data-layer.com
 *.bookabach.co.nz
 *.booking.com
@@ -5487,6 +5488,7 @@ http://auth.khealth.com/mayo-la-crosse/sign-up
 http://auth.ripio.com
 http://backend-api.devicecloud.production.forescoutcloud.net/api/v1/settings
 http://bumba.global
+http://chatbot.super-id.net
 http://clinical-quality.khealth.com/api/v1
 http://cloud.konghq.com
 http://coinbase.com
@@ -8763,6 +8765,7 @@ https://student.monash
 https://studentplacements.monash.edu
 https://studiopress.blog
 https://suggestions.opera-api.com
+https://super.xyz
 https://superbet.pl
 https://superbet.ro
 https://superbet.rs
@@ -9980,6 +9983,7 @@ memphis.gleague.nba.com
 mercadobackoffice.com
 mercadoenvios.com.ve
 mercadolibreexperience.cl
+mercadolibreexperience.com.*
 mercadolivreexperience.com.br/
 mercadopago.com.ve
 mercadoplay.co
