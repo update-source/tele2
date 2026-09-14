@@ -3564,7 +3564,6 @@ com.expedia.bookings
 com.expediapartnercentral
 com.fanduel.android.self
 com.fanduel.casino
-com.fanduel.flywheelnativecontainer.picks
 com.fanduel.racing
 com.fanduel.sportsbook
 com.finshell.finance
@@ -4614,6 +4613,7 @@ https://app.latitudepayapps.com/
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4826,6 +4826,7 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
+https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -5516,6 +5517,7 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
+https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -6558,6 +6560,7 @@ https://portal.anz.kinergysolutions.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
+https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com

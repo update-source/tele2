@@ -2392,7 +2392,6 @@ supportal.netlify.app
 6740879082
 com.fanduel.android.self
 com.fanduel.casino
-com.fanduel.flywheelnativecontainer.picks
 com.fanduel.racing
 com.fanduel.sportsbook
 login-4ngbets.us.betfair.com
