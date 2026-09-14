@@ -1996,6 +1996,7 @@ Elvenar
 Email Protection Gateway (EPG)
 Enjin Blockchain
 Eno® Browser Extension
+Enterprise Audio/Video
 Enterprise Edition Products and Tools
 EpicGamesLauncher.exe    
 EpicOnlineServices
@@ -2546,7 +2547,7 @@ Superhuman Mail
 Superhuman Mail Chrome Extension
 Superhuman Mail Desktop App
 System Specification
-T&P Servers
+T&P Servers (Temporarily Out of Scope)
 TF-PSA-Crypto
 TW Media: Front Page
 TW Media: News
@@ -2619,6 +2620,7 @@ UniFi Protect
 UniFi Switches
 UniFi Talk
 UniFi Wireless Access Points
+UniFi-Play
 University Platform
 UnrealEditorFortnite-Win64-Shipping.exe
 Uphold: Buy BTC, ETH and 300+
@@ -5197,14 +5199,11 @@ https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
 https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/circlefin/aptos-cctp
-https://github.com/circlefin/arc-node
-https://github.com/circlefin/arc-remote-signer
 https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
 https://github.com/circlefin/evm-cpn-contracts
 https://github.com/circlefin/evm-gateway-contracts
 https://github.com/circlefin/evm-xreserve-contracts
-https://github.com/circlefin/malachite
 https://github.com/circlefin/noble-fiattokenfactory
 https://github.com/circlefin/solana-cctp-contracts
 https://github.com/circlefin/solana-gateway-contracts
@@ -8231,8 +8230,6 @@ router.geneva-staging.com
 row.pro
 rp-cf.*.aws.indriverapp.com
 rp-gw-cf.*.aws.indriverapp.com
-rpc.drpc.testnet.arc.network
-rpc.testnet.arc.network
 rs-cf.*.aws.indriverapp.com
 rs-open-api.tw.coupang.com
 rs.visa.com

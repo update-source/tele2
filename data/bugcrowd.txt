@@ -2316,7 +2316,7 @@ https://marketplace.atlassian.com/apps/1237211/devops-gadgets-for-jira-insights-
 https://marketplace.atlassian.com/apps/1234296/azure-sync-for-jira-assets?hosting=cloud
 Self-Register Account on T-Mobile Microsoft Entra ID
 Cellular Network Auth Bypass via Web App/T-Life (404-200-7239)
-T&P Servers
+T&P Servers (Temporarily Out of Scope)
 https://t-mobile.com
 https://account.t-mobile.com
 https://api.t-mobile.com
