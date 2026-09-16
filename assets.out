@@ -1104,7 +1104,6 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
-*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1298,7 +1297,6 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
-1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -2829,7 +2827,6 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
 akismet.com
-alchemy.veriff.com
 alert.logitech.com
 alerts.ninjakiwi.com
 alfred-uat-31.nonprod.syfe.com
@@ -2877,6 +2874,8 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
+api-wallet-sandbox.venly.io
+api-wallet.venly.io
 api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
@@ -2884,6 +2883,7 @@ api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
 api.anthropic.com
+api.arkane.network
 api.atg.se
 api.binance.com
 api.blockchain.info
@@ -2931,7 +2931,6 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
-api.flamingo-eu.veriff.com
 api.foliofn.com
 api.fortress.com.hk
 api.geneva-staging.com
@@ -3035,9 +3034,7 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
-api.us.veriff.me
 api.vault.chiatest.net
-api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -3794,7 +3791,6 @@ com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
-com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -3859,8 +3855,10 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
+connect.arkane.network 
 connect.posti.fi
 connect.secure.wellsfargo.com
+connect.venly.io
 console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
@@ -4048,7 +4046,6 @@ developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 developers.tw.coupangcorp.com
-developers.veriff.me
 device.marriott.com
 dh-gw-cf.*.aws.indriverapp.com
 diabrowser.com
@@ -7485,6 +7482,7 @@ login-accpt.portofantwerpbruges.com
 login-dev.nba.com
 login-qa.nba.com
 login-uat.nba.com
+login.arkane.network
 login.cm.com
 login.delen.be 
 login.delen.ch 
@@ -7501,6 +7499,7 @@ login.rei.com
 login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
+login.venly.io
 login.www.vaxvacationaccess.com
 logiq.logitech.io
 logistica.redelcom.cl
@@ -7516,7 +7515,6 @@ longisland-dev.gleague.nba.com
 longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
 lookup.nextcloud.com
-louvre.veriff.me
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7536,7 +7534,6 @@ mUSD Stablecoin
 maestro.8x8.cloud
 magazine.kruidvat.be
 magento.com
-magic.veriff.me
 magisto.com,www.magisto.com
 mail-builder.infomaniak.com/
 mail.hostinger.com/v2
@@ -8460,8 +8457,6 @@ staking-api.polygon.technology
 staking.polygon.technology
 static*.twilio.com
 static.apps.nextcloud.com
-station.veriff.com
-stationapi.veriff.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.gleague.nba.com
@@ -8736,6 +8731,7 @@ w1.uzleuven.be
 w1.uzleuven.be/random
 wallet-sandbox.uphold.com
 wallet.tg
+wallet.venly.io
 wallet.web3auth.io
 walletbot.me
 wallets.api.playstation.com
@@ -9155,7 +9151,6 @@ www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
-www.veriff.com
 www.vfsvisaonline.com
 www.vimeo.com
 www.vinci-vie.fr
