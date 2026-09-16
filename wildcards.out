@@ -555,6 +555,9 @@
 *.kibana.wtf
 *.kiln.it
 *.kiwi.com
+*.klarna.com
+*.klarna.net
+*.klarnacdn.net
 *.klaviyo-dev.com/*
 *.klaviyomsv.com/*
 *.korta.is
@@ -820,6 +823,7 @@
 *.preemptsecurity.com
 *.prelert.com
 *.preview.8x8.vc
+*.pricerunner.com
 *.prijsmepper.nl
 *.primarycareondemand.mayoclinic.org
 *.privateinternetaccess.com
@@ -1084,6 +1088,7 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
