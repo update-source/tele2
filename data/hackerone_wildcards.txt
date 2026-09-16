@@ -630,7 +630,6 @@ www.paypal-*.com
 *.nextcapital.com
 *.nnip.com
 *.qaglobal-liquidity.gs.com
-*.vennhypotheken.nl
 *.steamstatic.com
 *.3lateral.com
 *.amplitude-game.com
