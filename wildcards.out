@@ -116,6 +116,7 @@
 *.app.personio-dev.com
 *.app.personio.com
 *.appmiral.com
+*.arc.io
 *.arlo.com (subdomains impacting production customer-facing services)
 *.arlocloud.com
 *.arloxcld.com
@@ -157,7 +158,6 @@
 *.bitdefender.com
 *.bitdefender.net
 *.bitgo.com
-*.bitoasis.net
 *.blinkforhome.com/*
 *.blofin.com
 *.boardkingsgame.com
@@ -233,10 +233,10 @@
 *.cognitiveperformer.com
 *.coinbase-corp.com
 *.coinbase.com
-*.coindcx.com
 *.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
+*.contentsquare.com
 *.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.co.uk
@@ -254,6 +254,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com

@@ -153,6 +153,7 @@
 *.app.personio.com
 *.app.spacelift.dev
 *.appmiral.com
+*.arc.io
 *.arlo.com
 *.arlo.com (subdomains impacting customer-facing services)
 *.arlo.com (subdomains impacting production customer-facing services)
@@ -12044,6 +12045,7 @@ yhteystietoni.posti.fi
 yimg.com
 you.23andme.com
 your-assigned-subdomain.files.com
+your-assigned-subdomain.hosted-by-files.com
 your-store.myshopify.com
 yourbenefit-idtheft.com
 yourcompany.udemy.com

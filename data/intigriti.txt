@@ -122,6 +122,20 @@ unified.cloudways.com
 www.cloudways.com
 css-tricks.com
 Any related DPG media domain
+profiles-api.datacamp.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
+campus.datacamp.com
+com.datacamp
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
+practice.datacamp.com
+projects.datacamp.com
+www.datacamp.com
+www.datacamp.com/datalab
 myaccount.demorgen.be
 www.demorgen.be
 www.demorgen.be/abonnementen
@@ -253,11 +267,6 @@ Elvenar
 Forge of Empires
 Grepolis
 Tribal Wars
-Hardware
-Firmware
-Software
-Services
-IT Infrastructure
 www.gamma.nl/*
 www.gamma.be/*
 www.karwei.nl/*
@@ -603,6 +612,8 @@ SimScale API
 SimScale Platform
 SimScale Forum
 SimScale Website
+https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
+cz.skodaauto.myskoda
 910898851
 app.nl.socialdeal
 http://socialdeal.nl/inspirations/bluemonday/

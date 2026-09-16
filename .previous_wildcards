@@ -127,6 +127,7 @@
 *.app.personio.com
 *.app.spacelift.dev
 *.appmiral.com
+*.arc.io
 *.arlo.com
 *.arlo.com (subdomains impacting customer-facing services)
 *.arlo.com (subdomains impacting production customer-facing services)

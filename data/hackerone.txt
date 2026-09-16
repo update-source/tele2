@@ -1442,6 +1442,11 @@ test.deribit.com
 api.sorare.com
 sorare.com
 ws.sorare.com
+https://github.com/circlefin/arc-node
+https://github.com/circlefin/arc-remote-signer
+https://github.com/circlefin/malachite
+rpc.drpc.testnet.arc.network
+rpc.testnet.arc.network
 121.200.237.36/29
 167.187.0.0/16
 192.251.123.0/24
@@ -3319,6 +3324,7 @@ Files.com SDKs and MCP
 app.files.com
 www.files.com
 your-assigned-subdomain.files.com
+your-assigned-subdomain.hosted-by-files.com
 Any subdomain application issue
 Any subdomain infrastructure issue
 Exness Investor

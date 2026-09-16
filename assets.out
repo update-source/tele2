@@ -132,6 +132,7 @@
 *.app.personio-dev.com
 *.app.personio.com
 *.appmiral.com
+*.arc.io
 *.arlo.com (subdomains impacting production customer-facing services)
 *.arlocloud.com
 *.arloxcld.com
@@ -173,7 +174,6 @@
 *.bitdefender.com
 *.bitdefender.net
 *.bitgo.com
-*.bitoasis.net
 *.blinkforhome.com/*
 *.blofin.com
 *.boardkingsgame.com
@@ -249,10 +249,10 @@
 *.cognitiveperformer.com
 *.coinbase-corp.com
 *.coinbase.com
-*.coindcx.com
 *.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
+*.contentsquare.com
 *.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.co.uk
@@ -270,6 +270,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -1914,6 +1915,7 @@ Community Management & Communications
 Compass
 Content Authorization Targets
 Content authorization vulnerabilities affecting only the in-browser player
+Contentsquare SDK (cf : Program Description)
 Copilot
 Copilot Chat on dotcom
 Copilot Coding Agent
@@ -2131,7 +2133,6 @@ Hytale Game Server
 Hytale Launcher
 ICI Paris XL Android
 ICI Paris XL iOS
-IT Infrastructure
 Ibotta App Data & Memory
 Id1406825640
 Identity Services
@@ -2463,7 +2464,6 @@ Scope Questions: Items not explicitly listed here
 Secondary Assets
 Secure Data Forms (SDF, aka Advanced Forms)
 Self-Register Account on T-Mobile Microsoft Entra ID
-Services
 Services/Mobile/GenAI
 Shopify Developed Apps
 Shopify Mobile Applications
@@ -2884,7 +2884,6 @@ api.cloudflare.com
 api.cloudways.com
 api.cm.com
 api.cmtelecom.com
-api.coindcx.com
 api.coinmarketcap.com
 api.creditkarma.com
 api.deriv.com
@@ -3055,6 +3054,9 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3139,6 +3141,9 @@ arrive-server.shopifycloud.com
 as-cf.*.aws.indriverapp.com
 as-gw-cf.*.aws.indriverapp.com
 askpeopleteam.visa.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3327,6 +3332,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3550,6 +3556,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -3940,6 +3947,7 @@ cweb-slot6-ott-dev.nba.com
 cweb-slot6-preview-ott-dev.nba.com
 cyberghost.app
 cyberghost.com
+cz.skodaauto.myskoda
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
@@ -4632,7 +4640,6 @@ https://app.wisdomtreeconnect.com/o/token/
 https://appgallery.huawei.com/#/app/C102099703?locale=zh_CN&source=appshare&subsource=C102099703
 https://appgallery.huawei.com/app/C101186357
 https://apphouse.underarmour.com/
-https://apps.apple.com/ae/app/bitoasis-buy-bitcoin-crypto/id1521661794
 https://apps.apple.com/am/app/maya-your-all-in-one-money-app/id991673877
 https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
 https://apps.apple.com/app/bitx-wallet/id927362479
@@ -4647,6 +4654,7 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -4660,6 +4668,7 @@ https://apps.apple.com/ca/app/lime-supply/id1620058457
 https://apps.apple.com/ch/app/debix/id1581440132?l=en-GB
 https://apps.apple.com/ch/app/die-post/id378676700
 https://apps.apple.com/ch/app/media-markt-schweiz/id1169043480
+https://apps.apple.com/cz/app/my%C5%A1koda/id1632202810
 https://apps.apple.com/de/app/mediamarkt-deutschland/id386304604
 https://apps.apple.com/de/app/otto-shopping-m%C3%B6bel/id404844644
 https://apps.apple.com/de/app/saturn-deutschland/id557562682
@@ -4691,12 +4700,10 @@ https://apps.apple.com/id/app/superbank/id6444720285
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
 https://apps.apple.com/ie/app/new-relic/id594038638
 https://apps.apple.com/in/app/city-centres/id1448471823
-https://apps.apple.com/in/app/coindcx-trade-bitcoin-crypto/id1517787269
 https://apps.apple.com/in/app/flipkart-online-shopping-app/id742044692
 https://apps.apple.com/in/app/mall-of-egypt-official-app/id1441905105
 https://apps.apple.com/in/app/mall-of-the-emirates-moe/id1449578693
 https://apps.apple.com/in/app/myntra-fashion-shopping-app/id907394059
-https://apps.apple.com/in/app/okto-wallet/id6450688229
 https://apps.apple.com/it/app/mediaworld-app/id1076895831
 https://apps.apple.com/it/developer/takeaway-com-central-core-b-v/id329472762
 https://apps.apple.com/ky/app/m-space/id6761056432
@@ -5199,11 +5206,14 @@ https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
 https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/circlefin/aptos-cctp
+https://github.com/circlefin/arc-node
+https://github.com/circlefin/arc-remote-signer
 https://github.com/circlefin/buidl-wallet-contracts
 https://github.com/circlefin/evm-cctp-contracts
 https://github.com/circlefin/evm-cpn-contracts
 https://github.com/circlefin/evm-gateway-contracts
 https://github.com/circlefin/evm-xreserve-contracts
+https://github.com/circlefin/malachite
 https://github.com/circlefin/noble-fiattokenfactory
 https://github.com/circlefin/solana-cctp-contracts
 https://github.com/circlefin/solana-gateway-contracts
@@ -5540,6 +5550,7 @@ https://login.teamviewer.com
 https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
+https://m.csqtrk.net
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://maf-properties-prod.apigee.net
@@ -6224,6 +6235,7 @@ https://mids.monash.edu/
 https://mintmobile.com
 https://mlivetickets.monash.edu
 https://mmp.otto.de
+https://mobile-production.content-square.net/
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
 https://mobile.usaa.com
@@ -6330,7 +6342,6 @@ https://paasportal.episerver.net/
 https://paasportal.episerver.net/api/v1.0/
 https://packages.cortexpowered.com
 https://paddle.net
-https://parcelhubeurope.com
 https://partner-feeds.20min.ch
 https://partner.apps.monash.edu
 https://partner.myopenpass.com
@@ -6412,7 +6423,6 @@ https://play.google.com/store/apps/details?id=com.belongi.citycenter&hl=en_IN
 https://play.google.com/store/apps/details?id=com.belongi.moe
 https://play.google.com/store/apps/details?id=com.bitgo.mobileapp
 https://play.google.com/store/apps/details?id=com.bitgo.verify&hl=en_US
-https://play.google.com/store/apps/details?id=com.bitoasis&hl=en
 https://play.google.com/store/apps/details?id=com.bitpanda.bitpanda
 https://play.google.com/store/apps/details?id=com.bitso.alpha
 https://play.google.com/store/apps/details?id=com.bitso.wallet&pcampaignid=web_share
@@ -6427,8 +6437,6 @@ https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
 https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.certsy.app
 https://play.google.com/store/apps/details?id=com.classdojo.android
-https://play.google.com/store/apps/details?id=com.coindcx.btc
-https://play.google.com/store/apps/details?id=com.coindcx.okto
 https://play.google.com/store/apps/details?id=com.coindesk.mobile
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
 https://play.google.com/store/apps/details?id=com.decathlon.app
@@ -6603,6 +6611,7 @@ https://ring.com/*
 https://rivian.com/api/gql/content/graphql
 https://rivian.com/api/gql/gateway/graphql
 https://rivian.com/api/gql/orders/graphql
+https://s.contentsquare.net
 https://s.usaa.com/
 https://s1.utv.usaa.com
 https://s2.utv.usaa.com
@@ -8044,6 +8053,7 @@ pr-dev.nba.com
 pr-gw-cf.*.aws.indriverapp.com
 pr-qa.nba.com
 pr.nba.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8084,6 +8094,8 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
+profiles-api.datacamp.com
+projects.datacamp.com
 projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -8230,6 +8242,8 @@ router.geneva-staging.com
 row.pro
 rp-cf.*.aws.indriverapp.com
 rp-gw-cf.*.aws.indriverapp.com
+rpc.drpc.testnet.arc.network
+rpc.testnet.arc.network
 rs-cf.*.aws.indriverapp.com
 rs-open-api.tw.coupang.com
 rs.visa.com
@@ -8847,6 +8861,8 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 
@@ -9234,6 +9250,7 @@ yhteystietoni.posti.fi
 yimg.com
 you.23andme.com
 your-assigned-subdomain.files.com
+your-assigned-subdomain.hosted-by-files.com
 your-store.myshopify.com
 yourcompany.udemy.com
 yourdomain.freshcaller.com

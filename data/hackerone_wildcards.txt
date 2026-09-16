@@ -182,6 +182,7 @@ wlr-cf.*.aws.indriverapp.com
 *.floqast.engineering
 *.mongodb.com/*
 *.deribit.com
+*.arc.io
 *.hilton.com
 *.hilton.io
 *.hiltonbusinessonline.com
