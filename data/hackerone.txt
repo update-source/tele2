@@ -1989,11 +1989,15 @@ www.hostinger.com
 878577184
 com.romwe
 com.zzkko
+BigQuery
 api.faraday.ai
+api.pro.faraday.ai
+api.row.pro
 app.faraday.ai
-buy.faraday.ai
 gs://faraday-secret
 gs://fdy-production-sdk-uploads
+mcp.faraday.ai
+pro.faraday.ai
 row.pro
 s3://faraday-secret
 s3://faraday-uploads

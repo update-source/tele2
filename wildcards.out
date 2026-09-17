@@ -353,6 +353,8 @@
 *.expediagroup.com
 *.expediapartnercentral.com
 *.expediapartnersolutions.com
+*.expediataap.com
+*.expediataaprewards.com
 *.expressvpn.com
 *.eziot.com
 *.ezviz.com
@@ -1056,6 +1058,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tucarro.com.ve

@@ -424,6 +424,8 @@
 *.expediagroup.com
 *.expediapartnercentral.com
 *.expediapartnersolutions.com
+*.expediataap.com
+*.expediataaprewards.com
 *.expressvpn.com
 *.eziot.com
 *.ezviz.com
@@ -2146,6 +2148,7 @@ Beats - Packetbeat
 Beats - Winlogbeat
 Beeper
 Behance Freelance Job creation
+BigQuery
 Binance Desktop Application
 Binance Mobile Application for Android
 Binance Mobile Application for iOS
@@ -3720,9 +3723,12 @@ api.prd.commerce.simplisafe.com
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
+api.pro.faraday.ai
 api.prod.innovexperiments.com
 api.prod.whoop.com
 api.profiler.firefox.com
+api.pub1.infomaniak.cloud
+api.pub2.infomaniak.cloud
 api.qwant.com
 api.rapyd.net
 api.razorpay.com
@@ -3730,6 +3736,7 @@ api.recordedfuture.com
 api.reddit.com
 api.remitly.io
 api.robinhood.com
+api.row.pro
 api.ryadom.kz
 api.s-kaupat.fi
 api.sandbox.topperpay.com
@@ -5903,7 +5910,11 @@ https://apps.apple.com/fr/app/dailymotion/id336978041
 https://apps.apple.com/fr/app/decathlon-shopping/id1168607403
 https://apps.apple.com/fr/app/deezer-musique-podcast/id292738169
 https://apps.apple.com/fr/app/doctolib/id925339063
+https://apps.apple.com/fr/app/infomaniak-authenticator/id1478424817
+https://apps.apple.com/fr/app/infomaniak-euria/id6754152858
+https://apps.apple.com/fr/app/infomaniak-kchat/id6443845553
 https://apps.apple.com/fr/app/infomaniak-mail/id1622596573
+https://apps.apple.com/fr/app/infomaniak-swisstransfer/id6737686335
 https://apps.apple.com/fr/app/jbl-one/id1610239857
 https://apps.apple.com/fr/app/louis-vuitton-city-guide/id1014618396
 https://apps.apple.com/fr/app/louis-vuitton/id709101942
@@ -8368,8 +8379,14 @@ https://play.google.com/store/apps/details?id=com.gojek.resto
 https://play.google.com/store/apps/details?id=com.google.android.apps.diabetes
 https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
 https://play.google.com/store/apps/details?id=com.indeed.resume
+https://play.google.com/store/apps/details?id=com.infomaniak.auth
+https://play.google.com/store/apps/details?id=com.infomaniak.chat
 https://play.google.com/store/apps/details?id=com.infomaniak.drive
+https://play.google.com/store/apps/details?id=com.infomaniak.euria
+https://play.google.com/store/apps/details?id=com.infomaniak.mail
 https://play.google.com/store/apps/details?id=com.infomaniak.mail&hl=en_US
+https://play.google.com/store/apps/details?id=com.infomaniak.swisstransfer
+https://play.google.com/store/apps/details?id=com.infomaniak.sync
 https://play.google.com/store/apps/details?id=com.irobot.home.prime
 https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
@@ -9695,6 +9712,8 @@ kassa.karwei.nl/*
 katalog.watsons.com.tr
 kayak.ai
 kb.databricks.com
+kdrive.infomaniak.com/app/*/preview/*
+kdrive.infomaniak.com/app/office*/*
 kidswebservices.com
 kinepolis-studio.be
 kinepolis.megatix.be
@@ -9718,6 +9737,7 @@ krisp.ai
 kronor.io
 kronos*.bykea.net
 ksuite.infomaniak.com
+ksuite.infomaniak.com/*/kdrive/*/preview/*
 kubernetes-csi.github.io
 kubernetes.io
 kumulus.uzleuven.be
@@ -9935,6 +9955,7 @@ mcdalerts-uat.nba.com
 mcdalerts.nba.com
 mch*.indriverapp.com
 mcp.8x8.com
+mcp.faraday.ai
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
@@ -10588,6 +10609,7 @@ pro-api.coinmarketcap.com
 pro.coinbase.com
 pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
+pro.faraday.ai
 procuration.bpost.be
 prod-*.nu.com.co
 prod-*.nu.com.mx
