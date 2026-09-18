@@ -1057,6 +1057,7 @@
 *.tiqets.com
 *.tktnew.com
 *.tomorrowland.com
+*.tools.thefork.tech
 *.toolsforhumanity.com
 *.topperpay.com
 *.tospotify.com
@@ -4553,6 +4554,7 @@ https://api-next.flatmates.com.au
 https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
+https://api-ws.thefork.com
 https://api.20min.ch/
 https://api.aiven.io/login
 https://api.bitpanda.com
@@ -4608,6 +4610,8 @@ https://api.simnext.bullish-test.com
 https://api.staging.luno.com/
 https://api.t-mobile.com
 https://api.test.latitudefinancial.com
+https://api.thefork.com
+https://api.thefork.io
 https://api.thetradedesk.com
 https://api.thousandeyes.com/
 https://api.toom.de
@@ -4678,6 +4682,8 @@ https://apps.apple.com/app/id1503045795
 https://apps.apple.com/app/id1635031432
 https://apps.apple.com/app/infomaniak-kdrive/id1482778676
 https://apps.apple.com/app/mall-of-the-emirates-moe/id1449578693
+https://apps.apple.com/app/thefork-manager-neo/id1295795281
+https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
@@ -4894,6 +4900,7 @@ https://blofin.com
 https://blog.bitpanda.com/en
 https://blog.etsy.com
 https://blog.lastpass.com
+https://blog.thefork.com/
 https://blog.verisign.com
 https://bluetooth-events.onecloud.harman.com
 https://board.pinelabs.com
@@ -5581,11 +5588,13 @@ https://lounge.pinelabs.com/loungeui/login
 https://lp.lime.bike/
 https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://m.csqtrk.net
+https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://maf-properties-prod.apigee.net
 https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
+https://manager.thefork.com
 https://manager.trial.lsk.lightspeed.app/
 https://mapi-a.usaa.com
 https://mapi.usaa.com/
@@ -5802,6 +5811,7 @@ https://marketplace.atlassian.com/apps/1219099/stagil-tables-todo-checklists-rep
 https://marketplace.atlassian.com/apps/1219112/easy-templates-for-jira-issues?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219196/team-performance-reports-and-insights?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1219205/scrumpy-planning-poker-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219212/insight-google-cloud-integration?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219230/advanced-portal-reports-for-service-desk?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219288/comment-history-log-for-jira?hosting=cloud
@@ -6348,6 +6358,7 @@ https://pay.payzippy.com
 https://pay.unity.com
 https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
+https://payment.lafourchette.com
 https://payments.myntra.com
 https://payments.wpengine.com
 https://payoutapi.maya.ph/
@@ -6450,6 +6461,8 @@ https://play.google.com/store/apps/details?id=com.jbl.oneapp&hl=fr&gl=US
 https://play.google.com/store/apps/details?id=com.jora.android&hl=en_US	
 https://play.google.com/store/apps/details?id=com.keepersecurity.chat&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.kubi.kucoin
+https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
+https://play.google.com/store/apps/details?id=com.lafourchette.tfm3
 https://play.google.com/store/apps/details?id=com.lastpass.authenticator&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.lastpass.lpandroid
 https://play.google.com/store/apps/details?id=com.lime.supply&hl=en_US
@@ -6631,6 +6644,7 @@ https://secure-test.six-swiss-exchange.com/
 https://secure.cuehit.net
 https://secure.neogov.com
 https://secure.newegg.com
+https://secure.thefork.com
 https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
@@ -6843,6 +6857,7 @@ https://webmail.usaa.com
 https://webrtc.8x8.com/
 https://webwsp.aps.kuleuven.be/sap/bc/ui5_ui5/sap/zc_oi_appl/
 https://wibi.wien.gv.at/
+https://widget.thefork.com
 https://wien.at
 https://wiki.atom-lens.com
 https://wise-sandbox.com/
@@ -7099,6 +7114,7 @@ https://www.quintoandar.com.br/*
 https://www.realcommercial.com.au/
 https://www.recordedfuture.com
 https://www.remove.bg
+https://www.restaurant-information.com
 https://www.riskrecon.com
 https://www.saturn.de
 https://www.sdx.com/
@@ -7122,6 +7138,8 @@ https://www.tagesanzeiger.ch
 https://www.tdfitloan.com/#!/
 https://www.teamviewer.com/en/products/teamviewer/
 https://www.thecurrent.com
+https://www.thefork.com
+https://www.theforkmanager.com
 https://www.thetradedesk.com
 https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/
