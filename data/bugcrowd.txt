@@ -14,6 +14,7 @@ https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
 https://www.gohenry.com/
 https://www.pixpay.fr/
 https://marketplace.atlassian.com/apps/1219205/scrumpy-planning-poker-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1219205/scrumpy-planning-poker-for-jira?hosting=cloud&tab=overview
 ████████████████
 ████████████████████
 ███████████████████
@@ -1517,17 +1518,6 @@ Codex Desktop
 Agentic Tools
 https://openai.com/
 Other
-https://opensea.io/
-http://wallet.opensea.io/
-https://play.google.com/store/apps/details?id=io.opensea&hl=en_US&gl=US
-https://apps.apple.com/us/app/opensea-nft-marketplace/id1582861796
-https://mcp.opensea.io
-https://github.com/ProjectOpenSea/seaport#deployments
-https://etherscan.io/address/0x0000a26b00c1F0DF003000390027140000fAa719
-https://etherscan.io/address/0x00005EA00Ac477B1030CE78506496e8C2dE24bf5
-OpenSea Solana Marketplace Program
-Agent SDKs
-Broken Link
 https://auth.opera.com
 https://accounts.opera.com
 https://flow.opera.com
@@ -1821,7 +1811,6 @@ https://marketplace.atlassian.com/apps/1233398/easy-clone-for-jira-cloud-free?ho
 https://marketplace.atlassian.com/apps/1235901/html-macro-pro-for-confluence?hosting=cloud&tab=overview
 https://dashboard.pantheon.io
 ██████████████████████████████████
-https://www.pexels.com/
 https://api.pinterest.com
 https://apps.apple.com/us/app/pinterest/id429047995
 https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
@@ -2349,6 +2338,22 @@ Any host verified to be owned by Tesla Motors Inc. (domains/IP space/etc.)
 https://play.google.com/store/apps/details?id=com.teslamotors.tesla&hl=en_US&gl=US
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
+https://manager.thefork.com
+https://apps.apple.com/app/thefork-manager-neo/id1295795281
+https://play.google.com/store/apps/details?id=com.lafourchette.tfm3
+https://widget.thefork.com
+https://api.thefork.io
+https://secure.thefork.com
+https://payment.lafourchette.com
+https://www.theforkmanager.com
+https://www.thefork.com
+https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
+https://play.google.com/store/apps/details?id=com.lafourchette.lafourchette
+https://api.thefork.com
+https://api-ws.thefork.com
+https://m.thefork.com
+https://blog.thefork.com/
+https://www.restaurant-information.com
 https://manager.thefork.com
 https://apps.apple.com/app/thefork-manager-neo/id1295795281
 https://play.google.com/store/apps/details?id=com.lafourchette.tfm3
