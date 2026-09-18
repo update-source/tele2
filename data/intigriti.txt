@@ -18,6 +18,8 @@ Acrobat Reader Mobile App (iOS)
 Acrobat Reader Mobile App (Android)
 stock.adobe.com
 firefly.adobe.com
+Adobe ColdFusion without ColdFusion Administrator
+ColdFusion Administrator
 photoshop.adobe.com
 Adobe Commerce, Adobe Commerce B2B and Magento Open Source
 account.magento.com
@@ -122,12 +124,45 @@ unified.cloudways.com
 www.cloudways.com
 css-tricks.com
 Any related DPG media domain
+profiles-api.datacamp.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
+campus.datacamp.com
+com.datacamp
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
+practice.datacamp.com
+projects.datacamp.com
+www.datacamp.com
+www.datacamp.com/datalab
 myaccount.demorgen.be
 www.demorgen.be
 www.demorgen.be/abonnementen
 myaccount.volkskrant.nl
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
+api.digital.delen.be 
+api.digital.delen.lu 
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
+auth.digital.delen.be 
+auth.digital.delen.lu 
+be.delen.digital
+delen/id1064839588
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
+login.oyens.com
+status.delen.be 
+sts.delen.be 
+www.cadelam.be 
+www.cadelux.lu/en 
+www.delen.bank
+www.delen.be/en 
 169.254.169.254
 api.digitalocean.com
 cloud.digitalocean.com

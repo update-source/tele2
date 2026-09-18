@@ -270,6 +270,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
@@ -1715,6 +1716,7 @@ Acronis DeviceLock DLP
 Acronis Snap Deploy
 Acronis True Image (formerly Acronis Cyber Protect Home Office)
 Additional Loyalty scope included under resources tab
+Adobe ColdFusion without ColdFusion Administrator
 Adobe Commerce, Adobe Commerce B2B and Magento Open Source
 Adobe Express AI Assistant
 Adobe Firefly AI Features
@@ -2906,6 +2908,8 @@ api.creditkarma.com
 api.deriv.com
 api.developer.monespacesante.fr
 api.dicey.com
+api.digital.delen.be 
+api.digital.delen.lu 
 api.digitalocean.com
 api.direct.playstation.com
 api.dmp.gouv.fr
@@ -3075,6 +3079,12 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
+app.datacamp.com/certification
+app.datacamp.com/groups
+app.datacamp.com/learn
+app.delen.be 
+app.delen.ch 
+app.delen.lu 
 app.demand.cybersource.com
 app.deriv.com
 app.drogas.lt
@@ -3158,6 +3168,9 @@ arrive-server.shopifycloud.com
 as-cf.*.aws.indriverapp.com
 as-gw-cf.*.aws.indriverapp.com
 askpeopleteam.visa.com
+assessment-api.datacamp.com
+assessment-v2.datacamp.com 
+assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3181,6 +3194,8 @@ auth-identity-uat.nba.com
 auth-identity.nba.com
 auth-service.posti.fi
 auth.23andme.com
+auth.digital.delen.be 
+auth.digital.delen.lu 
 auth.dmp.gouv.fr
 auth.magic.link
 auth.monespacesante.fr
@@ -3229,6 +3244,7 @@ bdese.marionnaud.fr
 bdu-cf.*.aws.indriverapp.com
 be.bpost.mobilecard
 be.bpost.mybpost
+be.delen.digital
 be.gamma.app.android
 be.nexuzhealth.mobile.cpv
 be.nexuzhealth.mobile.kws
@@ -3344,6 +3360,7 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
+campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3567,6 +3584,7 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
+com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -4002,6 +4020,7 @@ defi.ripio.com
 delaware-dev.gleague.nba.com
 delaware-qa.gleague.nba.com
 delaware.gleague.nba.com
+delen/id1064839588
 delivery-webview.indrive.com
 demo.arkoselabs.com
 demo.fareharbor.com
@@ -4666,6 +4685,7 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
+https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
@@ -7442,12 +7462,16 @@ login-qa.nba.com
 login-uat.nba.com
 login.arkane.network
 login.cm.com
+login.delen.be 
+login.delen.ch 
+login.delen.lu 
 login.exodus.com
 login.infomaniak.com
 login.insightly.com
 login.koho.ca
 login.lansweeper.com
 login.nba.com
+login.oyens.com
 login.playcanvas.com
 login.rei.com
 login.remitly.com
@@ -8035,6 +8059,7 @@ pr-dev.nba.com
 pr-gw-cf.*.aws.indriverapp.com
 pr-qa.nba.com
 pr.nba.com
+practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8076,6 +8101,8 @@ profile-api.eu-east-1.indriverapp.com
 profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
+profiles-api.datacamp.com
+projects.datacamp.com
 projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -8435,6 +8462,7 @@ stats.nba.com
 stats.nextcloud.com
 stats.vinci.com
 stats.wnba.com
+status.delen.be 
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
@@ -8465,6 +8493,7 @@ streaming-api.iris.production.forescoutcloud.net
 streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
+sts.delen.be 
 sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
@@ -8822,6 +8851,8 @@ www.bookingholdings.com
 www.bpost.be
 www.bpost2.be
 www.bumble.com
+www.cadelam.be 
+www.cadelux.lu/en 
 www.carrentals.com
 www.cart.starbucks.co.jp/
 www.casinohuone.com
@@ -8844,7 +8875,11 @@ www.crowdstrike.com
 www.crowdstrike.org
 www.currencycloud.com
 www.cybersource.com
+www.datacamp.com
+www.datacamp.com/datalab
 www.ddfcontent.com
+www.delen.bank
+www.delen.be/en 
 www.demorgen.be
 www.demorgen.be/abonnementen
 www.digitalocean.com
