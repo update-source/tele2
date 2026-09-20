@@ -1479,8 +1479,6 @@ https://octopus.com/downloads
 https://octopus.com/downloads
 https://github.com/OctopusDeploy
 https://octopus.com
-https://github.com/OctopusDeploy
-https://octopus.com
 https://marketplace.atlassian.com/apps/1233908/connectors-for-jira-free?hosting=cloud
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
@@ -1823,6 +1821,7 @@ https://marketplace.atlassian.com/apps/1233398/easy-clone-for-jira-cloud-free?ho
 https://marketplace.atlassian.com/apps/1235901/html-macro-pro-for-confluence?hosting=cloud&tab=overview
 https://dashboard.pantheon.io
 ██████████████████████████████████
+https://www.pexels.com/
 https://api.pinterest.com
 https://apps.apple.com/us/app/pinterest/id429047995
 https://play.google.com/store/apps/details?id=com.pinterest&hl=en_US&gl=US
