@@ -110,25 +110,6 @@ net.bitstamp.app
 nummus.robinhood.com
 www.bitstamp.net
 www.tradepmr.com
-Tier 1 OSS
-Tier 2 OSS
-Tier 3 OSS
-https://github.com/nitrojs/nitro
-https://github.com/nuxt/nuxt
-https://github.com/sveltejs/svelte
-https://github.com/vercel-labs/agent-skills
-https://github.com/vercel-labs/skills
-https://github.com/vercel/ai
-https://github.com/vercel/async-sema
-https://github.com/vercel/chat
-https://github.com/vercel/eve
-https://github.com/vercel/flags
-https://github.com/vercel/ms
-https://github.com/vercel/next.js
-https://github.com/vercel/swr
-https://github.com/vercel/turborepo
-https://github.com/vercel/vercel
-https://github.com/vercel/workflow
 1w.cash
 1w.run
 1win.com
@@ -1300,6 +1281,28 @@ vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
 www.vodafone.om
+Vercel sandbox
+https://github.com/nitrojs/nitro
+https://github.com/nuxt/nuxt
+https://github.com/sveltejs/svelte
+https://github.com/vercel
+https://github.com/vercel-labs/agent-skills
+https://github.com/vercel-labs/skills
+https://github.com/vercel/ai
+https://github.com/vercel/async-sema
+https://github.com/vercel/chat
+https://github.com/vercel/eve
+https://github.com/vercel/flags
+https://github.com/vercel/ms
+https://github.com/vercel/next.js
+https://github.com/vercel/swr
+https://github.com/vercel/turborepo
+https://github.com/vercel/vercel
+https://github.com/vercel/workflow
+v0.app
+v0.dev
+vercel.app
+vercel.com
 ab-platform-api.eu-east-1.indriverapp.com
 alternativa.film
 api.ryadom.kz
@@ -2903,35 +2906,10 @@ Open Scope
 accounts.cloud.databricks.com
 databricks.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
-Beats
-Beats - Auditbeat
-Beats - Filebeat
-Beats - Heartbeat
-Beats - Metricbeat
-Beats - Osquerybeat
-Beats - Packetbeat
-Beats - Winlogbeat
-Elastic Agent
-Elastic Clients
-Elastic Cloud Enterprise (ECE)
-Elastic Cloud on Kubernetes (ECK)
 Elastic Credentials
-Elastic Defend
-Elastic Distributions of OpenTelemetry (EDOT)
-Elastic Enterprise Search
-Elastic Maps Server
-Elastic Package Registry
-Elastic Synthetics Monitoring
-Elasticsearch
-Fleet Server
-Kibana
-Logstash
-Observability - APM Agents
-Observability - APM Server
 Other
 Software Supply Chain
 Subdomain takeover
-cloud.elastic.co
 GS Select iOS app
 api.foliofn.com
 apigw.foliofn.com

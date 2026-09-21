@@ -201,6 +201,7 @@
 *.capitaloneshopping.com
 *.captcha-delivery.com
 *.carrentals.com
+*.cashstaging.app
 *.cb.dev
 *.cbhq.net
 *.cceng.8x8.com
@@ -555,12 +556,19 @@
 *.khealth.com
 *.kibana.wtf
 *.kiln.it
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
 *.klarna.com
 *.klarna.net
 *.klarnacdn.net
 *.klaviyo-dev.com/*
 *.klaviyomsv.com/*
+*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -569,6 +577,7 @@
 *.kruidvatkids.nl
 *.kwsdose.be
 *.labs.8x8.com
+*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
 *.lastminute.co.nz
@@ -599,6 +608,7 @@
 *.luckydays.com
 *.lucra.live
 *.lukwerks.com
+*.lululemon.com
 *.luxuryretreats.com
 *.lyst.co
 *.lyst.com
@@ -627,6 +637,7 @@
 *.mbamupdates.com
 *.mclead.com.au
 *.mediatonic.co.uk
+*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -671,6 +682,7 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
+*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -1001,8 +1013,8 @@
 *.support.jbl.com
 *.support.originenergy.com.au
 *.swaps.xyz
-*.swiftype.com
 *.swisspass.ch
+*.tdl.sh
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
@@ -1020,6 +1032,7 @@
 *.threatdown.com
 *.ticketing.cm.com
 *.ticketnew.com
+*.tidalhifi.com
 *.tiktok.com
 *.tiktokcdn.com
 *.tiktokpublishers.com
@@ -1086,6 +1099,8 @@
 *.varonis.io
 *.vayama.com
 *.venmo.com
+*.vercel.com
+*.vercel.live
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1141,6 +1156,7 @@
 *.wien.at
 *.wien.gv.at
 *.wienkav.at
+*.wimpmusic.com
 *.wise.com
 *.wissen-sie-mehr.de
 *.withairbnb.com

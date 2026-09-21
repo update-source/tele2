@@ -1292,6 +1292,8 @@
 *.vayama.com
 *.venmo.com
 *.vennhypotheken.nl
+*.vercel.com
+*.vercel.live
 *.veriff.com
 *.verily.com/
 *.verilyme.com/
@@ -5590,6 +5592,8 @@ http://testnet.bybit.eu
 http://transangels.com/
 http://tsock.us1.twilio.com
 http://twilio.com/blog
+http://unifysquare.com/
+http://unisys.com/
 http://urc-auth-uefn.live.ucs.on.epicgames.com/
 http://urc-uefn.live.ucs.on.epicgames.com
 http://verified.clearme.com/dashboard
@@ -6985,6 +6989,7 @@ https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
 https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
+https://github.com/vercel
 https://github.com/vercel-labs/agent-skills
 https://github.com/vercel-labs/skills
 https://github.com/vercel/ai
@@ -11350,6 +11355,8 @@ userprofile-ui.landmarkcinemas.com
 users-api.truelayer.com
 uwa.mobilevikings.be
 uz.avtoelon
+v0.app
+v0.dev
 v1. kidswebservices.com
 v1staging.kidswebservices.com 
 vacation.marriott.com
@@ -11371,6 +11378,8 @@ vcc-*.8x8.com
 vcc-ce.8x8.com
 vdam.visa.com
 vector.prd.iat.it.xvservice.net
+vercel.app
+vercel.com
 verified.clearme.com
 verified.clearme.com/v1/verification_sessions
 verify.arkoselabs.com

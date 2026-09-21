@@ -96,6 +96,8 @@ test*.redoxengine.com
 *.superbet.rs
 *.boozt.com
 *.booztlet.com
+*.vercel.com
+*.vercel.live
 *.indrive.com
 *.indriver.com
 *.indriverapp.com
@@ -603,7 +605,6 @@ www.paypal-*.com
 *.logstash.net
 *.logstash.wtf
 *.prelert.com
-*.swiftype.com
 *.theelasticast.com
 *.advisorsolutions.gs.com
 *.ayco.com
