@@ -1856,6 +1856,8 @@ Box Drive
 Box Tools
 Braintree SDK
 Brand Sites
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -3532,6 +3534,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -5219,6 +5223,7 @@ https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
+https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -5253,6 +5258,7 @@ https://github.com/coinbase/cb-mpc-go
 https://github.com/digitalocean/do-agent
 https://github.com/digitalocean/doctl
 https://github.com/digitalocean/droplet-agent
+https://github.com/digitalocean/terraform-provider-digitalocean
 https://github.com/discourse/discourse
 https://github.com/electroneum/electroneum-sc/
 https://github.com/electroneum/electroneum/
