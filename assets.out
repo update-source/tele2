@@ -572,19 +572,12 @@
 *.khealth.com
 *.kibana.wtf
 *.kiln.it
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
 *.kiwi.com
 *.klarna.com
 *.klarna.net
 *.klarnacdn.net
 *.klaviyo-dev.com/*
 *.klaviyomsv.com/*
-*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -593,7 +586,6 @@
 *.kruidvatkids.nl
 *.kwsdose.be
 *.labs.8x8.com
-*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lansweeper.com
 *.lastminute.co.nz
@@ -653,7 +645,6 @@
 *.mbamupdates.com
 *.mclead.com.au
 *.mediatonic.co.uk
-*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -698,7 +689,6 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
-*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -1559,6 +1549,7 @@
 3rd Party Integrations (Hytale-side issues only)
 3rd party services hosted at *.sophos.com
 3rd-Party Provider Vulnerability
+3rdparty-apis.coinmarketcap.com
 403546234
 403684733
 406056744
@@ -1585,7 +1576,6 @@
 52.67.69.35
 52.76.174.107
 52.86.17.52
-522089287
 524362642
 529996768
 531549799
@@ -1838,6 +1828,10 @@ Backend/Non-Game
 Basecamp.app
 Beeper
 BigQuery
+Binance Desktop Application
+Binance Mobile Application for Android
+Binance Mobile Application for iOS
+Binance macOS Application
 Bitdefender Antimalware Engines
 Bitdefender BOX v2
 Bitdefender Total Security
@@ -1917,6 +1911,8 @@ Cloudkey
 Cluster-To-Cluster sync
 Coda Chrome Extension
 Codex Desktop
+CoinMarketCap Android app
+CoinMarketCap iOS app
 ColdFusion Administrator
 ColorOS
 Community Management & Communications
@@ -2588,6 +2584,9 @@ Tribal Wars
 TrustedFirmware-A (TF-A)
 TrustedFirmware-M (TF-M)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
+Trustwallet Android App
+Trustwallet Chrome Extension
+Trustwallet iOS App
 Twilio APIs
 UCRM
 UEFN
@@ -2865,6 +2864,7 @@ api.alasco.de
 api.anthropic.com
 api.arkane.network
 api.atg.se
+api.binance.com
 api.blockchain.info
 api.box.com
 api.chainabuse-staging.com
@@ -2873,6 +2873,7 @@ api.cloudflare.com
 api.cloudways.com
 api.cm.com
 api.cmtelecom.com
+api.coinmarketcap.com
 api.creditkarma.com
 api.deriv.com
 api.developer.monespacesante.fr
@@ -3257,7 +3258,6 @@ booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
-booking.mjrtheatres.com
 bookingholdings-coe.com
 boomer2.ninjakiwi.com
 boost.vinci.com
@@ -3279,9 +3279,6 @@ building-blocks.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
-business.kinepolis.be
-business.kinepolis.lu
-business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
@@ -3448,6 +3445,7 @@ code.playcanvas.com
 code.yoti.com
 codeofconduct.visa.com
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
+coinmarketcap.com
 collections.portswigger.net
 com.3mosquitos.MercadoLibre
 com.Hyatt
@@ -3626,7 +3624,6 @@ com.hypr.one
 com.imdbtv.livingroom
 com.immediasemi.android.blink
 com.instacart.client
-com.inthepocket.kinepolis
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
 com.katanlabs.bubblepop
@@ -4105,7 +4102,6 @@ education.github.com
 eero Devices
 efast.marriott.com
 effecthouse.tiktok.com
-egaming.kinepolis.es
 eidhelp.marriott.com
 elm.nba.com
 elma.elma.fi
@@ -4157,8 +4153,6 @@ extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
 extranet.uzleuven.be
-extras-acc.landmarkcinemas.com
-extras.landmarkcinemas.com
 fab.com
 falcon-sandbox.com
 fareharborsites.com
@@ -4851,6 +4845,7 @@ https://beta.arlo.com
 https://billing.ring.com/*
 https://billingonline.post.ch/OnlinePayment/Web/v1/BOI
 https://billingserver.pinelabs.com
+https://binance.tr
 https://bistro.sk
 https://bitbucket.org
 https://bitgo.ae/
@@ -5383,6 +5378,7 @@ https://github.com/sveltejs/svelte
 https://github.com/tempus-ex
 https://github.com/transferwise/*
 https://github.com/tronprotocol/java-tron
+https://github.com/trustwallet/wallet-core/
 https://github.com/valvesoftware
 https://github.com/vercel
 https://github.com/vercel-labs/agent-skills
@@ -6220,8 +6216,6 @@ https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://move.monash.edu/
-https://movieclub-int.kinepolis.com
-https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://my.account.posti.fi
 https://my.arlo.com
@@ -6649,7 +6643,6 @@ https://services.chipotle.com
 https://services.unity.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
-https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
@@ -6895,6 +6888,8 @@ https://www.atlassian.com/software/jira/work-management
 https://www.atlassian.com/software/rovo
 https://www.atlassian.com/software/rovo-dev
 https://www.authy.com/download/
+https://www.binance.com/
+https://www.binance.us/
 https://www.bitdefender.com/business/smb-products/business-security.html?cid=ppc|b|google|smb&s_kwcid=AL!6076!3!514235572261!p!!g!!bitdefender%20business&utm_term=bitdefender%20business&utm_campaign=USA+SMB+Branded+30&utm_source=adwords&utm_medium=ppc&hsa_acc=8155205354&hsa_cam=7848657822&hsa_grp=124745713150&hsa_ad=514235572261&hsa_src=g&hsa_tgt=kwd-308396066873&hsa_kw=bitdefender%20business&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gclid=CjwKCAjwqIiFBhAHEiwANg9szk-Rr3iSn4mrwsvAUOn-pzrO12ufWDmyCLopWigaLQW0t_xtlBE65RoCr6kQAvD_BwE
 https://www.bitpanda.com/
 https://www.bitpanda.com/academy/en/
@@ -7291,8 +7286,6 @@ identity.clearme.com
 identity.nba.com
 identity.yoti.com
 identityhomolog.acesso.io
-identityserver-acc.landmarkcinemas.com
-identityserver.landmarkcinemas.com
 idp-cf.*.aws.indriverapp.com
 idpay-uat.unico.io
 ifast.marriott.com
@@ -7400,9 +7393,6 @@ kayak.ai
 kdrive.infomaniak.com/app/*/preview/*
 kdrive.infomaniak.com/app/office*/*
 kidswebservices.com
-kinepolis-studio.be
-kinepolis.megatix.be
-kinepolis/id368204284
 kit.snapchat.com
 kmeet.infomaniak.com
 knowage.developer.monespacesante.fr
@@ -7504,9 +7494,6 @@ lookup.nextcloud.com
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
-luxfilmfestfilms.megatix.be
-luxfilmfestproducts.megatix.be
-luxfilmfesttickets.megatix.be
 lynx-dev.wnba.com
 lynx-qa.wnba.com
 lynx-qa2.wnba.com
@@ -7699,7 +7686,6 @@ monzo.com
 moonpay.com
 motorcity.gleague.nba.com
 movie.indrive.com
-movieapi.kinepolis.megatix.be
 mpago.la
 mpago.li
 msg-cf.*.aws.indriverapp.com
@@ -7885,7 +7871,6 @@ ns2.optusnet.com.au
 nummus.robinhood.com
 nvJitLink APIs
 nycbasketball.nba.com
-nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
 oauth-sandbox.gocardless.com
 oauth.deriv.com
@@ -8040,6 +8025,7 @@ pm-cf.*.aws.indriverapp.com
 pm-gw-cf.*.aws.indriverapp.com
 pmtcards.newegg.com
 politico.eu
+portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
 portal.enterprise.uphold.com
@@ -8087,6 +8073,8 @@ press.priceline.com
 priceline.com
 primevideo.com/*
 priority.eu-east-1.indriverapp.com
+pro-api.coinmarketcap.com
+pro.coinmarketcap.com
 pro.doctolib.(fr|de|it) (see "Free features for healthcare professionals"))
 pro.faraday.ai
 procuration.bpost.be
@@ -8433,7 +8421,6 @@ sso.marriott.com
 sso.oft.hyatt.com
 sso.ryadom.kz
 st*.indriverapp.com
-stage.landmarkcinemas.com
 staging-app.bany.dev
 staging.airtable.com
 staging.kidswebservices.com
@@ -8581,12 +8568,6 @@ texas.gleague.nba.com
 thebrowser.company
 thisiswhyweplay.nba.com
 tickets.crypto.com
-tickets.kinepolis.be
-tickets.kinepolis.ch
-tickets.kinepolis.es
-tickets.kinepolis.fr
-tickets.kinepolis.lu
-tickets.kinepolis.nl
 tiktok.com
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
@@ -8650,8 +8631,6 @@ user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
 usercontent.koho.ca
-userprofile-acc.landmarkcinemas.com
-userprofile-ui.landmarkcinemas.com
 uwa.mobilevikings.be
 v0.app
 v0.dev
@@ -8989,14 +8968,6 @@ www.ipbooster.com
 www.jaybirdsport.com
 www.karwei.nl/*
 www.kayak.com
-www.kinepolis.be 
-www.kinepolis.biz
-www.kinepolis.ch 
-www.kinepolis.com 
-www.kinepolis.es 
-www.kinepolis.fr 
-www.kinepolis.lu 
-www.kinepolis.nl 
 www.kiwi.com
 www.koho.ca
 www.kolikkopelit.com
@@ -9004,7 +8975,6 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
-www.landmarkcinemas.com
 www.lansweeper.com
 www.lastminute.co.nz
 www.lastminute.com.au
@@ -9046,7 +9016,6 @@ www.mercadolivre.com
 www.mercadopago.com.ec
 www.midtrans.com
 www.mini.de
-www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
