@@ -258,8 +258,6 @@
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
-*.dell.com/*
-*.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
 *.demorgen.be
 *.deribit.com
@@ -1051,6 +1049,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tucarro.com.ve
