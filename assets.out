@@ -74,6 +74,8 @@
 *.alasco.rocks
 *.aleenote.cn
 *.aleenote.com
+*.algolia.net
+*.algolianet.com
 *.alipayplus.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
@@ -3989,6 +3991,7 @@ d-you Wallet iOS Test
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
+dashboard.algolia.com
 dashboard.doppler.com
 dashboard.mergify.com
 dashboard.plaid.com
@@ -8959,6 +8962,7 @@ www.abritel.fr
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
+www.algolia.com
 www.am.monespacesante.fr
 www.amazon.*
 www.analvids.com
