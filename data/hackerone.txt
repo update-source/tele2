@@ -66,6 +66,31 @@ tw.coupang.com
 tw.coupangcorp.com
 tw.coupangls.com
 www.tw.coupang.com
+app.livenation.com
+app.ticketmaster.ca
+app.ticketmaster.co.uk
+app.ticketmaster.com
+app.ticketmaster.com.au
+app.ticketmaster.com.mx
+app.ticketmaster.eu
+app.ticketmaster.ie
+dk.royalarena.app
+frontgatetickets.com
+https://apps.apple.com/no/app/royal-arena/id1181913144
+https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565
+https://signup.ticketmaster.com/bugbountytest
+livenation.com
+livenation.me
+ticketmaster.ca
+ticketmaster.co.uk
+ticketmaster.com
+ticketmaster.com.br
+ticketmaster.com.mx
+ticketmaster.de
+www.lineup.com.mx
+www.livenation.co.uk
+www.onthewaterfrontfestival.com
+www.royalarena.dk
 Any host/web property verified to be owned by Twilio et al.
 Twilio APIs
 api.segment.io
@@ -797,8 +822,6 @@ Klarna Android App (com.myklarnamobile)
 Klarna iOS App (com.klarna.app)
 Merchant Portal
 app.klarna.com
-kmc.kaltura.com
-mediaspace.kaltura.com
 [Unico] Liveness Bypass
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
@@ -3131,7 +3154,6 @@ www.geneva-staging.chat
 www.geneva-staging.com
 Anchor
 Android SDK
-Confidence Domains
 Core Assets
 Core Backstage source code
 DRM (Digital Rights Management) System

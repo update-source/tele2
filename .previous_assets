@@ -3865,6 +3865,7 @@ app.lansweeper.com
 app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
+app.livenation.com
 app.localizestaging.com
 app.marionnaud.at
 app.marionnaud.ch
@@ -3901,6 +3902,13 @@ app.superdrug.com
 app.swapcard.com
 app.taxjar.com
 app.theperfumeshop.com
+app.ticketmaster.ca
+app.ticketmaster.co.uk
+app.ticketmaster.com
+app.ticketmaster.com.au
+app.ticketmaster.com.mx
+app.ticketmaster.eu
+app.ticketmaster.ie
 app.truelayer[-sandbox].com
 app.uma.money
 app.unbounce.com
@@ -5054,6 +5062,7 @@ direct-demo.currencycloud.com
 direct.playstation.com
 discover.23andme.com
 distribution-xml.booking.com
+dk.royalarena.app
 dl.boxcloud.com
 dmm.bpost.be
 dmxleo.com
@@ -5322,6 +5331,7 @@ fr.vinted
 fraudarmorservice.com
 fraudscout.com
 friends.porsche-design.com
+frontgatetickets.com
 fulfillment.23andme.com
 funding-webhooks.remitly.io
 furycloud.io
@@ -5968,6 +5978,7 @@ https://apps.apple.com/mx/app/debix/id1581440132
 https://apps.apple.com/mx/app/schweizer-finanzmuseum/id1225222871
 https://apps.apple.com/mx/app/six-id/id1620496931
 https://apps.apple.com/nl/app/mediamarkt-nederland/id573907448
+https://apps.apple.com/no/app/royal-arena/id1181913144
 https://apps.apple.com/no/app/world-app-worldcoin-wallet/id1560859847
 https://apps.apple.com/nz/developer/just-eat-com/id383091095
 https://apps.apple.com/pl/app/mediamarkt-polska/id6470200706
@@ -6057,6 +6068,7 @@ https://apps.apple.com/us/app/t-life-t-mobile-tuesdays/id1111876388
 https://apps.apple.com/us/app/t-life/id1111876388
 https://apps.apple.com/us/app/t-mobile/id561625752
 https://apps.apple.com/us/app/tesla/id582007913
+https://apps.apple.com/us/app/ticketmaster-buy-sell-tickets/id500003565
 https://apps.apple.com/us/app/tripadvisor-plan-book-trips/id284876795
 https://apps.apple.com/us/app/under-armour/id1092704571
 https://apps.apple.com/us/app/usaa-mobile/id312325565
@@ -8732,6 +8744,7 @@ https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
 https://signature.blis.com
 https://signin-hackerone.hbstaging.website/
 https://signup.sendgrid.com/
+https://signup.ticketmaster.com/bugbountytest
 https://simnext.bullish-test.com
 https://simplisafe.co.uk
 https://simplisafe.com
@@ -9848,6 +9861,8 @@ lists.nextcloud.com
 lists.wordpress.org
 live-backstage.tiktok.com
 live-service.whatnot.com
+livenation.com
+livenation.me
 ljc-test.tw.coupang.com
 ljc.tw.coupang.com
 lms-stg-develop.eks-stg-use1.getaws.arubanetworks.com
@@ -11306,6 +11321,12 @@ thebrowser.company
 therapeutics.23andme.com
 therecord.media
 thisiswhyweplay.nba.com
+ticketmaster.ca
+ticketmaster.co.uk
+ticketmaster.com
+ticketmaster.com.br
+ticketmaster.com.mx
+ticketmaster.de
 tickets.crypto.com
 tickets.kinepolis.be
 tickets.kinepolis.ch
@@ -11812,7 +11833,9 @@ www.lastminute.co.nz
 www.lastminute.com.au
 www.leather.io
 www.libelle.nl
+www.lineup.com.mx
 www.linkedin.com
+www.livenation.co.uk
 www.livestream.com
 www.loanbuilder.com
 www.logicool.co.jp
@@ -11864,6 +11887,7 @@ www.nba.com
 www.netflix.com
 www.omise.co
 www.onsexprime.fr
+www.onthewaterfrontfestival.com
 www.opn.ooo
 www.optimuscards.com
 www.orbitz.com
@@ -11898,6 +11922,7 @@ www.recordedfuture.com
 www.redoxengine.com
 www.ritzcarlton.com/
 www.rockstargames.com
+www.royalarena.dk
 www.s-kaupat.fi
 www.s-pankki.fi
 www.sa.dyson.com
