@@ -708,7 +708,7 @@ www.paypal-*.com
 *.scopely.io
 *.withbuddies.com
 *.buddypress.org,bbpress.org,profiles.wordpress.org
-*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
+*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.wordcamp.org
 *.wordpress.net
 *.wordpress.org

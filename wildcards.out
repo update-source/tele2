@@ -158,6 +158,7 @@
 *.bitdefender.com
 *.bitdefender.net
 *.bitgo.com
+*.bitoasis.net
 *.blinkforhome.com/*
 *.blofin.com
 *.boardkingsgame.com
@@ -234,6 +235,7 @@
 *.cognitiveperformer.com
 *.coinbase-corp.com
 *.coinbase.com
+*.coindcx.com
 *.computerbild.de
 *.consumer.worldcoin.org
 *.contactallerg(y|ie).uzleuven.be
@@ -255,9 +257,12 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
 *.deliciousbrains.com
+*.dell.com/*
+*.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
 *.demorgen.be
 *.deribit.com
@@ -1035,7 +1040,7 @@
 *.toolsforhumanity.com
 *.topperpay.com
 *.tospotify.com
-*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
+*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
 *.transferwise.com
 *.travelbook.de
@@ -1049,9 +1054,6 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tucarro.com.ve

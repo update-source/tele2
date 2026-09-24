@@ -1183,6 +1183,7 @@
 *.toolsforhumanity.com
 *.topperpay.com
 *.tospotify.com
+*.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org, github.com/WordPress
 *.trafficjunky.com
 *.trainpal.com,*.mytrainpal.com

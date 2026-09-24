@@ -305,7 +305,8 @@ https://events.1password.com/api/
 Arc on Mac
 Arc on Windows
 Dia Assistant
-Dia Browser
+Dia on MacOS
+Dia on Windows
 arc.net
 bcny.com
 company.thebrowser.arc
@@ -829,10 +830,16 @@ https://vault.chiatest.net/
 3CX Phone System
 3CX SBC
 Other
+activate.3cx.com
+downloads-global.3cx.com
 https://apps.apple.com/us/app/3cx/id992045982
 https://apps.microsoft.com/detail/3cx/9NW77489NGJ0
 https://play.google.com/store/apps/details?id=com.tcx.sipphone14
 https://portal.3cx.com
+mailproxy.3cx.com
+repo.3cx.com
+rps.3cx.com
+wmr.3cx.net
 @privy-io controlled namespace dependencies
 api.privy.io
 auth.privy.io
@@ -1988,7 +1995,6 @@ mcp.faraday.ai
 pro.faraday.ai
 row.pro
 s3://faraday-secret
-s3://faraday-uploads
 vault2.faraday.ai
 Android Playstation App
 PlayStation 4
@@ -2907,7 +2913,6 @@ accounts.cloud.databricks.com
 databricks.com
 https://dbc-9a3f8ed1-7608.cloud.databricks.com
 Elastic Credentials
-Other
 Software Supply Chain
 Subdomain takeover
 GS Select iOS app
@@ -3122,6 +3127,7 @@ www.geneva-staging.chat
 www.geneva-staging.com
 Anchor
 Android SDK
+Confidence Domains
 Core Assets
 Core Backstage source code
 DRM (Digital Rights Management) System
@@ -3285,7 +3291,6 @@ com.brave.ios.browser
 https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
-Burp Suite Extension (BApps)
 Burp Suite Pro/Community
 ai.portswigger.net
 collections.portswigger.net
@@ -3340,15 +3345,20 @@ id1427744264
 id1541153375
 id1621328561
 BuddyPress Core
+Create Block Theme
 GlotPress
 Gutenberg
 Official WordPress plugins
+Playground
+SQLite Database Integration
+Secure Custom Fields
 WP-CLI
 WordPress Core
 api.wordpress.org
 bbPress Core
 codex.wordpress.org,codex.bbpress.org,codex.buddypress.org
 doaction.org
+github.com/wordpress
 mercantile.wordpress.org
 planet.wordpress.org
 wordpressfoundation.org

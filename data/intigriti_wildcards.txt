@@ -43,6 +43,7 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
+*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -145,9 +146,6 @@ Leaked/compromised employee accounts *.here.com
 *.stag.weareone.world
 *.tomorrowland.com
 *.trouw.nl
-*.truelayer.cloud
-*.truelayer.com
-*.truelayer.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
