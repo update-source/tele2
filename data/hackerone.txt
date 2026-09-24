@@ -797,6 +797,8 @@ Klarna Android App (com.myklarnamobile)
 Klarna iOS App (com.klarna.app)
 Merchant Portal
 app.klarna.com
+kmc.kaltura.com
+mediaspace.kaltura.com
 [Unico] Liveness Bypass
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
@@ -2665,6 +2667,8 @@ hotel-development.marriott.com
 http://www.shopmarriott.com
 https://dcfgatewaytst1.marriott.com/
 https://gatewaydsapdev2.marriott.com/
+https://gatewaydsapprd.marriott.com/v1/
+https://gatewaydsapprd.marriott.com/v2/
 https://gatewaydsaptst1.marriott.com/
 https://gatewaydsaptst2.marriott.com/
 ifast.marriott.com
