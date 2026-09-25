@@ -7,7 +7,6 @@
  UniFi OS Server
  com.citymapper.app.release
  https://api-*exoscale.com/v2
- idp-contact.nexuzhealth.be
  login-test.portofantwerpbruges.com/
  mix.monash.edu 
  new CDI-based architecture
@@ -431,10 +430,6 @@
 *.global-liquidity.gs.com
 *.go-pay.co.id
 *.gobiz.co.id
-*.gocardless-cicd.io
-*.gocardless-lab.io
-*.gocardless.dev
-*.gocardless.io,*.gocardless-banking.io
 *.gofood.co.id
 *.gofoodmerchant.co.id
 *.gojek.com
@@ -888,6 +883,7 @@
 *.redditmedia.com
 *.redecor.com
 *.registry.eu
+*.rekap.8x8.com
 *.rentalcars.com
 *.report.uat.proptrack.com
 *.reposify.com
@@ -2874,7 +2870,6 @@ api-gw-cf.*.aws.indriverapp.com
 api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
-api-sandbox.gocardless.com
 api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
@@ -3217,7 +3212,6 @@ auth.services.adobe.com
 auth.skypicker.com
 auth.truelayer[-sandbox].com
 auth0.com	
-auth0.gocardless.com
 auth0.net
 authentication.clearme.com
 authentication.wolt.com
@@ -3239,7 +3233,6 @@ bal-uat.nba.com
 bal.nba.com
 ballistic.com
 ballistic.com.br
-bankaccountdata.gocardless.com
 basecamp-setup.exe
 basecamp.rivian.com
 battles.tv
@@ -3876,7 +3869,6 @@ config.cic-bug-bounty.auth0app.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
-connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network 
 connect.posti.fi
@@ -4055,7 +4047,6 @@ developer.authorize.net
 developer.crypto.com
 developer.currencycloud.com
 developer.cybersource.com
-developer.gocardless.com
 developer.gs.com
 developer.konghq.com
 developer.playcanvas.com
@@ -4162,6 +4153,7 @@ education.github.com
 eero Devices
 efast.marriott.com
 effecthouse.tiktok.com
+eg.ht
 egaming.kinepolis.es
 eidhelp.marriott.com
 elm.nba.com
@@ -4493,7 +4485,6 @@ http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
 http://secure-iphone-xml.booking.com/json/
 http://socialdeal.nl/inspirations/bluemonday/
-http://sso-demo.gocardless-staging.io
 http://testnet.bybit.eu
 http://tsock.us1.twilio.com
 http://twilio.com/blog
@@ -5318,7 +5309,6 @@ https://github.com/fireblocks/mpc-lib
 https://github.com/freedomofpress/securedrop
 https://github.com/freedomofpress/securedrop-client
 https://github.com/freedomofpress/securedrop-workstation
-https://github.com/gocardless
 https://github.com/immutable/ts-immutable-sdk/tree/main/packages/passport/
 https://github.com/innocraft/
 https://github.com/jitsi
@@ -6361,7 +6351,6 @@ https://nvio.mx/
 https://nvoice.usaa.com/
 https://nw.ring.com/*
 https://oauth.ring.com/*
-https://ob-sandbox.gocardless.io
 https://octopus.com
 https://octopus.com/downloads
 https://odesli.co
@@ -7631,7 +7620,6 @@ maine-qa.gleague.nba.com
 maine.gleague.nba.com
 maintenance.logitech.com
 manage-dev.nba.com
-manage-sandbox.gocardless.com
 manage-teams-dev.nba.com
 manage-teams-qa.nba.com
 manage-teams-uat.nba.com
@@ -7698,7 +7686,6 @@ media.marionnaud.hu
 media.marionnaud.it
 media.marionnaud.ro
 media.marionnaud.sk
-media.nexuzhealth.be/patient/ 
 media.remitly.io
 media.savers.co.uk
 media.simplisafe.com
@@ -7984,9 +7971,7 @@ nvJitLink APIs
 nycbasketball.nba.com
 nz.co.vista.android.movie.mjrtheatres
 oasisprod.marriott.com
-oauth-sandbox.gocardless.com
 oauth.deriv.com
-ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
@@ -8070,7 +8055,6 @@ pastela.app
 pay*.indriverapp.com
 pay-admin.exodus.io
 pay-api.truelayer[-sandbox].com
-pay-sandbox.gocardless.com
 pay.8x8.com
 pay.exodus.io
 pay.ibex.exchange
@@ -8080,7 +8064,6 @@ pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
 paydirect.truelayer[-sandbox].com
-payer-details-sandbox.gocardless.com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
@@ -9091,7 +9074,6 @@ www.geneva-staging.chat
 www.geneva-staging.com
 www.getaroom.com
 www.giving.marriott.com
-www.gocardless.com
 www.goodrx.com
 www.gr.dyson.com
 www.greenhouse.io

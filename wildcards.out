@@ -415,10 +415,6 @@
 *.global-liquidity.gs.com
 *.go-pay.co.id
 *.gobiz.co.id
-*.gocardless-cicd.io
-*.gocardless-lab.io
-*.gocardless.dev
-*.gocardless.io,*.gocardless-banking.io
 *.gofood.co.id
 *.gofoodmerchant.co.id
 *.gojek.com
@@ -872,6 +868,7 @@
 *.redditmedia.com
 *.redecor.com
 *.registry.eu
+*.rekap.8x8.com
 *.rentalcars.com
 *.report.uat.proptrack.com
 *.reposify.com

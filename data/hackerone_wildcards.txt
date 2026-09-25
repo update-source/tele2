@@ -290,6 +290,7 @@ onboarding-*.cloud.com
 *.packet8-pilot.net
 *.preview.8x8.vc
 *.prod.cloud.8x8.com
+*.rekap.8x8.com
 *.staging.cloud.8x8.com
 *.thinkingphones.com
 *.thinkingphones.net
@@ -345,10 +346,6 @@ GenAI Apps under *.amazon.*
 *.a.exodus.io
 *.exodus.com
 *.exodus.io
-*.gocardless-cicd.io
-*.gocardless-lab.io
-*.gocardless.dev
-*.gocardless.io,*.gocardless-banking.io
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
 *.airstar-finance.com
