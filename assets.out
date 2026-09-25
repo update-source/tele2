@@ -7,6 +7,7 @@
  UniFi OS Server
  com.citymapper.app.release
  https://api-*exoscale.com/v2
+ idp-contact.nexuzhealth.be
  login-test.portofantwerpbruges.com/
  mix.monash.edu 
  new CDI-based architecture
@@ -1853,8 +1854,6 @@ Box Drive
 Box Tools
 Braintree SDK
 Brand Sites
-Brave Browser Desktop
-Brave websites
 Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -2395,7 +2394,6 @@ Playground
 Podsights
 Point Smart
 Porsche-B
-PowerDNS authoritative server, recursor and DNSdist (see "Software packages" and "Source-code")
 Presentation Remotes
 Primary Assets
 Privilege Escalation
@@ -3556,8 +3554,6 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
-com.brave.browser
-com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -5254,7 +5250,6 @@ https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
-https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -7677,6 +7672,7 @@ media.marionnaud.hu
 media.marionnaud.it
 media.marionnaud.ro
 media.marionnaud.sk
+media.nexuzhealth.be/patient/ 
 media.remitly.io
 media.savers.co.uk
 media.simplisafe.com
