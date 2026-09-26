@@ -822,8 +822,6 @@ Klarna Android App (com.myklarnamobile)
 Klarna iOS App (com.klarna.app)
 Merchant Portal
 app.klarna.com
-kmc.kaltura.com
-mediaspace.kaltura.com
 [Unico] Liveness Bypass
 accountshomolog.acesso.io
 backend-sdk.uat.private.unico.run
